@@ -2624,14 +2624,45 @@
     "whatsappGroupUrl": "",
     "telegramGroupUrl": ""
   },
-  "google_play": [],
+  "google_play": [
+    {
+      "appName": "HYPERION EARN",
+      "appDescription": "Main app to earn coins and redeem rewards.",
+      "appLogo": "https://play-lh.googleusercontent.com/iTrOR48Lcdxx8Go1POJqeiuXiRB4L4ZdmFYXgVAN7q_DckGtR7W1JMgxM2rF_Ip3r_yAcb6w_SWpqjNBuQFjiFc=w480-h960-rw",
+      "appUrl": "https://play.google.com/store/apps/details?id=com.coderxsa.cryptalis",
+      "groups": [
+        "https://chat.whatsapp.com/LK4KY4NOKDFIvAfbcd8AGZ",
+        "https://chat.whatsapp.com/KwcqGpVNlE01lASxo6IQSQ"
+      ]
+    },
+    {
+      "appName": "BLOCKY JAM",
+      "appDescription": "Fun offline game and do challenges.",
+      "appLogo": "https://yourdomain.com/assets/logo.png",
+      "appUrl": "https://play.google.com/store/apps/details?id=com.coderxsa.blockyjam",
+      "groups": [
+        "https://chat.whatsapp.com/LK4KY4NOKDFIvAfbcd8AGZ",
+        "https://chat.whatsapp.com/KwcqGpVNlE01lASxo6IQSQ"
+      ]
+    },
+    {
+      "appName": "ISLAND RESORT",
+      "appDescription": "Fun offline game and do challenges and grow your resort.",
+      "appLogo": "https://yourdomain.com/assets/logo.png",
+      "appUrl": "https://play.google.com/store/apps/details?id=com.coderxsa.islandresort",
+      "groups": [
+        "https://chat.whatsapp.com/LK4KY4NOKDFIvAfbcd8AGZ",
+        "https://chat.whatsapp.com/KwcqGpVNlE01lASxo6IQSQ"
+      ]
+    }
+  ],
   "event_stats": {
     "totalUsers": 25,
     "totalTickets": 0,
     "totalCoins": 159945,
     "lastReset": null,
     "lastWinner": null,
-    "snapshotAt": "2026-10-29T12:21:03.777Z"
+    "snapshotAt": "2026-10-29T12:25:30.521Z"
   },
   "leaderboard": [
     {
