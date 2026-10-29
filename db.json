@@ -935,7 +935,9 @@
         "profileArt": null
       },
       "lastActiveAt": "2026-10-27T03:44:51.498Z",
-      "lastLoginAt": "2026-10-27T03:44:51.498Z"
+      "lastLoginAt": "2026-10-27T03:44:51.498Z",
+      "rewardCoins": 0,
+      "cratesOpened": 0
     },
     {
       "id": "3704bf17-9bcd-4eb9-a744-dd21c2d0fc78",
@@ -975,7 +977,9 @@
         "profileArt": null
       },
       "lastActiveAt": "2026-10-26T13:53:02.853Z",
-      "lastLoginAt": "2026-10-26T13:53:02.853Z"
+      "lastLoginAt": "2026-10-26T13:53:02.853Z",
+      "rewardCoins": 0,
+      "cratesOpened": 0
     },
     {
       "id": "006d2c67-5e0b-4e35-9f07-38929e00c8b2",
@@ -1014,7 +1018,9 @@
         "frame": null,
         "profileArt": null
       },
-      "lastActiveAt": "2026-10-26T13:58:32.936Z"
+      "lastActiveAt": "2026-10-26T13:58:32.936Z",
+      "rewardCoins": 0,
+      "cratesOpened": 0
     },
     {
       "id": "6de9b90d-0aaf-496d-b55f-06f09c3662f3",
@@ -1054,33 +1060,12 @@
         "profileArt": null
       },
       "lastActiveAt": "2026-10-28T18:25:47.707Z",
-      "lastLoginAt": "2026-10-28T18:25:47.707Z"
+      "lastLoginAt": "2026-10-28T18:25:47.707Z",
+      "rewardCoins": 0,
+      "cratesOpened": 0
     }
   ],
-  "transactions": [
-    {
-      "txId": "game_reward_a1c50954-9f7a-4a2e-bd52-d2f4cc03b772_game_neon_surge_1793257860983",
-      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
-      "type": "CREDIT",
-      "currency": "coins",
-      "amount": 200,
-      "reason": "Game reward: Neon Surge",
-      "referenceId": "game_reward_game_neon_surge",
-      "balanceBefore": 169,
-      "balanceAfter": 369,
-      "createdAt": "2026-10-29T07:11:00.988Z",
-      "recordedAt": "2026-10-29T07:11:00.989Z"
-    },
-    {
-      "txId": "613e8b1f-4ae9-4c0d-8d29-673acbafff67",
-      "type": "deposit",
-      "toUserId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
-      "toUsername": "1",
-      "amount": 10000,
-      "source": "app_deposit",
-      "recordedAt": "2026-10-29T07:11:45.024Z"
-    }
-  ],
+  "transactions": [],
   "coin_orders": [
     {
       "id": "COIN-F4378BF7",
@@ -2544,9 +2529,6 @@
       "createdAt": "2026-10-07T16:11:29.903Z"
     }
   ],
-  "site_settings": {
-    "theme": "cosmo"
-  },
   "lottery_state": {
     "pool": 0,
     "jackpot": 0,
@@ -2623,27 +2605,64 @@
       "createdAt": "2026-10-20T10:38:21.041Z"
     }
   ],
-  "game_rewards": [
-    {
-      "id": "gr_1793257860992_01pbh",
-      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
-      "gameId": "game_neon_surge",
-      "gameName": "Neon Surge",
-      "coins": 200,
-      "durationMinutes": 1,
-      "createdAt": "2026-10-29T07:11:00.992Z"
-    }
-  ],
+  "game_rewards": [],
   "user_games": [],
   "sponsorships": [],
   "social_posts": [],
+  "site_settings": {
+    "theme": "cosmo",
+    "appAvatarUrl": "",
+    "appName": "Hyperion",
+    "appDescription": "",
+    "appIconUrl": "",
+    "appImageUrl": "",
+    "appBannerUrl": "",
+    "playStoreUrl": "",
+    "googlePlayUrl": "",
+    "androidAppUrl": "",
+    "groupUrl": "",
+    "whatsappGroupUrl": "",
+    "telegramGroupUrl": ""
+  },
+  "google_play": [
+    {
+      "appName": "Your App Name",
+      "appDescription": "Your comprehensive app description goes here. Detail your features, benefits, and key value propositions for prospective users.",
+      "appLogo": "https://yourdomain.com/assets/logo.png",
+      "appUrl": "https://play.google.com/store/apps/details?id=com.yourcompany.yourapp",
+      "groups": [
+        "https://chat.whatsapp.com/ExampleGroupUrl1",
+        "https://t.me/ExampleGroupUrl2"
+      ]
+    },
+    {
+      "appName": "Your App Name2",
+      "appDescription": "Your comprehensive app description goes here. Detail your features, benefits, and key value propositions for prospective users.",
+      "appLogo": "https://yourdomain.com/assets/logo.png",
+      "appUrl": "https://play.google.com/store/apps/details?id=com.yourcompany.yourapp2",
+      "groups": [
+        "https://chat.whatsapp.com/ExampleGroupUrl3",
+        "https://t.me/ExampleGroupUrl4"
+      ]
+    },
+    {
+      "appName": "Your App Name3",
+      "appDescription": "Your comprehensive app description goes here. Detail your features, benefits, and key value propositions for prospective users.",
+      "appLogo": "https://yourdomain.com/assets/logo.png",
+      "appUrl": "https://play.google.com/store/apps/details?id=com.yourcompany.yourapp3",
+      "groups": [
+        "https://chat.whatsapp.com/ExampleGroupUrl5",
+        "https://t.me/ExampleGroupUrl6"
+      ]
+    }
+  ],
   "event_stats": {
     "totalUsers": 25,
     "totalTickets": 0,
     "totalCoins": 159945,
     "lastReset": null,
     "lastWinner": null,
-    "snapshotAt": "2026-10-29T07:46:53.387Z"
+    "snapshotAt": "2026-10-29T09:43:46.291Z"
   },
   "leaderboard": [
     {
