@@ -2624,38 +2624,7 @@
     "whatsappGroupUrl": "",
     "telegramGroupUrl": ""
   },
-  "google_play": [
-    {
-      "appName": "Your App Name",
-      "appDescription": "Your comprehensive app description goes here. Detail your features, benefits, and key value propositions for prospective users.",
-      "appLogo": "https://yourdomain.com/assets/logo.png",
-      "appUrl": "https://play.google.com/store/apps/details?id=com.yourcompany.yourapp",
-      "groups": [
-        "https://chat.whatsapp.com/ExampleGroupUrl1",
-        "https://t.me/ExampleGroupUrl2"
-      ]
-    },
-    {
-      "appName": "Your App Name2",
-      "appDescription": "Your comprehensive app description goes here. Detail your features, benefits, and key value propositions for prospective users.",
-      "appLogo": "https://yourdomain.com/assets/logo.png",
-      "appUrl": "https://play.google.com/store/apps/details?id=com.yourcompany.yourapp2",
-      "groups": [
-        "https://chat.whatsapp.com/ExampleGroupUrl3",
-        "https://t.me/ExampleGroupUrl4"
-      ]
-    },
-    {
-      "appName": "Your App Name3",
-      "appDescription": "Your comprehensive app description goes here. Detail your features, benefits, and key value propositions for prospective users.",
-      "appLogo": "https://yourdomain.com/assets/logo.png",
-      "appUrl": "https://play.google.com/store/apps/details?id=com.yourcompany.yourapp3",
-      "groups": [
-        "https://chat.whatsapp.com/ExampleGroupUrl5",
-        "https://t.me/ExampleGroupUrl6"
-      ]
-    }
-  ],
+  "google_play": [],
   "event_stats": {
     "totalUsers": 25,
     "totalTickets": 0,
