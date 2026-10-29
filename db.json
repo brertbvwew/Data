@@ -39,8 +39,8 @@
       },
       "cratesOpened": 0,
       "lastCoinPurchaseAt": "2026-10-08T12:27:31.647Z",
-      "lastActiveAt": "2026-10-28T19:16:31.462Z",
-      "lastLoginAt": "2026-10-28T19:16:31.462Z"
+      "lastActiveAt": "2026-10-29T20:19:38.513Z",
+      "lastLoginAt": "2026-10-29T20:19:38.513Z"
     },
     {
       "id": "f37cbcb5-80ed-4869-a4e4-2e7e19b0c0aa",
@@ -81,8 +81,8 @@
         "profileArt": null
       },
       "cratesOpened": 0,
-      "lastLoginAt": "2026-10-24T10:57:09.762Z",
-      "lastActiveAt": "2026-10-24T10:57:09.762Z"
+      "lastLoginAt": "2026-10-29T20:55:37.050Z",
+      "lastActiveAt": "2026-10-29T20:55:37.050Z"
     },
     {
       "id": "51378108-d6dd-46a4-9d88-d5112bfb73f0",
@@ -272,7 +272,7 @@
       "role": "user",
       "referralCode": "1-GI1UX",
       "transferHash": "D0ASA08",
-      "coins": 10369,
+      "coins": 10569,
       "tickets": 0,
       "totalReferrals": 0,
       "monthlyReferrals": 0,
@@ -288,7 +288,7 @@
       "lastClaimDate": null,
       "gamesPlayed": 206,
       "gamesWon": 60,
-      "lifetimeCoinsEarned": 170159,
+      "lifetimeCoinsEarned": 170359,
       "lifetimeCoinsSpent": 55155,
       "level": 11,
       "xp": 2425,
@@ -302,8 +302,8 @@
         "profileArt": null
       },
       "cratesOpened": 0,
-      "lastLoginAt": "2026-10-29T07:09:16.707Z",
-      "lastActiveAt": "2026-10-29T07:09:16.707Z",
+      "lastLoginAt": "2026-10-29T20:18:16.982Z",
+      "lastActiveAt": "2026-10-29T20:18:16.982Z",
       "botLoginKeyHash": "916ac12e65756ba778fc5eaf9d0c6f15a02467c9f9b1b0347b43387e45d60f93",
       "botLoginKeyExpiresAt": "2026-10-22T20:23:22.504Z",
       "banExpiresAt": null,
@@ -892,10 +892,10 @@
         "frame": null,
         "profileArt": null
       },
-      "lastActiveAt": "2026-10-27T10:29:19.944Z",
+      "lastActiveAt": "2026-10-29T19:34:03.834Z",
       "rewardCoins": 0,
       "cratesOpened": 0,
-      "lastLoginAt": "2026-10-27T10:29:19.944Z"
+      "lastLoginAt": "2026-10-29T19:34:03.834Z"
     },
     {
       "id": "b45a3976-18da-4ab6-ae48-1b098006d3fd",
@@ -1063,6 +1063,46 @@
       "lastLoginAt": "2026-10-28T18:25:47.707Z",
       "rewardCoins": 0,
       "cratesOpened": 0
+    },
+    {
+      "id": "2e798f78-7028-46e4-89f1-501f3091af71",
+      "username": "raingoku",
+      "email": "curiousp261@gmail.com",
+      "password": "$a8-j2R7m82b_2!",
+      "passwordHash": null,
+      "role": "user",
+      "referralCode": "RAIN-X7FEU",
+      "transferHash": "D0MXG6I",
+      "coins": 0,
+      "tickets": 0,
+      "totalReferrals": 0,
+      "monthlyReferrals": 0,
+      "hasRedeemedReferral": false,
+      "totalSpins": 0,
+      "lastSpinAt": null,
+      "lastCoinPurchaseAt": null,
+      "trophies": 0,
+      "banned": false,
+      "createdAt": "2026-10-29T13:15:12.940Z",
+      "currentStreak": 0,
+      "longestStreak": 0,
+      "lastClaimDate": null,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "lifetimeCoinsEarned": 0,
+      "lifetimeCoinsSpent": 0,
+      "level": 1,
+      "xp": 0,
+      "rewardCoins": 0,
+      "cosmetics": {
+        "frames": [],
+        "profileArt": []
+      },
+      "equippedCosmetics": {
+        "frame": null,
+        "profileArt": null
+      },
+      "lastActiveAt": "2026-10-29T13:15:19.219Z"
     }
   ],
   "transactions": [],
@@ -1126,6 +1166,32 @@
       "requiredMinutes": 1,
       "hostShare": null,
       "ts": "2026-10-29T07:11:00.996Z"
+    },
+    {
+      "type": "new_user",
+      "username": "raingoku",
+      "referredBy": null,
+      "ts": "2026-10-29T13:15:12.962Z"
+    },
+    {
+      "type": "game_reward",
+      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
+      "username": "1",
+      "game": "Neon Surge",
+      "coins": 200,
+      "durationMinutes": 1,
+      "requiredMinutes": 1,
+      "hostShare": null,
+      "ts": "2026-10-29T19:11:15.023Z"
+    },
+    {
+      "type": "reward_claim",
+      "userId": "f37cbcb5-80ed-4869-a4e4-2e7e19b0c0aa",
+      "username": "kaab0._",
+      "rewardName": "Instagram 20 Followers",
+      "cost": 10,
+      "ref": "#claim_1793304962726_fap1h",
+      "ts": "2026-10-29T20:16:02.731Z"
     }
   ],
   "rewards": [
@@ -1461,6 +1527,25 @@
       "idempotencyKey": "claim_f37cbcb5-80ed-4869-a4e4-2e7e19b0c0aa_instagram-followers-free_1792841001934",
       "processingEstimate": "1-2 Days",
       "processedAt": "2026-10-24T11:25:34.765Z",
+      "processedBy": "admin"
+    },
+    {
+      "id": "claim_1793304962727_vzakr",
+      "status": "REJECTED",
+      "createdAt": "2026-10-29T20:16:02.727Z",
+      "userId": "f37cbcb5-80ed-4869-a4e4-2e7e19b0c0aa",
+      "username": "kaab0._",
+      "rewardId": "instagram-followers-free",
+      "rewardName": "Instagram 20 Followers",
+      "title": "Instagram 20 Followers",
+      "referenceHash": "#claim_1793304962726_fap1h",
+      "recipientId": "kaab0._",
+      "icon": "📸",
+      "coinCost": 10,
+      "voucherCode": "Pending Delivery...",
+      "idempotencyKey": "claim_f37cbcb5-80ed-4869-a4e4-2e7e19b0c0aa_instagram-followers-free_1793304962697",
+      "processingEstimate": "1-2 Days",
+      "processedAt": "2026-10-29T20:21:05.607Z",
       "processedBy": "admin"
     }
   ],
@@ -2657,12 +2742,12 @@
     }
   ],
   "event_stats": {
-    "totalUsers": 25,
+    "totalUsers": 26,
     "totalTickets": 0,
-    "totalCoins": 159945,
+    "totalCoins": 160145,
     "lastReset": null,
     "lastWinner": null,
-    "snapshotAt": "2026-10-29T12:25:30.521Z"
+    "snapshotAt": "2026-10-29T23:25:31.006Z"
   },
   "leaderboard": [
     {
@@ -3743,6 +3828,14 @@
       "amount": 10000,
       "balanceBefore": 369,
       "balanceAfter": 10369
+    },
+    {
+      "id": "user_register_1793279712958",
+      "type": "user_register",
+      "timestamp": "2026-10-29T13:15:12.958Z",
+      "userId": "2e798f78-7028-46e4-89f1-501f3091af71",
+      "username": "raingoku",
+      "referredBy": null
     }
   ]
 }
