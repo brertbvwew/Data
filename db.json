@@ -39,8 +39,8 @@
       },
       "cratesOpened": 0,
       "lastCoinPurchaseAt": "2026-10-08T12:27:31.647Z",
-      "lastActiveAt": "2026-10-29T20:19:38.513Z",
-      "lastLoginAt": "2026-10-29T20:19:38.513Z"
+      "lastActiveAt": "2026-10-30T07:01:46.379Z",
+      "lastLoginAt": "2026-10-30T07:01:46.379Z"
     },
     {
       "id": "f37cbcb5-80ed-4869-a4e4-2e7e19b0c0aa",
@@ -892,10 +892,10 @@
         "frame": null,
         "profileArt": null
       },
-      "lastActiveAt": "2026-10-29T19:34:03.834Z",
+      "lastActiveAt": "2026-10-30T08:10:46.743Z",
       "rewardCoins": 0,
       "cratesOpened": 0,
-      "lastLoginAt": "2026-10-29T19:34:03.834Z"
+      "lastLoginAt": "2026-10-30T08:10:46.743Z"
     },
     {
       "id": "b45a3976-18da-4ab6-ae48-1b098006d3fd",
@@ -1152,21 +1152,25 @@
       "buyCoinsUsed": 120,
       "status": "pending",
       "createdAt": "2026-10-20T11:53:32.844Z"
+    },
+    {
+      "id": "COIN-E3DC2D58",
+      "reference": "CR-DEMO-COIN-E3DC2D58-50000",
+      "userId": "fa18399c-10d6-4b30-8783-a9549e5f475c",
+      "username": "demo",
+      "email": "demo@gmail.com",
+      "coins": 50000,
+      "baseAmount": 12,
+      "discountAmount": 0,
+      "amount": 12,
+      "currency": "ZAR",
+      "buyCoinsUsed": 0,
+      "status": "pending",
+      "createdAt": "2026-10-30T02:25:19.972Z"
     }
   ],
   "withdrawal_requests": [],
   "activity_logs": [
-    {
-      "type": "game_reward",
-      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
-      "username": "1",
-      "game": "Neon Surge",
-      "coins": 200,
-      "durationMinutes": 1,
-      "requiredMinutes": 1,
-      "hostShare": null,
-      "ts": "2026-10-29T07:11:00.996Z"
-    },
     {
       "type": "new_user",
       "username": "raingoku",
@@ -2619,7 +2623,7 @@
     "jackpot": 0,
     "drawNumber": 2,
     "lastWinner": "匚尺乇卂ㄒㄖ尺",
-    "lastDrawAt": "2026-10-29T00:00:08.258Z",
+    "lastDrawAt": "2026-10-30T00:00:29.069Z",
     "lastDraw": {
       "drawNumber": 1,
       "winner": "匚尺乇卂ㄒㄖ尺",
@@ -2747,7 +2751,7 @@
     "totalCoins": 160145,
     "lastReset": null,
     "lastWinner": null,
-    "snapshotAt": "2026-10-29T23:25:31.006Z"
+    "snapshotAt": "2026-10-30T10:25:30.633Z"
   },
   "leaderboard": [
     {
