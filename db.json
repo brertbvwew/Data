@@ -1175,13 +1175,6 @@
     {
       "type": "daily_bonus",
       "username": "匚尺乇卂ㄒㄖ尺",
-      "coins": 100,
-      "streak": 1,
-      "ts": "2026-10-30T14:46:30.323Z"
-    },
-    {
-      "type": "daily_bonus",
-      "username": "匚尺乇卂ㄒㄖ尺",
       "coins": 150,
       "streak": 2,
       "ts": "2026-10-31T07:26:28.138Z"
@@ -2835,7 +2828,7 @@
     "totalCoins": 118895,
     "lastReset": null,
     "lastWinner": null,
-    "snapshotAt": "2026-10-31T14:56:31.204Z"
+    "snapshotAt": "2026-10-31T14:57:56.575Z"
   },
   "leaderboard": [
     {
