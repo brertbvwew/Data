@@ -39,8 +39,8 @@
       },
       "cratesOpened": 0,
       "lastCoinPurchaseAt": "2026-10-08T12:27:31.647Z",
-      "lastActiveAt": "2026-10-31T14:06:05.496Z",
-      "lastLoginAt": "2026-10-31T14:06:05.496Z"
+      "lastActiveAt": "2026-10-31T14:44:29.665Z",
+      "lastLoginAt": "2026-10-31T14:44:29.665Z"
     },
     {
       "id": "f37cbcb5-80ed-4869-a4e4-2e7e19b0c0aa",
@@ -1270,7 +1270,12 @@
       "icon": "💎",
       "asset": "https://raw.githubusercontent.com/coderxsa/Assets/refs/heads/main/images/rewards/free-fire.png",
       "requiredInput": "Player ID",
-      "status": "ACTIVE"
+      "status": "ACTIVE",
+      "originalCoinCost": 15000,
+      "originalAppCoinCost": 250000,
+      "discountedAppCoinCost": 237500,
+      "isDiscounted": true,
+      "discountExpiresAt": 1793491200000
     },
     {
       "id": "codm-80",
@@ -1382,7 +1387,13 @@
       "icon": "🎮",
       "asset": "https://raw.githubusercontent.com/coderxsa/Assets/refs/heads/main/images/rewards/play-station.png",
       "requiredInput": "Account Details",
-      "status": "ACTIVE"
+      "status": "ACTIVE",
+      "originalCoinCost": 65000,
+      "originalAppCoinCost": 1083333,
+      "discountedAppCoinCost": 1029167,
+      "isDiscounted": true,
+      "discountExpiresAt": 1793491200000,
+      "updatedAt": "2026-10-31T14:45:10.274Z"
     },
     {
       "id": "xbox-topup",
@@ -1396,7 +1407,8 @@
       "icon": "❎",
       "asset": "https://raw.githubusercontent.com/coderxsa/Assets/refs/heads/main/images/rewards/xbox.png",
       "requiredInput": "Account Details",
-      "status": "ACTIVE"
+      "status": "ACTIVE",
+      "updatedAt": "2026-10-31T14:52:46.030Z"
     },
     {
       "id": "netflix-sub",
@@ -1410,7 +1422,9 @@
       "icon": "🎬",
       "asset": "https://raw.githubusercontent.com/coderxsa/Assets/refs/heads/main/images/rewards/netflix.png",
       "requiredInput": "Account Details",
-      "status": "ACTIVE"
+      "status": "ACTIVE",
+      "updatedAt": "2026-10-31T14:54:28.366Z",
+      "processingEstimate": ""
     },
     {
       "id": "takealot",
@@ -1424,7 +1438,8 @@
       "icon": "📦",
       "asset": "https://raw.githubusercontent.com/coderxsa/Assets/refs/heads/main/images/rewards/takealot.png",
       "requiredInput": "Account Details",
-      "status": "ACTIVE"
+      "status": "ACTIVE",
+      "updatedAt": "2026-10-31T14:54:06.635Z"
     },
     {
       "id": "instagram-followers-500",
@@ -1438,7 +1453,12 @@
       "icon": "📸",
       "asset": "https://raw.githubusercontent.com/coderxsa/Assets/refs/heads/main/images/rewards/insta-500.png",
       "requiredInput": "Instagram username",
-      "status": "ACTIVE"
+      "status": "ACTIVE",
+      "originalCoinCost": 50000,
+      "originalAppCoinCost": 833333,
+      "discountedAppCoinCost": 791667,
+      "isDiscounted": true,
+      "discountExpiresAt": 1793491200000
     },
     {
       "id": "tiktok-followers-500",
@@ -1494,7 +1514,12 @@
       "icon": "🪖",
       "asset": "https://raw.githubusercontent.com/coderxsa/Assets/refs/heads/main/images/rewards/google-play.png",
       "requiredInput": "Enter Email",
-      "status": "ACTIVE"
+      "status": "ACTIVE",
+      "originalCoinCost": 28000,
+      "originalAppCoinCost": 466667,
+      "discountedAppCoinCost": 443333,
+      "isDiscounted": true,
+      "discountExpiresAt": 1793491200000
     },
     {
       "id": "tiktok-followers-free",
@@ -2810,7 +2835,7 @@
     "totalCoins": 118895,
     "lastReset": null,
     "lastWinner": null,
-    "snapshotAt": "2026-10-31T14:41:22.108Z"
+    "snapshotAt": "2026-10-31T14:56:31.204Z"
   },
   "leaderboard": [
     {
