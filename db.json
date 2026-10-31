@@ -39,8 +39,8 @@
       },
       "cratesOpened": 0,
       "lastCoinPurchaseAt": "2026-10-08T12:27:31.647Z",
-      "lastActiveAt": "2026-10-30T16:21:06.250Z",
-      "lastLoginAt": "2026-10-30T16:21:06.250Z"
+      "lastActiveAt": "2026-10-30T19:09:43.890Z",
+      "lastLoginAt": "2026-10-30T19:09:43.890Z"
     },
     {
       "id": "f37cbcb5-80ed-4869-a4e4-2e7e19b0c0aa",
@@ -173,14 +173,14 @@
       "role": "user",
       "referralCode": "匚尺乇卂-U3JA6",
       "transferHash": "QT4M6UG",
-      "coins": 143265,
+      "coins": 234765,
       "tickets": 0,
       "totalReferrals": 4,
       "monthlyReferrals": 4,
       "hasRedeemedReferral": true,
       "totalSpins": 0,
       "lastSpinAt": null,
-      "lastCoinPurchaseAt": "2026-10-30T16:14:56.669Z",
+      "lastCoinPurchaseAt": "2026-10-30T18:57:04.643Z",
       "trophies": 0,
       "banned": false,
       "createdAt": "2026-10-05T15:28:52.837Z",
@@ -215,8 +215,8 @@
         "profileArt": null
       },
       "cratesOpened": 0,
-      "lastLoginAt": "2026-10-30T16:03:47.379Z",
-      "lastActiveAt": "2026-10-30T16:03:47.379Z",
+      "lastLoginAt": "2026-10-30T18:32:53.804Z",
+      "lastActiveAt": "2026-10-30T18:32:53.804Z",
       "updatedAt": "2026-10-14T18:16:24.294Z",
       "botLoginKeyHash": "65742ce7e01a4cf106692a6cc0294626bf1c7aae1776d8a0b042415cc6e20168",
       "botLoginKeyExpiresAt": "2026-10-28T03:10:29.840Z",
@@ -892,10 +892,10 @@
         "frame": null,
         "profileArt": null
       },
-      "lastActiveAt": "2026-10-30T13:20:24.807Z",
+      "lastActiveAt": "2026-10-30T20:09:09.911Z",
       "rewardCoins": 0,
       "cratesOpened": 0,
-      "lastLoginAt": "2026-10-30T13:20:24.807Z"
+      "lastLoginAt": "2026-10-30T20:09:09.911Z"
     },
     {
       "id": "b45a3976-18da-4ab6-ae48-1b098006d3fd",
@@ -1106,44 +1106,7 @@
       "cratesOpened": 0
     }
   ],
-  "transactions": [
-    {
-      "txId": "88fd5041-bddd-4cd4-af5e-c9646f2477fb",
-      "type": "deposit",
-      "toUserId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
-      "toUsername": "1",
-      "amount": 500,
-      "source": "app_deposit",
-      "recordedAt": "2026-10-30T15:49:44.754Z"
-    },
-    {
-      "txId": "cdb91916-7b1d-4ced-ac0a-b12d7bbc5290",
-      "type": "deposit",
-      "toUserId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "toUsername": "匚尺乇卂ㄒㄖ尺",
-      "amount": 500,
-      "source": "app_deposit",
-      "recordedAt": "2026-10-30T15:59:22.374Z"
-    },
-    {
-      "txId": "760628a1-7a8e-437c-af7c-f63eb9ad1bce",
-      "type": "deposit",
-      "toUserId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "toUsername": "匚尺乇卂ㄒㄖ尺",
-      "amount": 30000,
-      "source": "app_deposit",
-      "recordedAt": "2026-10-30T16:03:15.484Z"
-    },
-    {
-      "txId": "26dd63a9-6a6a-444f-b727-52a53557971b",
-      "type": "deposit",
-      "toUserId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "toUsername": "匚尺乇卂ㄒㄖ尺",
-      "amount": 30500,
-      "source": "app_deposit",
-      "recordedAt": "2026-10-30T16:14:56.676Z"
-    }
-  ],
+  "transactions": [],
   "coin_orders": [
     {
       "id": "COIN-F4378BF7",
@@ -1209,26 +1172,6 @@
   ],
   "withdrawal_requests": [],
   "activity_logs": [
-    {
-      "type": "game_reward",
-      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
-      "username": "1",
-      "game": "Neon Surge",
-      "coins": 200,
-      "durationMinutes": 1,
-      "requiredMinutes": 1,
-      "hostShare": null,
-      "ts": "2026-10-29T19:11:15.023Z"
-    },
-    {
-      "type": "reward_claim",
-      "userId": "f37cbcb5-80ed-4869-a4e4-2e7e19b0c0aa",
-      "username": "kaab0._",
-      "rewardName": "Instagram 20 Followers",
-      "cost": 10,
-      "ref": "#claim_1793304962726_fap1h",
-      "ts": "2026-10-29T20:16:02.731Z"
-    },
     {
       "type": "daily_bonus",
       "username": "匚尺乇卂ㄒㄖ尺",
@@ -2662,7 +2605,7 @@
     "jackpot": 0,
     "drawNumber": 2,
     "lastWinner": "匚尺乇卂ㄒㄖ尺",
-    "lastDrawAt": "2026-10-30T00:00:29.069Z",
+    "lastDrawAt": "2026-10-31T00:00:20.839Z",
     "lastDraw": {
       "drawNumber": 1,
       "winner": "匚尺乇卂ㄒㄖ尺",
@@ -2787,10 +2730,10 @@
   "event_stats": {
     "totalUsers": 26,
     "totalTickets": 0,
-    "totalCoins": 222245,
+    "totalCoins": 313745,
     "lastReset": null,
     "lastWinner": null,
-    "snapshotAt": "2026-10-30T16:41:21.937Z"
+    "snapshotAt": "2026-10-31T03:41:22.045Z"
   },
   "leaderboard": [
     {
@@ -3934,6 +3877,39 @@
       "amount": 30500,
       "balanceBefore": 112765,
       "balanceAfter": 143265
+    },
+    {
+      "id": "coin_deposit_1793384083456",
+      "type": "coin_deposit",
+      "timestamp": "2026-10-30T18:14:43.456Z",
+      "transactionId": "58a09ce2-8248-4755-85e0-65d9662ab4b1",
+      "toUserId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "toUsername": "匚尺乇卂ㄒㄖ尺",
+      "amount": 30500,
+      "balanceBefore": 143265,
+      "balanceAfter": 173765
+    },
+    {
+      "id": "coin_deposit_1793385154119",
+      "type": "coin_deposit",
+      "timestamp": "2026-10-30T18:32:34.119Z",
+      "transactionId": "170de727-d2bb-47ca-b278-6e8b31fd9039",
+      "toUserId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "toUsername": "匚尺乇卂ㄒㄖ尺",
+      "amount": 30500,
+      "balanceBefore": 173765,
+      "balanceAfter": 204265
+    },
+    {
+      "id": "coin_deposit_1793386624652",
+      "type": "coin_deposit",
+      "timestamp": "2026-10-30T18:57:04.652Z",
+      "transactionId": "101d96d3-369f-476c-8333-3c5d7eb7bf74",
+      "toUserId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "toUsername": "匚尺乇卂ㄒㄖ尺",
+      "amount": 30500,
+      "balanceBefore": 204265,
+      "balanceAfter": 234765
     }
   ]
 }
