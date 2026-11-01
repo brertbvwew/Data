@@ -39,8 +39,8 @@
       },
       "cratesOpened": 0,
       "lastCoinPurchaseAt": "2026-10-08T12:27:31.647Z",
-      "lastActiveAt": "2026-10-31T14:44:29.665Z",
-      "lastLoginAt": "2026-10-31T14:44:29.665Z"
+      "lastActiveAt": "2026-10-31T17:44:26.818Z",
+      "lastLoginAt": "2026-10-31T17:44:26.818Z"
     },
     {
       "id": "f37cbcb5-80ed-4869-a4e4-2e7e19b0c0aa",
@@ -71,7 +71,7 @@
       "lifetimeCoinsSpent": 250,
       "level": 1,
       "xp": 415,
-      "rewardCoins": 1790,
+      "rewardCoins": 1780,
       "cosmetics": {
         "frames": [],
         "profileArt": []
@@ -81,8 +81,8 @@
         "profileArt": null
       },
       "cratesOpened": 0,
-      "lastLoginAt": "2026-10-29T20:55:37.050Z",
-      "lastActiveAt": "2026-10-29T20:55:37.050Z"
+      "lastLoginAt": "2026-10-31T18:52:58.669Z",
+      "lastActiveAt": "2026-10-31T18:52:58.669Z"
     },
     {
       "id": "51378108-d6dd-46a4-9d88-d5112bfb73f0",
@@ -173,15 +173,15 @@
       "role": "user",
       "referralCode": "匚尺乇卂-U3JA6",
       "transferHash": "QT4M6UG",
-      "coins": 39915,
+      "coins": 915,
       "tickets": 0,
       "totalReferrals": 4,
-      "monthlyReferrals": 4,
+      "monthlyReferrals": 0,
       "hasRedeemedReferral": true,
       "totalSpins": 0,
       "lastSpinAt": null,
-      "lastCoinPurchaseAt": "2026-10-31T13:14:23.499Z",
-      "trophies": 0,
+      "lastCoinPurchaseAt": "2026-10-31T15:44:42.123Z",
+      "trophies": 1,
       "banned": false,
       "createdAt": "2026-10-05T15:28:52.837Z",
       "currentStreak": 2,
@@ -193,7 +193,7 @@
       "lifetimeCoinsSpent": 58237,
       "level": 5,
       "xp": 5241,
-      "rewardCoins": 30040,
+      "rewardCoins": 36040,
       "cosmetics": {
         "frames": [
           {
@@ -215,8 +215,8 @@
         "profileArt": null
       },
       "cratesOpened": 0,
-      "lastLoginAt": "2026-10-31T14:08:06.261Z",
-      "lastActiveAt": "2026-10-31T14:08:06.261Z",
+      "lastLoginAt": "2026-10-31T15:46:05.785Z",
+      "lastActiveAt": "2026-10-31T15:46:05.785Z",
       "updatedAt": "2026-10-14T18:16:24.294Z",
       "botLoginKeyHash": "65742ce7e01a4cf106692a6cc0294626bf1c7aae1776d8a0b042415cc6e20168",
       "botLoginKeyExpiresAt": "2026-10-28T03:10:29.840Z",
@@ -892,10 +892,10 @@
         "frame": null,
         "profileArt": null
       },
-      "lastActiveAt": "2026-10-30T20:09:09.911Z",
+      "lastActiveAt": "2026-10-31T19:07:37.919Z",
       "rewardCoins": 0,
       "cratesOpened": 0,
-      "lastLoginAt": "2026-10-30T20:09:09.911Z"
+      "lastLoginAt": "2026-10-31T19:07:37.919Z"
     },
     {
       "id": "b45a3976-18da-4ab6-ae48-1b098006d3fd",
@@ -1248,6 +1248,29 @@
       "coinsSpent": 50000,
       "rewardCoinsAdded": 3000,
       "ts": "2026-10-31T13:43:59.437Z"
+    },
+    {
+      "type": "coin_exchange",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "coinsSpent": 50000,
+      "rewardCoinsAdded": 3000,
+      "ts": "2026-10-31T15:50:24.032Z"
+    },
+    {
+      "type": "coin_exchange",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "coinsSpent": 50000,
+      "rewardCoinsAdded": 3000,
+      "ts": "2026-10-31T15:50:33.104Z"
+    },
+    {
+      "type": "reward_claim",
+      "userId": "f37cbcb5-80ed-4869-a4e4-2e7e19b0c0aa",
+      "username": "kaab0._",
+      "rewardName": "Instagram 20 Followers",
+      "cost": 10,
+      "ref": "#claim_1793472878045_kkgtz",
+      "ts": "2026-10-31T18:54:38.051Z"
     }
   ],
   "rewards": [
@@ -1255,7 +1278,7 @@
       "id": "freefire-100",
       "name": "Free Fire 100 Diamonds",
       "category": "Mobile Games",
-      "coinCost": 15000,
+      "coinCost": 14250,
       "appCoinCost": 250000,
       "discountCoinCost": 14250,
       "discountAppCoinCost": 237500,
@@ -1264,7 +1287,7 @@
       "asset": "https://raw.githubusercontent.com/coderxsa/Assets/refs/heads/main/images/rewards/free-fire.png",
       "requiredInput": "Player ID",
       "status": "ACTIVE",
-      "originalCoinCost": 15000,
+      "originalCoinCost": 14250,
       "originalAppCoinCost": 250000,
       "discountedAppCoinCost": 237500,
       "isDiscounted": true,
@@ -1372,7 +1395,7 @@
       "id": "ps-topup",
       "name": "PS Top-Up",
       "category": "General",
-      "coinCost": 65000,
+      "coinCost": 61750,
       "appCoinCost": 1083333,
       "discountCoinCost": 61750,
       "discountAppCoinCost": 1029167,
@@ -1380,13 +1403,13 @@
       "icon": "🎮",
       "asset": "https://raw.githubusercontent.com/coderxsa/Assets/refs/heads/main/images/rewards/play-station.png",
       "requiredInput": "Account Details",
-      "status": "ACTIVE",
-      "originalCoinCost": 65000,
+      "status": "INACTIVE",
+      "originalCoinCost": 61750,
       "originalAppCoinCost": 1083333,
       "discountedAppCoinCost": 1029167,
       "isDiscounted": true,
       "discountExpiresAt": 1793491200000,
-      "updatedAt": "2026-10-31T14:45:10.274Z"
+      "updatedAt": "2026-10-31T15:44:48.677Z"
     },
     {
       "id": "xbox-topup",
@@ -1401,7 +1424,7 @@
       "asset": "https://raw.githubusercontent.com/coderxsa/Assets/refs/heads/main/images/rewards/xbox.png",
       "requiredInput": "Account Details",
       "status": "ACTIVE",
-      "updatedAt": "2026-10-31T14:52:46.030Z"
+      "updatedAt": "2026-10-31T14:59:53.264Z"
     },
     {
       "id": "netflix-sub",
@@ -1415,8 +1438,8 @@
       "icon": "🎬",
       "asset": "https://raw.githubusercontent.com/coderxsa/Assets/refs/heads/main/images/rewards/netflix.png",
       "requiredInput": "Account Details",
-      "status": "ACTIVE",
-      "updatedAt": "2026-10-31T14:54:28.366Z",
+      "status": "INACTIVE",
+      "updatedAt": "2026-10-31T15:44:41.366Z",
       "processingEstimate": ""
     },
     {
@@ -1431,14 +1454,14 @@
       "icon": "📦",
       "asset": "https://raw.githubusercontent.com/coderxsa/Assets/refs/heads/main/images/rewards/takealot.png",
       "requiredInput": "Account Details",
-      "status": "ACTIVE",
-      "updatedAt": "2026-10-31T14:54:06.635Z"
+      "status": "INACTIVE",
+      "updatedAt": "2026-10-31T15:44:36.014Z"
     },
     {
       "id": "instagram-followers-500",
       "name": "Instagram 500 Followers",
       "category": "Social Media",
-      "coinCost": 50000,
+      "coinCost": 47500,
       "appCoinCost": 833333,
       "discountCoinCost": 47500,
       "discountAppCoinCost": 791667,
@@ -1447,7 +1470,7 @@
       "asset": "https://raw.githubusercontent.com/coderxsa/Assets/refs/heads/main/images/rewards/insta-500.png",
       "requiredInput": "Instagram username",
       "status": "ACTIVE",
-      "originalCoinCost": 50000,
+      "originalCoinCost": 47500,
       "originalAppCoinCost": 833333,
       "discountedAppCoinCost": 791667,
       "isDiscounted": true,
@@ -1499,7 +1522,7 @@
       "id": "playstore-redeem",
       "name": "Play Store Redeem",
       "category": "Mobile Games",
-      "coinCost": 28000,
+      "coinCost": 26600,
       "appCoinCost": 466667,
       "discountCoinCost": 26600,
       "discountAppCoinCost": 443333,
@@ -1508,7 +1531,7 @@
       "asset": "https://raw.githubusercontent.com/coderxsa/Assets/refs/heads/main/images/rewards/google-play.png",
       "requiredInput": "Enter Email",
       "status": "ACTIVE",
-      "originalCoinCost": 28000,
+      "originalCoinCost": 26600,
       "originalAppCoinCost": 466667,
       "discountedAppCoinCost": 443333,
       "isDiscounted": true,
@@ -1519,7 +1542,7 @@
       "name": "TikTok 15 Followers",
       "category": "Free Orders",
       "coinCost": 10,
-      "appCoinCost": 0,
+      "appCoinCost": 167,
       "discountCoinCost": 10,
       "discountAppCoinCost": 0,
       "description": "TikTok promotion package for 15 followers.",
@@ -1533,7 +1556,7 @@
       "name": "TikTok 30 Likes",
       "category": "Free Orders",
       "coinCost": 10,
-      "appCoinCost": 0,
+      "appCoinCost": 167,
       "discountCoinCost": 10,
       "discountAppCoinCost": 0,
       "description": "TikTok promotion package for 30 likes.",
@@ -1547,7 +1570,7 @@
       "name": "Instagram 30 Likes",
       "category": "Free Orders",
       "coinCost": 10,
-      "appCoinCost": 0,
+      "appCoinCost": 167,
       "discountCoinCost": 10,
       "discountAppCoinCost": 0,
       "description": "Instagram promotion package for 30 likes.",
@@ -1561,7 +1584,7 @@
       "name": "Instagram 20 Followers",
       "category": "Free Orders",
       "coinCost": 10,
-      "appCoinCost": 0,
+      "appCoinCost": 167,
       "discountCoinCost": 10,
       "discountAppCoinCost": 0,
       "description": "Instagram promotion package for 20 followers.",
@@ -1628,6 +1651,23 @@
       "processingEstimate": "1-2 Days",
       "processedAt": "2026-10-29T20:21:05.607Z",
       "processedBy": "admin"
+    },
+    {
+      "id": "claim_1793472878047_bhfob",
+      "status": "PENDING",
+      "createdAt": "2026-10-31T18:54:38.047Z",
+      "userId": "f37cbcb5-80ed-4869-a4e4-2e7e19b0c0aa",
+      "username": "kaab0._",
+      "rewardId": "instagram-followers-free",
+      "rewardName": "Instagram 20 Followers",
+      "title": "Instagram 20 Followers",
+      "referenceHash": "#claim_1793472878045_kkgtz",
+      "recipientId": "kaab0._",
+      "icon": "📸",
+      "coinCost": 10,
+      "voucherCode": "Pending Delivery...",
+      "idempotencyKey": "claim_f37cbcb5-80ed-4869-a4e4-2e7e19b0c0aa_instagram-followers-free_1793472878034",
+      "processingEstimate": "1-2 Days"
     }
   ],
   "achievements": [
@@ -2700,7 +2740,7 @@
     "jackpot": 0,
     "drawNumber": 2,
     "lastWinner": "匚尺乇卂ㄒㄖ尺",
-    "lastDrawAt": "2026-10-31T00:00:20.839Z",
+    "lastDrawAt": "2026-11-01T00:00:40.618Z",
     "lastDraw": {
       "drawNumber": 1,
       "winner": "匚尺乇卂ㄒㄖ尺",
@@ -2825,22 +2865,22 @@
   "event_stats": {
     "totalUsers": 26,
     "totalTickets": 0,
-    "totalCoins": 118895,
-    "lastReset": null,
-    "lastWinner": null,
-    "snapshotAt": "2026-10-31T14:58:41.655Z"
+    "totalCoins": 79895,
+    "lastReset": "2026-11-01T00:00:41.837Z",
+    "lastWinner": {
+      "month": "2026-11",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "monthlyReferrals": 4,
+      "tickets": 0,
+      "coins": 915,
+      "crownedAt": "2026-11-01T00:00:41.837Z"
+    },
+    "snapshotAt": "2026-11-01T00:00:43.141Z"
   },
   "leaderboard": [
     {
       "rank": 1,
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "monthlyReferrals": 4,
-      "totalReferrals": 4,
-      "tickets": 0,
-      "trophies": 0
-    },
-    {
-      "rank": 2,
       "username": "admin",
       "monthlyReferrals": 0,
       "totalReferrals": 0,
@@ -2848,7 +2888,7 @@
       "trophies": 0
     },
     {
-      "rank": 3,
+      "rank": 2,
       "username": "kaab0._",
       "monthlyReferrals": 0,
       "totalReferrals": 0,
@@ -2856,7 +2896,7 @@
       "trophies": 0
     },
     {
-      "rank": 4,
+      "rank": 3,
       "username": "alpha",
       "monthlyReferrals": 0,
       "totalReferrals": 0,
@@ -2864,12 +2904,20 @@
       "trophies": 0
     },
     {
-      "rank": 5,
+      "rank": 4,
       "username": "viki loves gift 🌷😘",
       "monthlyReferrals": 0,
       "totalReferrals": 0,
       "tickets": 0,
       "trophies": 0
+    },
+    {
+      "rank": 5,
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "monthlyReferrals": 0,
+      "totalReferrals": 4,
+      "tickets": 0,
+      "trophies": 1
     },
     {
       "rank": 6,
@@ -4115,6 +4163,44 @@
       "amount": 30500,
       "balanceBefore": 509415,
       "balanceAfter": 539915
+    },
+    {
+      "id": "coin_deposit_1793461140537",
+      "type": "coin_deposit",
+      "timestamp": "2026-10-31T15:39:00.537Z",
+      "transactionId": "df6c7828-abef-427b-bc0a-fb6432838f84",
+      "toUserId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "toUsername": "匚尺乇卂ㄒㄖ尺",
+      "amount": 30500,
+      "balanceBefore": 39915,
+      "balanceAfter": 70415
+    },
+    {
+      "id": "coin_deposit_1793461482129",
+      "type": "coin_deposit",
+      "timestamp": "2026-10-31T15:44:42.129Z",
+      "transactionId": "97969b96-498a-4830-bb53-62991bb3ebf5",
+      "toUserId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "toUsername": "匚尺乇卂ㄒㄖ尺",
+      "amount": 30500,
+      "balanceBefore": 70415,
+      "balanceAfter": 100915
+    },
+    {
+      "id": "monthly_reset_1793491242544",
+      "type": "monthly_reset",
+      "timestamp": "2026-11-01T00:00:42.544Z",
+      "month": "2026-11",
+      "winner": {
+        "month": "2026-11",
+        "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+        "username": "匚尺乇卂ㄒㄖ尺",
+        "monthlyReferrals": 4,
+        "tickets": 0,
+        "coins": 915,
+        "crownedAt": "2026-11-01T00:00:41.837Z"
+      },
+      "totalUsers": 26
     }
   ]
 }
