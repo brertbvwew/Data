@@ -39,8 +39,8 @@
       },
       "cratesOpened": 0,
       "lastCoinPurchaseAt": "2026-10-08T12:27:31.647Z",
-      "lastActiveAt": "2026-10-31T17:44:26.818Z",
-      "lastLoginAt": "2026-10-31T17:44:26.818Z"
+      "lastActiveAt": "2026-11-01T10:42:46.698Z",
+      "lastLoginAt": "2026-11-01T10:42:46.698Z"
     },
     {
       "id": "f37cbcb5-80ed-4869-a4e4-2e7e19b0c0aa",
@@ -173,14 +173,14 @@
       "role": "user",
       "referralCode": "匚尺乇卂-U3JA6",
       "transferHash": "QT4M6UG",
-      "coins": 915,
+      "coins": 53415,
       "tickets": 0,
       "totalReferrals": 4,
       "monthlyReferrals": 0,
       "hasRedeemedReferral": true,
       "totalSpins": 0,
       "lastSpinAt": null,
-      "lastCoinPurchaseAt": "2026-10-31T15:44:42.123Z",
+      "lastCoinPurchaseAt": "2026-11-01T09:44:00.659Z",
       "trophies": 1,
       "banned": false,
       "createdAt": "2026-10-05T15:28:52.837Z",
@@ -193,7 +193,7 @@
       "lifetimeCoinsSpent": 58237,
       "level": 5,
       "xp": 5241,
-      "rewardCoins": 36040,
+      "rewardCoins": 42040,
       "cosmetics": {
         "frames": [
           {
@@ -215,8 +215,8 @@
         "profileArt": null
       },
       "cratesOpened": 0,
-      "lastLoginAt": "2026-10-31T15:46:05.785Z",
-      "lastActiveAt": "2026-10-31T15:46:05.785Z",
+      "lastLoginAt": "2026-11-01T09:44:56.038Z",
+      "lastActiveAt": "2026-11-01T09:44:56.038Z",
       "updatedAt": "2026-10-14T18:16:24.294Z",
       "botLoginKeyHash": "65742ce7e01a4cf106692a6cc0294626bf1c7aae1776d8a0b042415cc6e20168",
       "botLoginKeyExpiresAt": "2026-10-28T03:10:29.840Z",
@@ -302,8 +302,8 @@
         "profileArt": null
       },
       "cratesOpened": 0,
-      "lastLoginAt": "2026-10-30T15:49:10.150Z",
-      "lastActiveAt": "2026-10-30T15:49:10.150Z",
+      "lastLoginAt": "2026-11-01T09:29:03.019Z",
+      "lastActiveAt": "2026-11-01T09:29:03.019Z",
       "botLoginKeyHash": "916ac12e65756ba778fc5eaf9d0c6f15a02467c9f9b1b0347b43387e45d60f93",
       "botLoginKeyExpiresAt": "2026-10-22T20:23:22.504Z",
       "banExpiresAt": null,
@@ -1173,13 +1173,6 @@
   "withdrawal_requests": [],
   "activity_logs": [
     {
-      "type": "daily_bonus",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "coins": 150,
-      "streak": 2,
-      "ts": "2026-10-31T07:26:28.138Z"
-    },
-    {
       "type": "coin_exchange",
       "username": "匚尺乇卂ㄒㄖ尺",
       "coinsSpent": 50000,
@@ -1271,6 +1264,26 @@
       "cost": 10,
       "ref": "#claim_1793472878045_kkgtz",
       "ts": "2026-10-31T18:54:38.051Z"
+    },
+    {
+      "type": "reward_fulfilled",
+      "username": "kaab0._",
+      "rewardName": "Instagram 20 Followers",
+      "ts": "2026-11-01T04:38:49.208Z"
+    },
+    {
+      "type": "coin_exchange",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "coinsSpent": 50000,
+      "rewardCoinsAdded": 3000,
+      "ts": "2026-11-01T09:12:07.234Z"
+    },
+    {
+      "type": "coin_exchange",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "coinsSpent": 50000,
+      "rewardCoinsAdded": 3000,
+      "ts": "2026-11-01T09:12:11.487Z"
     }
   ],
   "rewards": [
@@ -1654,7 +1667,7 @@
     },
     {
       "id": "claim_1793472878047_bhfob",
-      "status": "PENDING",
+      "status": "FULFILLED",
       "createdAt": "2026-10-31T18:54:38.047Z",
       "userId": "f37cbcb5-80ed-4869-a4e4-2e7e19b0c0aa",
       "username": "kaab0._",
@@ -1665,9 +1678,11 @@
       "recipientId": "kaab0._",
       "icon": "📸",
       "coinCost": 10,
-      "voucherCode": "Pending Delivery...",
+      "voucherCode": "",
       "idempotencyKey": "claim_f37cbcb5-80ed-4869-a4e4-2e7e19b0c0aa_instagram-followers-free_1793472878034",
-      "processingEstimate": "1-2 Days"
+      "processingEstimate": "1-2 Days",
+      "processedAt": "2026-11-01T04:38:49.203Z",
+      "processedBy": "admin"
     }
   ],
   "achievements": [
@@ -2865,7 +2880,7 @@
   "event_stats": {
     "totalUsers": 26,
     "totalTickets": 0,
-    "totalCoins": 79895,
+    "totalCoins": 132395,
     "lastReset": "2026-11-01T00:00:41.837Z",
     "lastWinner": {
       "month": "2026-11",
@@ -2876,7 +2891,7 @@
       "coins": 915,
       "crownedAt": "2026-11-01T00:00:41.837Z"
     },
-    "snapshotAt": "2026-11-01T01:58:41.710Z"
+    "snapshotAt": "2026-11-01T12:58:41.851Z"
   },
   "leaderboard": [
     {
@@ -4201,6 +4216,61 @@
         "crownedAt": "2026-11-01T00:00:41.837Z"
       },
       "totalUsers": 26
+    },
+    {
+      "id": "coin_deposit_1793517211642",
+      "type": "coin_deposit",
+      "timestamp": "2026-11-01T07:13:31.642Z",
+      "transactionId": "405e3de0-4913-4bc8-83c2-e74d6650cd55",
+      "toUserId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "toUsername": "匚尺乇卂ㄒㄖ尺",
+      "amount": 30500,
+      "balanceBefore": 915,
+      "balanceAfter": 31415
+    },
+    {
+      "id": "coin_deposit_1793517492546",
+      "type": "coin_deposit",
+      "timestamp": "2026-11-01T07:18:12.546Z",
+      "transactionId": "15b81f44-9ebd-4815-b543-04bfa144f62a",
+      "toUserId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "toUsername": "匚尺乇卂ㄒㄖ尺",
+      "amount": 30500,
+      "balanceBefore": 31415,
+      "balanceAfter": 61915
+    },
+    {
+      "id": "coin_deposit_1793523149340",
+      "type": "coin_deposit",
+      "timestamp": "2026-11-01T08:52:29.340Z",
+      "transactionId": "788d39d2-27ee-40ed-9ec4-0a4db278f834",
+      "toUserId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "toUsername": "匚尺乇卂ㄒㄖ尺",
+      "amount": 30500,
+      "balanceBefore": 61915,
+      "balanceAfter": 92415
+    },
+    {
+      "id": "coin_deposit_1793523243803",
+      "type": "coin_deposit",
+      "timestamp": "2026-11-01T08:54:03.803Z",
+      "transactionId": "c5d1a10b-9683-4707-b6ed-e28e3bebd68b",
+      "toUserId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "toUsername": "匚尺乇卂ㄒㄖ尺",
+      "amount": 30500,
+      "balanceBefore": 92415,
+      "balanceAfter": 122915
+    },
+    {
+      "id": "coin_deposit_1793526240665",
+      "type": "coin_deposit",
+      "timestamp": "2026-11-01T09:44:00.665Z",
+      "transactionId": "d26a0b43-962d-4664-8fb5-d8112ae11bee",
+      "toUserId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "toUsername": "匚尺乇卂ㄒㄖ尺",
+      "amount": 30500,
+      "balanceBefore": 22915,
+      "balanceAfter": 53415
     }
   ]
 }
