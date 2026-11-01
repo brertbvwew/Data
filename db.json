@@ -9,7 +9,7 @@
       "role": "admin",
       "referralCode": "CRYPT",
       "transferHash": "4KLYW1E",
-      "coins": 0,
+      "coins": 100,
       "tickets": 0,
       "totalReferrals": 0,
       "monthlyReferrals": 0,
@@ -19,15 +19,15 @@
       "trophies": 0,
       "banned": false,
       "createdAt": "2026-10-02T07:47:19.896Z",
-      "currentStreak": 2,
+      "currentStreak": 1,
       "longestStreak": 2,
       "lastClaimDate": null,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "lifetimeCoinsEarned": 148549,
+      "lifetimeCoinsEarned": 148649,
       "lifetimeCoinsSpent": 0,
-      "level": 1,
-      "xp": 63825,
+      "level": 10,
+      "xp": 8327,
       "rewardCoins": 0,
       "cosmetics": {
         "frames": [],
@@ -39,8 +39,8 @@
       },
       "cratesOpened": 0,
       "lastCoinPurchaseAt": "2026-10-08T12:27:31.647Z",
-      "lastActiveAt": "2026-11-01T10:42:46.698Z",
-      "lastLoginAt": "2026-11-01T10:42:46.698Z"
+      "lastActiveAt": "2026-11-01T19:13:06.007Z",
+      "lastLoginAt": "2026-11-01T19:13:06.007Z"
     },
     {
       "id": "f37cbcb5-80ed-4869-a4e4-2e7e19b0c0aa",
@@ -1173,99 +1173,6 @@
   "withdrawal_requests": [],
   "activity_logs": [
     {
-      "type": "coin_exchange",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "coinsSpent": 50000,
-      "rewardCoinsAdded": 3000,
-      "ts": "2026-10-31T13:42:30.956Z"
-    },
-    {
-      "type": "coin_exchange",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "coinsSpent": 50000,
-      "rewardCoinsAdded": 3000,
-      "ts": "2026-10-31T13:42:37.978Z"
-    },
-    {
-      "type": "coin_exchange",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "coinsSpent": 50000,
-      "rewardCoinsAdded": 3000,
-      "ts": "2026-10-31T13:42:43.468Z"
-    },
-    {
-      "type": "coin_exchange",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "coinsSpent": 50000,
-      "rewardCoinsAdded": 3000,
-      "ts": "2026-10-31T13:42:48.179Z"
-    },
-    {
-      "type": "coin_exchange",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "coinsSpent": 50000,
-      "rewardCoinsAdded": 3000,
-      "ts": "2026-10-31T13:42:51.780Z"
-    },
-    {
-      "type": "coin_exchange",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "coinsSpent": 50000,
-      "rewardCoinsAdded": 3000,
-      "ts": "2026-10-31T13:42:55.431Z"
-    },
-    {
-      "type": "coin_exchange",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "coinsSpent": 50000,
-      "rewardCoinsAdded": 3000,
-      "ts": "2026-10-31T13:43:45.535Z"
-    },
-    {
-      "type": "coin_exchange",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "coinsSpent": 50000,
-      "rewardCoinsAdded": 3000,
-      "ts": "2026-10-31T13:43:49.208Z"
-    },
-    {
-      "type": "coin_exchange",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "coinsSpent": 50000,
-      "rewardCoinsAdded": 3000,
-      "ts": "2026-10-31T13:43:53.998Z"
-    },
-    {
-      "type": "coin_exchange",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "coinsSpent": 50000,
-      "rewardCoinsAdded": 3000,
-      "ts": "2026-10-31T13:43:59.437Z"
-    },
-    {
-      "type": "coin_exchange",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "coinsSpent": 50000,
-      "rewardCoinsAdded": 3000,
-      "ts": "2026-10-31T15:50:24.032Z"
-    },
-    {
-      "type": "coin_exchange",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "coinsSpent": 50000,
-      "rewardCoinsAdded": 3000,
-      "ts": "2026-10-31T15:50:33.104Z"
-    },
-    {
-      "type": "reward_claim",
-      "userId": "f37cbcb5-80ed-4869-a4e4-2e7e19b0c0aa",
-      "username": "kaab0._",
-      "rewardName": "Instagram 20 Followers",
-      "cost": 10,
-      "ref": "#claim_1793472878045_kkgtz",
-      "ts": "2026-10-31T18:54:38.051Z"
-    },
-    {
       "type": "reward_fulfilled",
       "username": "kaab0._",
       "rewardName": "Instagram 20 Followers",
@@ -1284,6 +1191,13 @@
       "coinsSpent": 50000,
       "rewardCoinsAdded": 3000,
       "ts": "2026-11-01T09:12:11.487Z"
+    },
+    {
+      "type": "daily_bonus",
+      "username": "admin",
+      "coins": 100,
+      "streak": 1,
+      "ts": "2026-11-01T13:54:10.342Z"
     }
   ],
   "rewards": [
@@ -2709,9 +2623,9 @@
     },
     {
       "userId": "afdd6b55-1597-4a45-86f7-1579c8325dc8",
-      "streak": 2,
-      "lastClaimDate": "2026-10-09",
-      "lastClaimAt": "2026-10-09T16:48:01.028Z"
+      "streak": 1,
+      "lastClaimDate": "2026-11-01",
+      "lastClaimAt": "2026-11-01T13:54:10.280Z"
     },
     {
       "userId": "21aae28c-8af7-4c81-b222-1ec3722c4025",
@@ -2880,7 +2794,7 @@
   "event_stats": {
     "totalUsers": 26,
     "totalTickets": 0,
-    "totalCoins": 132395,
+    "totalCoins": 132495,
     "lastReset": "2026-11-01T00:00:41.837Z",
     "lastWinner": {
       "month": "2026-11",
@@ -2891,7 +2805,7 @@
       "coins": 915,
       "crownedAt": "2026-11-01T00:00:41.837Z"
     },
-    "snapshotAt": "2026-11-01T12:58:41.851Z"
+    "snapshotAt": "2026-11-01T23:58:41.931Z"
   },
   "leaderboard": [
     {
