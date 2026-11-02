@@ -39,8 +39,8 @@
       },
       "cratesOpened": 0,
       "lastCoinPurchaseAt": "2026-10-08T12:27:31.647Z",
-      "lastActiveAt": "2026-11-01T19:13:06.007Z",
-      "lastLoginAt": "2026-11-01T19:13:06.007Z"
+      "lastActiveAt": "2026-11-02T11:18:03.231Z",
+      "lastLoginAt": "2026-11-02T11:18:03.231Z"
     },
     {
       "id": "f37cbcb5-80ed-4869-a4e4-2e7e19b0c0aa",
@@ -1171,15 +1171,7 @@
     }
   ],
   "withdrawal_requests": [],
-  "activity_logs": [
-    {
-      "type": "daily_bonus",
-      "username": "admin",
-      "coins": 100,
-      "streak": 1,
-      "ts": "2026-11-01T13:54:10.342Z"
-    }
-  ],
+  "activity_logs": [],
   "rewards": [
     {
       "id": "freefire-100",
@@ -2785,7 +2777,7 @@
       "coins": 915,
       "crownedAt": "2026-11-01T00:00:41.837Z"
     },
-    "snapshotAt": "2026-11-02T10:58:41.618Z"
+    "snapshotAt": "2026-11-02T21:58:42.109Z"
   },
   "leaderboard": [
     {
