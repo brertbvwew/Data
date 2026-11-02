@@ -302,8 +302,8 @@
         "profileArt": null
       },
       "cratesOpened": 0,
-      "lastLoginAt": "2026-11-01T09:29:03.019Z",
-      "lastActiveAt": "2026-11-01T09:29:03.019Z",
+      "lastLoginAt": "2026-11-02T03:03:18.012Z",
+      "lastActiveAt": "2026-11-02T03:03:18.012Z",
       "botLoginKeyHash": "916ac12e65756ba778fc5eaf9d0c6f15a02467c9f9b1b0347b43387e45d60f93",
       "botLoginKeyExpiresAt": "2026-10-22T20:23:22.504Z",
       "banExpiresAt": null,
@@ -1172,26 +1172,6 @@
   ],
   "withdrawal_requests": [],
   "activity_logs": [
-    {
-      "type": "reward_fulfilled",
-      "username": "kaab0._",
-      "rewardName": "Instagram 20 Followers",
-      "ts": "2026-11-01T04:38:49.208Z"
-    },
-    {
-      "type": "coin_exchange",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "coinsSpent": 50000,
-      "rewardCoinsAdded": 3000,
-      "ts": "2026-11-01T09:12:07.234Z"
-    },
-    {
-      "type": "coin_exchange",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "coinsSpent": 50000,
-      "rewardCoinsAdded": 3000,
-      "ts": "2026-11-01T09:12:11.487Z"
-    },
     {
       "type": "daily_bonus",
       "username": "admin",
@@ -2669,7 +2649,7 @@
     "jackpot": 0,
     "drawNumber": 2,
     "lastWinner": "匚尺乇卂ㄒㄖ尺",
-    "lastDrawAt": "2026-11-01T00:00:40.618Z",
+    "lastDrawAt": "2026-11-02T00:00:42.314Z",
     "lastDraw": {
       "drawNumber": 1,
       "winner": "匚尺乇卂ㄒㄖ尺",
@@ -2805,7 +2785,7 @@
       "coins": 915,
       "crownedAt": "2026-11-01T00:00:41.837Z"
     },
-    "snapshotAt": "2026-11-01T23:58:41.931Z"
+    "snapshotAt": "2026-11-02T10:58:41.618Z"
   },
   "leaderboard": [
     {
