@@ -26,7 +26,7 @@
       "gamesWon": 0,
       "lifetimeCoinsEarned": 148649,
       "lifetimeCoinsSpent": 0,
-      "level": 10,
+      "level": 1,
       "xp": 8327,
       "rewardCoins": 0,
       "cosmetics": {
@@ -39,8 +39,8 @@
       },
       "cratesOpened": 0,
       "lastCoinPurchaseAt": "2026-10-08T12:27:31.647Z",
-      "lastActiveAt": "2026-11-03T04:52:54.840Z",
-      "lastLoginAt": "2026-11-03T04:52:54.840Z"
+      "lastActiveAt": "2026-11-05T13:43:49.685Z",
+      "lastLoginAt": "2026-11-05T13:43:49.685Z"
     },
     {
       "id": "f37cbcb5-80ed-4869-a4e4-2e7e19b0c0aa",
@@ -71,7 +71,7 @@
       "lifetimeCoinsSpent": 250,
       "level": 1,
       "xp": 415,
-      "rewardCoins": 1780,
+      "rewardCoins": 1770,
       "cosmetics": {
         "frames": [],
         "profileArt": []
@@ -81,8 +81,8 @@
         "profileArt": null
       },
       "cratesOpened": 0,
-      "lastLoginAt": "2026-10-31T18:52:58.669Z",
-      "lastActiveAt": "2026-10-31T18:52:58.669Z"
+      "lastLoginAt": "2026-11-05T11:45:53.453Z",
+      "lastActiveAt": "2026-11-05T11:45:53.453Z"
     },
     {
       "id": "51378108-d6dd-46a4-9d88-d5112bfb73f0",
@@ -290,7 +290,7 @@
       "gamesWon": 60,
       "lifetimeCoinsEarned": 170359,
       "lifetimeCoinsSpent": 55155,
-      "level": 11,
+      "level": 1,
       "xp": 2425,
       "rewardCoins": 1150,
       "cosmetics": {
@@ -302,8 +302,8 @@
         "profileArt": null
       },
       "cratesOpened": 0,
-      "lastLoginAt": "2026-11-02T03:03:18.012Z",
-      "lastActiveAt": "2026-11-02T03:03:18.012Z",
+      "lastLoginAt": "2026-11-05T11:08:24.426Z",
+      "lastActiveAt": "2026-11-05T11:08:24.426Z",
       "botLoginKeyHash": "916ac12e65756ba778fc5eaf9d0c6f15a02467c9f9b1b0347b43387e45d60f93",
       "botLoginKeyExpiresAt": "2026-10-22T20:23:22.504Z",
       "banExpiresAt": null,
@@ -566,7 +566,7 @@
       "role": "user",
       "referralCode": "PSYC-JD5OQ",
       "transferHash": "DCKNXGO",
-      "coins": 50161,
+      "coins": 0,
       "tickets": 0,
       "totalReferrals": 0,
       "monthlyReferrals": 0,
@@ -1134,7 +1134,7 @@
       "lifetimeCoinsSpent": 0,
       "level": 1,
       "xp": 300,
-      "rewardCoins": 260,
+      "rewardCoins": 290,
       "cosmetics": {
         "frames": [],
         "profileArt": []
@@ -1145,6 +1145,46 @@
       },
       "lastActiveAt": "2026-11-04T22:27:03.577Z",
       "lastLoginAt": "2026-11-04T22:27:03.577Z"
+    },
+    {
+      "id": "cc35ed7a-2664-47e6-b12d-6d69727b0696",
+      "username": "Dax0_03",
+      "email": "spazdiscord006@gmail.com",
+      "password": "siphe333",
+      "passwordHash": null,
+      "role": "user",
+      "referralCode": "DAX0-DNGPO",
+      "transferHash": "6F3P4WR",
+      "coins": 0,
+      "tickets": 0,
+      "totalReferrals": 0,
+      "monthlyReferrals": 0,
+      "hasRedeemedReferral": false,
+      "totalSpins": 0,
+      "lastSpinAt": null,
+      "lastCoinPurchaseAt": null,
+      "trophies": 0,
+      "banned": false,
+      "createdAt": "2026-11-05T11:36:29.236Z",
+      "currentStreak": 0,
+      "longestStreak": 0,
+      "lastClaimDate": null,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "lifetimeCoinsEarned": 0,
+      "lifetimeCoinsSpent": 0,
+      "level": 1,
+      "xp": 0,
+      "rewardCoins": 0,
+      "cosmetics": {
+        "frames": [],
+        "profileArt": []
+      },
+      "equippedCosmetics": {
+        "frame": null,
+        "profileArt": null
+      },
+      "lastActiveAt": "2026-11-05T11:36:39.642Z"
     }
   ],
   "transactions": [],
@@ -1268,6 +1308,27 @@
       "cost": 10,
       "ref": "#claim_1793829895041_reunp",
       "ts": "2026-11-04T22:04:55.046Z"
+    },
+    {
+      "type": "reward_fulfilled",
+      "username": "moet.",
+      "rewardName": "TikTok 15 Followers",
+      "ts": "2026-11-05T09:41:37.452Z"
+    },
+    {
+      "type": "new_user",
+      "username": "Dax0_03",
+      "referredBy": null,
+      "ts": "2026-11-05T11:36:29.242Z"
+    },
+    {
+      "type": "reward_claim",
+      "userId": "f37cbcb5-80ed-4869-a4e4-2e7e19b0c0aa",
+      "username": "kaab0._",
+      "rewardName": "Instagram 20 Followers",
+      "cost": 10,
+      "ref": "#claim_1793879210071_52xgs",
+      "ts": "2026-11-05T11:46:50.144Z"
     }
   ],
   "rewards": [
@@ -1670,7 +1731,7 @@
     },
     {
       "id": "claim_1793829773948_iefdc",
-      "status": "PENDING",
+      "status": "REJECTED",
       "createdAt": "2026-11-04T22:02:53.948Z",
       "userId": "8c50e773-6777-4700-afe1-650258de301a",
       "username": "moet.",
@@ -1683,11 +1744,13 @@
       "coinCost": 10,
       "voucherCode": "Pending Delivery...",
       "idempotencyKey": "claim_8c50e773-6777-4700-afe1-650258de301a_tiktok-likes-free_1793829773939",
-      "processingEstimate": "1-2 Days"
+      "processingEstimate": "1-2 Days",
+      "processedAt": "2026-11-05T09:38:37.970Z",
+      "processedBy": "admin"
     },
     {
       "id": "claim_1793829825892_y2pup",
-      "status": "PENDING",
+      "status": "FULFILLED",
       "createdAt": "2026-11-04T22:03:45.892Z",
       "userId": "8c50e773-6777-4700-afe1-650258de301a",
       "username": "moet.",
@@ -1698,13 +1761,15 @@
       "recipientId": "Veil.Codm",
       "icon": "🎵",
       "coinCost": 10,
-      "voucherCode": "Pending Delivery...",
+      "voucherCode": "",
       "idempotencyKey": "claim_8c50e773-6777-4700-afe1-650258de301a_tiktok-followers-free_1793829825883",
-      "processingEstimate": "1-2 Days"
+      "processingEstimate": "1-2 Days",
+      "processedAt": "2026-11-05T09:41:37.446Z",
+      "processedBy": "admin"
     },
     {
       "id": "claim_1793829863561_toeei",
-      "status": "PENDING",
+      "status": "REJECTED",
       "createdAt": "2026-11-04T22:04:23.561Z",
       "userId": "8c50e773-6777-4700-afe1-650258de301a",
       "username": "moet.",
@@ -1717,11 +1782,13 @@
       "coinCost": 10,
       "voucherCode": "Pending Delivery...",
       "idempotencyKey": "claim_8c50e773-6777-4700-afe1-650258de301a_tiktok-followers-free_1793829863552",
-      "processingEstimate": "1-2 Days"
+      "processingEstimate": "1-2 Days",
+      "processedAt": "2026-11-05T09:39:29.299Z",
+      "processedBy": "admin"
     },
     {
       "id": "claim_1793829895042_2xwsh",
-      "status": "PENDING",
+      "status": "REJECTED",
       "createdAt": "2026-11-04T22:04:55.042Z",
       "userId": "8c50e773-6777-4700-afe1-650258de301a",
       "username": "moet.",
@@ -1734,6 +1801,25 @@
       "coinCost": 10,
       "voucherCode": "Pending Delivery...",
       "idempotencyKey": "claim_8c50e773-6777-4700-afe1-650258de301a_tiktok-followers-free_1793829894994",
+      "processingEstimate": "1-2 Days",
+      "processedAt": "2026-11-05T09:39:20.947Z",
+      "processedBy": "admin"
+    },
+    {
+      "id": "claim_1793879210072_98nfg",
+      "status": "PENDING",
+      "createdAt": "2026-11-05T11:46:50.072Z",
+      "userId": "f37cbcb5-80ed-4869-a4e4-2e7e19b0c0aa",
+      "username": "kaab0._",
+      "rewardId": "instagram-followers-free",
+      "rewardName": "Instagram 20 Followers",
+      "title": "Instagram 20 Followers",
+      "referenceHash": "#claim_1793879210071_52xgs",
+      "recipientId": "kaab0._",
+      "icon": "📸",
+      "coinCost": 10,
+      "voucherCode": "Pending Delivery...",
+      "idempotencyKey": "claim_f37cbcb5-80ed-4869-a4e4-2e7e19b0c0aa_instagram-followers-free_1793879210062",
       "processingEstimate": "1-2 Days"
     }
   ],
@@ -2936,9 +3022,9 @@
     }
   ],
   "event_stats": {
-    "totalUsers": 27,
+    "totalUsers": 28,
     "totalTickets": 0,
-    "totalCoins": 133795,
+    "totalCoins": 83634,
     "lastReset": "2026-11-01T00:00:41.837Z",
     "lastWinner": {
       "month": "2026-11",
@@ -2949,7 +3035,7 @@
       "coins": 915,
       "crownedAt": "2026-11-01T00:00:41.837Z"
     },
-    "snapshotAt": "2026-11-05T04:58:41.634Z"
+    "snapshotAt": "2026-11-05T13:46:14.622Z"
   },
   "leaderboard": [
     {
@@ -4359,6 +4445,14 @@
       "amount": 500,
       "balanceBefore": 2300,
       "balanceAfter": 2800
+    },
+    {
+      "id": "user_register_1793878589240",
+      "type": "user_register",
+      "timestamp": "2026-11-05T11:36:29.240Z",
+      "userId": "cc35ed7a-2664-47e6-b12d-6d69727b0696",
+      "username": "Dax0_03",
+      "referredBy": null
     }
   ]
 }
