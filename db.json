@@ -2914,6 +2914,9 @@
     "status": "open",
     "results": []
   },
+  "settings": {},
+  "hall_of_fame": [],
+  "announcements": [],
   "event_settings": {
     "ticketPurchasesEnabled": false,
     "giveawaySpinEnabled": false,
@@ -3029,7 +3032,7 @@
     "totalCoins": 83634,
     "lastReset": null,
     "lastWinner": null,
-    "snapshotAt": "2026-11-05T15:00:58.160Z"
+    "snapshotAt": "2026-11-05T15:04:43.234Z"
   },
   "leaderboard": [
     {
