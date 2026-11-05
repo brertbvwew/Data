@@ -1144,7 +1144,8 @@
         "profileArt": null
       },
       "lastActiveAt": "2026-11-04T22:27:03.577Z",
-      "lastLoginAt": "2026-11-04T22:27:03.577Z"
+      "lastLoginAt": "2026-11-04T22:27:03.577Z",
+      "cratesOpened": 0
     },
     {
       "id": "cc35ed7a-2664-47e6-b12d-6d69727b0696",
@@ -1184,7 +1185,8 @@
         "frame": null,
         "profileArt": null
       },
-      "lastActiveAt": "2026-11-05T11:36:39.642Z"
+      "lastActiveAt": "2026-11-05T11:36:39.642Z",
+      "cratesOpened": 0
     }
   ],
   "transactions": [],
@@ -3025,17 +3027,9 @@
     "totalUsers": 28,
     "totalTickets": 0,
     "totalCoins": 83634,
-    "lastReset": "2026-11-01T00:00:41.837Z",
-    "lastWinner": {
-      "month": "2026-11",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "monthlyReferrals": 4,
-      "tickets": 0,
-      "coins": 915,
-      "crownedAt": "2026-11-01T00:00:41.837Z"
-    },
-    "snapshotAt": "2026-11-05T14:59:36.856Z"
+    "lastReset": null,
+    "lastWinner": null,
+    "snapshotAt": "2026-11-05T15:00:58.160Z"
   },
   "leaderboard": [
     {
