@@ -1104,6 +1104,47 @@
       },
       "lastActiveAt": "2026-10-29T13:15:19.219Z",
       "cratesOpened": 0
+    },
+    {
+      "id": "8c50e773-6777-4700-afe1-650258de301a",
+      "username": "moet.",
+      "email": "mngunitshiamo200@gmail.com",
+      "password": "Mnguniiii12",
+      "passwordHash": null,
+      "role": "user",
+      "referralCode": "MOET-5JP61",
+      "transferHash": "SNEE68Y",
+      "coins": 1300,
+      "tickets": 0,
+      "totalReferrals": 0,
+      "monthlyReferrals": 0,
+      "hasRedeemedReferral": false,
+      "totalSpins": 0,
+      "lastSpinAt": null,
+      "lastCoinPurchaseAt": "2026-11-04T22:02:05.806Z",
+      "trophies": 0,
+      "banned": false,
+      "createdAt": "2026-11-04T21:51:07.437Z",
+      "currentStreak": 0,
+      "longestStreak": 0,
+      "lastClaimDate": null,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "lifetimeCoinsEarned": 1000,
+      "lifetimeCoinsSpent": 0,
+      "level": 1,
+      "xp": 300,
+      "rewardCoins": 260,
+      "cosmetics": {
+        "frames": [],
+        "profileArt": []
+      },
+      "equippedCosmetics": {
+        "frame": null,
+        "profileArt": null
+      },
+      "lastActiveAt": "2026-11-04T22:27:03.577Z",
+      "lastLoginAt": "2026-11-04T22:27:03.577Z"
     }
   ],
   "transactions": [],
@@ -1171,7 +1212,64 @@
     }
   ],
   "withdrawal_requests": [],
-  "activity_logs": [],
+  "activity_logs": [
+    {
+      "type": "new_user",
+      "username": "moet.",
+      "referredBy": null,
+      "ts": "2026-11-04T21:51:07.444Z"
+    },
+    {
+      "type": "coin_exchange",
+      "username": "moet.",
+      "coinsSpent": 2500,
+      "rewardCoinsAdded": 150,
+      "ts": "2026-11-04T21:59:01.304Z"
+    },
+    {
+      "type": "coin_exchange",
+      "username": "moet.",
+      "coinsSpent": 2500,
+      "rewardCoinsAdded": 150,
+      "ts": "2026-11-04T22:02:23.692Z"
+    },
+    {
+      "type": "reward_claim",
+      "userId": "8c50e773-6777-4700-afe1-650258de301a",
+      "username": "moet.",
+      "rewardName": "TikTok 30 Likes",
+      "cost": 10,
+      "ref": "#claim_1793829773947_sgxnf",
+      "ts": "2026-11-04T22:02:53.951Z"
+    },
+    {
+      "type": "reward_claim",
+      "userId": "8c50e773-6777-4700-afe1-650258de301a",
+      "username": "moet.",
+      "rewardName": "TikTok 15 Followers",
+      "cost": 10,
+      "ref": "#claim_1793829825891_y8kpg",
+      "ts": "2026-11-04T22:03:45.939Z"
+    },
+    {
+      "type": "reward_claim",
+      "userId": "8c50e773-6777-4700-afe1-650258de301a",
+      "username": "moet.",
+      "rewardName": "TikTok 15 Followers",
+      "cost": 10,
+      "ref": "#claim_1793829863559_dvgs9",
+      "ts": "2026-11-04T22:04:23.638Z"
+    },
+    {
+      "type": "reward_claim",
+      "userId": "8c50e773-6777-4700-afe1-650258de301a",
+      "username": "moet.",
+      "rewardName": "TikTok 15 Followers",
+      "cost": 10,
+      "ref": "#claim_1793829895041_reunp",
+      "ts": "2026-11-04T22:04:55.046Z"
+    }
+  ],
   "rewards": [
     {
       "id": "freefire-100",
@@ -1569,6 +1667,74 @@
       "processingEstimate": "1-2 Days",
       "processedAt": "2026-11-01T04:38:49.203Z",
       "processedBy": "admin"
+    },
+    {
+      "id": "claim_1793829773948_iefdc",
+      "status": "PENDING",
+      "createdAt": "2026-11-04T22:02:53.948Z",
+      "userId": "8c50e773-6777-4700-afe1-650258de301a",
+      "username": "moet.",
+      "rewardId": "tiktok-likes-free",
+      "rewardName": "TikTok 30 Likes",
+      "title": "TikTok 30 Likes",
+      "referenceHash": "#claim_1793829773947_sgxnf",
+      "recipientId": "https://vt.tiktok.com/ZSpN7ovw4/",
+      "icon": "🎵",
+      "coinCost": 10,
+      "voucherCode": "Pending Delivery...",
+      "idempotencyKey": "claim_8c50e773-6777-4700-afe1-650258de301a_tiktok-likes-free_1793829773939",
+      "processingEstimate": "1-2 Days"
+    },
+    {
+      "id": "claim_1793829825892_y2pup",
+      "status": "PENDING",
+      "createdAt": "2026-11-04T22:03:45.892Z",
+      "userId": "8c50e773-6777-4700-afe1-650258de301a",
+      "username": "moet.",
+      "rewardId": "tiktok-followers-free",
+      "rewardName": "TikTok 15 Followers",
+      "title": "TikTok 15 Followers",
+      "referenceHash": "#claim_1793829825891_y8kpg",
+      "recipientId": "Veil.Codm",
+      "icon": "🎵",
+      "coinCost": 10,
+      "voucherCode": "Pending Delivery...",
+      "idempotencyKey": "claim_8c50e773-6777-4700-afe1-650258de301a_tiktok-followers-free_1793829825883",
+      "processingEstimate": "1-2 Days"
+    },
+    {
+      "id": "claim_1793829863561_toeei",
+      "status": "PENDING",
+      "createdAt": "2026-11-04T22:04:23.561Z",
+      "userId": "8c50e773-6777-4700-afe1-650258de301a",
+      "username": "moet.",
+      "rewardId": "tiktok-followers-free",
+      "rewardName": "TikTok 15 Followers",
+      "title": "TikTok 15 Followers",
+      "referenceHash": "#claim_1793829863559_dvgs9",
+      "recipientId": "Veil.Codm",
+      "icon": "🎵",
+      "coinCost": 10,
+      "voucherCode": "Pending Delivery...",
+      "idempotencyKey": "claim_8c50e773-6777-4700-afe1-650258de301a_tiktok-followers-free_1793829863552",
+      "processingEstimate": "1-2 Days"
+    },
+    {
+      "id": "claim_1793829895042_2xwsh",
+      "status": "PENDING",
+      "createdAt": "2026-11-04T22:04:55.042Z",
+      "userId": "8c50e773-6777-4700-afe1-650258de301a",
+      "username": "moet.",
+      "rewardId": "tiktok-followers-free",
+      "rewardName": "TikTok 15 Followers",
+      "title": "TikTok 15 Followers",
+      "referenceHash": "#claim_1793829895041_reunp",
+      "recipientId": "Veil.Codm",
+      "icon": "🎵",
+      "coinCost": 10,
+      "voucherCode": "Pending Delivery...",
+      "idempotencyKey": "claim_8c50e773-6777-4700-afe1-650258de301a_tiktok-followers-free_1793829894994",
+      "processingEstimate": "1-2 Days"
     }
   ],
   "achievements": [
@@ -2304,6 +2470,12 @@
       "achievementId": "coins_10k",
       "name": "Pocket Change",
       "unlockedAt": "2026-10-27T18:59:37.393Z"
+    },
+    {
+      "userId": "8c50e773-6777-4700-afe1-650258de301a",
+      "achievementId": "first_claim",
+      "name": "First Redemption",
+      "unlockedAt": "2026-11-04T22:02:54.042Z"
     }
   ],
   "challenges": [
@@ -2641,7 +2813,7 @@
     "jackpot": 0,
     "drawNumber": 2,
     "lastWinner": "匚尺乇卂ㄒㄖ尺",
-    "lastDrawAt": "2026-11-04T00:00:47.124Z",
+    "lastDrawAt": "2026-11-05T00:00:48.339Z",
     "lastDraw": {
       "drawNumber": 1,
       "winner": "匚尺乇卂ㄒㄖ尺",
@@ -2764,9 +2936,9 @@
     }
   ],
   "event_stats": {
-    "totalUsers": 26,
+    "totalUsers": 27,
     "totalTickets": 0,
-    "totalCoins": 132495,
+    "totalCoins": 133795,
     "lastReset": "2026-11-01T00:00:41.837Z",
     "lastWinner": {
       "month": "2026-11",
@@ -2777,7 +2949,7 @@
       "coins": 915,
       "crownedAt": "2026-11-01T00:00:41.837Z"
     },
-    "snapshotAt": "2026-11-04T17:58:42.126Z"
+    "snapshotAt": "2026-11-05T04:58:41.634Z"
   },
   "leaderboard": [
     {
@@ -4157,6 +4329,36 @@
       "amount": 30500,
       "balanceBefore": 22915,
       "balanceAfter": 53415
+    },
+    {
+      "id": "user_register_1793829067441",
+      "type": "user_register",
+      "timestamp": "2026-11-04T21:51:07.441Z",
+      "userId": "8c50e773-6777-4700-afe1-650258de301a",
+      "username": "moet.",
+      "referredBy": null
+    },
+    {
+      "id": "coin_deposit_1793829489156",
+      "type": "coin_deposit",
+      "timestamp": "2026-11-04T21:58:09.156Z",
+      "transactionId": "e18790b9-4a1b-4f57-bd8f-db9cc78b8994",
+      "toUserId": "8c50e773-6777-4700-afe1-650258de301a",
+      "toUsername": "moet.",
+      "amount": 4800,
+      "balanceBefore": 0,
+      "balanceAfter": 4800
+    },
+    {
+      "id": "coin_deposit_1793829725817",
+      "type": "coin_deposit",
+      "timestamp": "2026-11-04T22:02:05.817Z",
+      "transactionId": "890bd851-744e-455c-936e-2b311b74fc67",
+      "toUserId": "8c50e773-6777-4700-afe1-650258de301a",
+      "toUsername": "moet.",
+      "amount": 500,
+      "balanceBefore": 2300,
+      "balanceAfter": 2800
     }
   ]
 }
