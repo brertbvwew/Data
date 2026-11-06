@@ -3511,15 +3511,15 @@
       "avatarUrl": "https://i.pinimg.com/736x/70/dd/61/70dd612c65034b88ebf474a52ccc70c4.jpg"
     },
     "254511792803874": {
-      "coin": 4510187872,
+      "coin": 5920452662,
       "level": 2,
       "uid": "403e88-34_b-nebula",
       "username": "@RedlineRSA1",
       "spam": {
-        "lastMessage": 1793141815444,
+        "lastMessage": 1793989841661,
         "count": 1
       },
-      "xp": 10460,
+      "xp": 12080,
       "hasSentMsg": {
         "coin": true,
         "cooldown": true,
@@ -3556,9 +3556,9 @@
       "permanent": false,
       "robbed": 1,
       "bank": 0,
-      "last_give_use": 1791397665331,
-      "last_give_day": "Wed Oct 07 2026",
-      "daily_give_total": 100000000,
+      "last_give_use": 1793558945335,
+      "last_give_day": "Sun Nov 01 2026",
+      "daily_give_total": 1000000,
       "lastSpins": 1789907499383,
       "lastSpin": 1789910624197,
       "stocks": {
@@ -3569,7 +3569,7 @@
         "daily": 1790423913515
       },
       "avatarUrl": "https://i.pinimg.com/736x/70/dd/61/70dd612c65034b88ebf474a52ccc70c4.jpg",
-      "lastSaveData": 1793016974956,
+      "lastSaveData": 1793141818086,
       "lastLoadAcct": 1792516234026,
       "autolevelup": true
     },
@@ -3922,5 +3922,5 @@
       }
     }
   },
-  "savedAt": 1793985738810
+  "savedAt": 1793989842466
 }
