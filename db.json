@@ -3842,6 +3842,7 @@
     "appAvatarUrl": "",
     "appName": "Hyperion",
     "appDescription": "",
+    "hyperionStudioTiktokUsername": "Hyperion_services",
     "appIconUrl": "",
     "appImageUrl": "",
     "appBannerUrl": "",
@@ -3890,7 +3891,7 @@
     "totalCoins": 73054,
     "lastReset": null,
     "lastWinner": null,
-    "snapshotAt": "2026-11-06T13:42:13.112Z"
+    "snapshotAt": "2026-11-06T13:43:14.462Z"
   },
   "leaderboard": [
     {
