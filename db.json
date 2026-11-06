@@ -39,8 +39,8 @@
       },
       "cratesOpened": 0,
       "lastCoinPurchaseAt": "2026-10-08T12:27:31.647Z",
-      "lastActiveAt": "2026-11-05T14:59:28.847Z",
-      "lastLoginAt": "2026-11-05T14:59:28.847Z"
+      "lastActiveAt": "2026-11-06T07:29:09.974Z",
+      "lastLoginAt": "2026-11-06T07:29:09.974Z"
     },
     {
       "id": "f37cbcb5-80ed-4869-a4e4-2e7e19b0c0aa",
@@ -1255,27 +1255,6 @@
   ],
   "withdrawal_requests": [],
   "activity_logs": [
-    {
-      "type": "reward_fulfilled",
-      "username": "moet.",
-      "rewardName": "TikTok 15 Followers",
-      "ts": "2026-11-05T09:41:37.452Z"
-    },
-    {
-      "type": "new_user",
-      "username": "Dax0_03",
-      "referredBy": null,
-      "ts": "2026-11-05T11:36:29.242Z"
-    },
-    {
-      "type": "reward_claim",
-      "userId": "f37cbcb5-80ed-4869-a4e4-2e7e19b0c0aa",
-      "username": "kaab0._",
-      "rewardName": "Instagram 20 Followers",
-      "cost": 10,
-      "ref": "#claim_1793879210071_52xgs",
-      "ts": "2026-11-05T11:46:50.144Z"
-    },
     {
       "type": "casino_slots",
       "username": "1",
@@ -3911,7 +3890,7 @@
     "totalCoins": 73054,
     "lastReset": null,
     "lastWinner": null,
-    "snapshotAt": "2026-11-06T02:04:43.129Z"
+    "snapshotAt": "2026-11-06T13:04:42.938Z"
   },
   "leaderboard": [
     {
