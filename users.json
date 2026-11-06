@@ -3895,7 +3895,32 @@
       "lastDeliver": 1790872978152,
       "lastClean": 1790872993186,
       "lastRansom": 1790874376772
+    },
+    "257501106827405": {
+      "coin": 149998200,
+      "level": 0,
+      "uid": "857a11c-35_b-nebula",
+      "username": "@Charity_kids_prn_fund",
+      "spam": {
+        "lastMessage": 1793985738103,
+        "count": 1
+      },
+      "xp": 560,
+      "lastRob": 1793559335239,
+      "robSuccess": 2,
+      "lastBeg": 1793416065690,
+      "begSuccess": 1,
+      "lastMine": 1793416075317,
+      "lastWork": 1793559431253,
+      "workSuccess": 2,
+      "last_give_use": 1793559110494,
+      "last_give_day": "Sun Nov 01 2026",
+      "daily_give_total": 100,
+      "bank": 1030610,
+      "hasSentMsg": {
+        "coin": true
+      }
     }
   },
-  "savedAt": 1793954303582
+  "savedAt": 1793985738810
 }
