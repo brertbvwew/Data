@@ -2586,20 +2586,20 @@
       "lastBlackjack": 1788554161471
     },
     "151994715099391": {
-      "coin": 2438700791,
+      "coin": 2701920253,
       "spam": {
-        "lastMessage": 1793010964101,
+        "lastMessage": 1793954302451,
         "count": 1
       },
-      "level": 1,
-      "xp": 14296,
+      "level": 2,
+      "xp": 1836,
       "uid": "132dec0a-31_b-nebula",
       "username": "@groper",
       "robbed": 2,
-      "lastWork": 1790442554931,
-      "workSuccess": 13,
+      "lastWork": 1793891172946,
+      "workSuccess": 14,
       "lastSpins": 1789571337110,
-      "lastSaveData": 1792863405465,
+      "lastSaveData": 1793010966197,
       "lastSteal": 1790442558049,
       "StealSuccess": 8,
       "lastRob": 1790174508443,
@@ -2616,8 +2616,8 @@
       "lastPhish": 1788599563651,
       "lastRepair": 1789148637928,
       "bank": 0,
-      "lastBeg": 1790064774923,
-      "begSuccess": 3,
+      "lastBeg": 1793558913941,
+      "begSuccess": 4,
       "lastMine": 1788601235538,
       "lastFreelance": 1788601237807,
       "lastLoadAcct": 1792229704164,
@@ -2631,13 +2631,14 @@
       "lastHack": 1789823569032,
       "lastDecrypt": 1789317046674,
       "lastBlackjack": 1789477598192,
-      "last_give_use": 1792229718639,
-      "last_give_day": "Sat Oct 17 2026",
-      "daily_give_total": 150000000,
+      "last_give_use": 1793910217702,
+      "last_give_day": "Thu Nov 05 2026",
+      "daily_give_total": 2000000,
       "avatarUrl": "https://i.pinimg.com/736x/70/dd/61/70dd612c65034b88ebf474a52ccc70c4.jpg",
       "stocks": {
-        "nebula": 0,
-        "nebulaAvg": 0
+        "nebula": 100000,
+        "nebulaAvg": 1010,
+        "nebulaBoughtAt": 1793887982647
       },
       "lastClaim": {
         "daily": 1790444338162
@@ -3896,5 +3897,5 @@
       "lastRansom": 1790874376772
     }
   },
-  "savedAt": 1793954133841
+  "savedAt": 1793954303582
 }
