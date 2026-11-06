@@ -1,23 +1,23 @@
 {
   "user": {
     "168419274039524": {
-      "coin": 16687,
+      "coin": 88922314997041,
       "spam": {
-        "lastMessage": 1789062606502,
+        "lastMessage": 1793954132719,
         "count": 1
       },
-      "level": 1,
-      "xp": 9704,
+      "level": 50,
+      "xp": 1459,
       "uid": "2d7b4b28-34_b-nebula",
       "username": "@ຖฯx",
-      "lastLoadAcct": 1788980373958,
-      "lastSaveData": 1788980384468,
-      "lastWork": 1788538494924,
-      "workSuccess": 9,
+      "lastLoadAcct": 1789241926200,
+      "lastSaveData": 1789241926200,
+      "lastWork": 1792002370511,
+      "workSuccess": 15,
       "lastSteal": 1788537648891,
       "StealSuccess": 4,
-      "lastRob": 1788795114498,
-      "robSuccess": 15,
+      "lastRob": 1789308331515,
+      "robSuccess": 16,
       "lastCode": 1788537755208,
       "lastRepair": 1788530367214,
       "lastMine": 1788537715212,
@@ -27,13 +27,13 @@
       "lastPhish": 1788537722324,
       "autolevelup": true,
       "lastRansom": 1788536145739,
-      "lastSpins": 1788953524140,
+      "lastSpins": 1791900759519,
       "lastSpin": 1788535246886,
       "lastHack": 1788536148931,
       "lastClean": 1788536206602,
       "lastDecrypt": 1788536382827,
       "lastRoulette": 1789056211359,
-      "lastBlackjack": 1788537760111,
+      "lastBlackjack": 1790701293418,
       "usedCoupons": [
         {
           "hash": "dXNlcjoxZjIxMWY5YzZiM2NkMzBjZjlkMzczNDBmYjczNGVhZToxNzg4NTUyOTU2OmM5NTA5MDJhOjdmM2Y2NTc1OTEyMjNmN2Y3YjI1NmI4NGQ4MmE4YzI1",
@@ -43,7 +43,7 @@
       ],
       "lastBuyXP": 1788553010090,
       "lastBuyUnban": 1789055647228,
-      "bank": 344363975,
+      "bank": 0,
       "crashGame": {
         "betAmount": 4000,
         "crashPoint": 4.31,
@@ -51,7 +51,440 @@
         "active": false
       },
       "lastCrash": 1789056357454,
-      "lotteryWin": 1
+      "lotteryWin": 2,
+      "last_give_use": 1793909372379,
+      "last_give_day": "Thu Nov 05 2026",
+      "daily_give_total": 150000000,
+      "avatarUrl": "https://i.pinimg.com/736x/70/dd/61/70dd612c65034b88ebf474a52ccc70c4.jpg",
+      "premium": false,
+      "premiumUntil": 0,
+      "uplimit": "10MB",
+      "limit": 10,
+      "lastBuyPremium": 1789403179185,
+      "stocks": {
+        "nebula": 0,
+        "nebulaAvg": 0
+      },
+      "lastHD": 1789404404020,
+      "spacedrones": [
+        {
+          "level": 1
+        },
+        {
+          "level": 1
+        },
+        {
+          "level": 1
+        },
+        {
+          "level": 1
+        },
+        {
+          "level": 1
+        },
+        {
+          "level": 1
+        },
+        {
+          "level": 1
+        },
+        {
+          "level": 1
+        },
+        {
+          "level": 1
+        },
+        {
+          "level": 1
+        },
+        {
+          "level": 1
+        },
+        {
+          "level": 1
+        },
+        {
+          "level": 1
+        },
+        {
+          "level": 1
+        },
+        {
+          "level": 1
+        },
+        {
+          "level": 1
+        },
+        {
+          "level": 1
+        },
+        {
+          "level": 1
+        },
+        {
+          "level": 1
+        },
+        {
+          "level": 1
+        },
+        {
+          "level": 1
+        },
+        {
+          "level": 1
+        },
+        {
+          "level": 1
+        },
+        {
+          "level": 1
+        },
+        {
+          "level": 1
+        }
+      ],
+      "spacemine": {
+        "usedDrones": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "spacestationlastPassiveIncome": 1789807174037,
+      "spaceplanet": "terra",
+      "spaceblackhole": 1789637575886,
+      "spacecombat": {
+        "lastFight": 1789637608085,
+        "victories": 0
+      },
+      "spaceinventory": {
+        "Scrap Metal": 4,
+        "Silicon Ore": 2,
+        "Iron Ore": 3,
+        "Copper Ore": 1
+      },
+      "spacelastSalvage": 1789641208131,
+      "spacesalvage": 2,
+      "spacewarplast": 1789637749627,
+      "spacelastscan": 1789640155812,
+      "spaceship": {
+        "upgradeLevel": 4
+      },
+      "gear": {
+        "equipped": {
+          "weapon": null,
+          "armor": null,
+          "accessory": null,
+          "boots": null,
+          "helmet": null
+        },
+        "inventory": {
+          "c9e2": {
+            "name": "COMMON ACCESSORY T2",
+            "type": "accessory",
+            "power": 400,
+            "tier": 2,
+            "rarity": "common"
+          }
+        }
+      },
+      "robbed": 2,
+      "shoob": {
+        "cards": [
+          {
+            "id": "mu86tpez",
+            "tier": 1,
+            "title": "Metal Bananya",
+            "url": "https://cdn.shoob.gg/images/cards/1/45d5f7721023a06a82603390b84c46401c145eb53472f88649d45ea40563cc16.png",
+            "series": "Bananya",
+            "strength": 1830,
+            "serial": null,
+            "rarityName": "Dust",
+            "tierName": "Common",
+            "color": "⬜",
+            "pulledAt": 1789810273104,
+            "inEscrow": false,
+            "onExpedition": false
+          },
+          {
+            "id": "mu8s8fc4",
+            "tier": 2,
+            "title": "Juri Yukawa",
+            "url": "https://cdn.shoob.gg/images/cards/2/1609289351547.png",
+            "series": "Kokkoku",
+            "strength": 10193,
+            "serial": null,
+            "rarityName": "Ironbound",
+            "tierName": "Uncommon",
+            "color": "🟩",
+            "pulledAt": 1789846231819,
+            "inEscrow": false,
+            "onExpedition": false
+          },
+          {
+            "id": "mumhmg6a",
+            "tier": 2,
+            "title": "Unknown Card T2",
+            "url": null,
+            "series": "Unknown Series",
+            "strength": 6227,
+            "serial": null,
+            "rarityName": "Ironbound",
+            "tierName": "Uncommon",
+            "color": "🟩",
+            "pulledAt": 1790674936883,
+            "inEscrow": false,
+            "onExpedition": false
+          },
+          {
+            "id": "mumybwoc",
+            "tier": 1,
+            "title": "Unknown Card T1",
+            "url": null,
+            "series": "Unknown Series",
+            "strength": 4098,
+            "serial": null,
+            "rarityName": "Dust",
+            "tierName": "Common",
+            "color": "⬜",
+            "pulledAt": 1790702998518,
+            "inEscrow": false,
+            "onExpedition": false
+          },
+          {
+            "id": "muwv49et",
+            "tier": 1,
+            "title": "Loid Forger",
+            "url": "https://cdn.shoob.gg/images/cards/1/cddf06b6b19dbe93614239325e8d7a2ff80e78bf45665b94595e5fd514771dfc.png",
+            "series": "Spy x Family",
+            "strength": 3099,
+            "serial": null,
+            "rarityName": "Dust",
+            "tierName": "Common",
+            "color": "⬜",
+            "pulledAt": 1791302264569,
+            "inEscrow": false,
+            "onExpedition": false
+          }
+        ],
+        "totalClaims": 2,
+        "event": {
+          "active": true,
+          "name": "ꜱᴘᴇᴄɪᴀʟ ᴇᴠᴇɴᴛ",
+          "description": "ꜱᴘᴇᴄɪᴀʟ ᴇᴠᴇɴᴛ ᴀᴄᴛɪᴠᴇ!",
+          "pityBoost": 20,
+          "startedAt": 1789810114120,
+          "endsAt": 1789817314120,
+          "startedBy": "168419274039524",
+          "nextAutoAt": 1790414914120
+        },
+        "questProgress": {
+          "pulls": 5
+        },
+        "lastPull": 1791302264569,
+        "pityCount": 5,
+        "totalPulls": 5,
+        "showcase": {
+          "lastShowcase": 1790674982170
+        },
+        "gift": {
+          "lastGift": 1789930756629
+        }
+      },
+      "plots": 1,
+      "weedfarm": {
+        "usedPlots": [
+          null
+        ]
+      },
+      "boughtplots": 1,
+      "weedinventory": {
+        "Weed Leaf": 5,
+        "Rolling Paper": 8,
+        "Ash": 4,
+        "Paper Crutch": 4,
+        "Metal Lid": 4,
+        "Perlite": 2,
+        "Rolling Tray": 2,
+        "Pre-Roll": 1,
+        "Indica Bud": 1,
+        "Plastic Shard": 1,
+        "String": 4,
+        "Sand": 2,
+        "Distilled Water": 2,
+        "Wood": 3,
+        "Metal Plate": 2,
+        "Mycorrhiza": 2,
+        "Heat Core": 3,
+        "Edible": 1,
+        "Dab Tool": 2,
+        "420 Pineapple": 3,
+        "Buzz Crystal": 1,
+        "Seed": 4,
+        "Water Pipe": 1,
+        "Ethanol": 3,
+        "Hybrid Nug": 2,
+        "Bud Crystal": 1,
+        "Canvas Sheet": 2,
+        "Purple Haze": 1,
+        "Infused Gummy": 1,
+        "Grinder Part": 2,
+        "Lighter": 2,
+        "Resin Chunk": 4,
+        "Butter": 2,
+        "Sensor Chip": 1,
+        "Lime Powder": 3,
+        "THC Oil": 3,
+        "Hydro Pot": 2,
+        "Sacred Stash": 1,
+        "Worm Castings": 2,
+        "Bud": 2,
+        "Chocolate": 2,
+        "Molasses": 2,
+        "Blazing Flower": 3
+      },
+      "weedlastGather": 1791900804863,
+      "weedgather": 4,
+      "rpginventory": {
+        "Wood": 1,
+        "Coal": 5,
+        "Cabbage": 2,
+        "Tomato": 4,
+        "Stone": 6,
+        "Iron Shard": 4,
+        "Pumpkin": 1,
+        "Coconut": 2,
+        "Silver Coin": 3,
+        "Iron Ore": 5,
+        "Magic Crystal": 3,
+        "Dark Essence": 1
+      },
+      "rpglastGather": 1790238347710,
+      "rpgGather": 1,
+      "profileFrames": [
+        "godtier",
+        "nebula"
+      ],
+      "activeFrame": "nebula",
+      "lastClanId": "1631d1",
+      "leftClanAt": 1790414685916,
+      "levelData": {
+        "pets": [
+          {
+            "id": "r9iap7g",
+            "name": "ʙᴀᴛ #3",
+            "level": 1,
+            "rarity": "ᴄᴏᴍᴍᴏɴ",
+            "element": "ꜰɪʀᴇ",
+            "powerScore": 386,
+            "skills": [
+              {
+                "name": "ᴄᴇʟᴇꜱᴛɪᴀʟ ꜱʜɪᴇʟᴅ",
+                "type": "defense",
+                "value": 0.5,
+                "chance": 0.15
+              }
+            ],
+            "energy": 100,
+            "maxEnergy": 100
+          },
+          {
+            "id": "xnknk04",
+            "name": "ᴅᴏɢ #4",
+            "level": 1,
+            "rarity": "ᴄᴏᴍᴍᴏɴ",
+            "element": "ɴᴀᴛᴜʀᴇ",
+            "powerScore": 216,
+            "skills": [
+              {
+                "name": "ᴠᴏɪᴅ ʙʟᴀꜱᴛ",
+                "type": "damage",
+                "value": 2,
+                "chance": 0.2
+              }
+            ],
+            "energy": 100,
+            "maxEnergy": 100
+          },
+          {
+            "id": "qohjvj1",
+            "name": "ᴄᴀᴛ #5",
+            "level": 1,
+            "rarity": "ᴄᴏᴍᴍᴏɴ",
+            "element": "ᴡᴀᴛᴇʀ",
+            "powerScore": 179,
+            "skills": [
+              {
+                "name": "ꜰɪʀᴇ ʙʀᴇᴀᴛʜ",
+                "type": "damage",
+                "value": 1.5,
+                "chance": 0.3
+              }
+            ],
+            "energy": 100,
+            "maxEnergy": 100
+          },
+          {
+            "id": "nflmt4n",
+            "name": "ʀᴀᴛ #6",
+            "level": 1,
+            "rarity": "ᴄᴏᴍᴍᴏɴ",
+            "element": "ɴᴀᴛᴜʀᴇ",
+            "powerScore": 216,
+            "skills": [
+              {
+                "name": "ꜰɪʀᴇ ʙʀᴇᴀᴛʜ",
+                "type": "damage",
+                "value": 1.5,
+                "chance": 0.3
+              }
+            ],
+            "energy": 100,
+            "maxEnergy": 100
+          }
+        ],
+        "items": [],
+        "ascensionPoints": 0
+      },
+      "poker": {
+        "pokerusername": "owner",
+        "chips": 1000,
+        "equippedFrame": "default",
+        "inventory": [
+          "default"
+        ],
+        "pokerwins": 0,
+        "membershipTier": "NONE",
+        "membershipExpiry": 0,
+        "activeGame": null
+      },
+      "hasSentMsg": {
+        "admin": true
+      },
+      "lastTagAllTime": 1792003578620,
+      "tagAllCount": 1
     },
     "78534164926489": {
       "coin": 6994,
@@ -3463,5 +3896,5 @@
       "lastRansom": 1790874376772
     }
   },
-  "savedAt": 1793141816315
+  "savedAt": 1793954133841
 }
