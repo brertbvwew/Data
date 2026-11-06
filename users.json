@@ -3897,15 +3897,15 @@
       "lastRansom": 1790874376772
     },
     "257501106827405": {
-      "coin": 149998200,
+      "coin": 150000000,
       "level": 0,
       "uid": "857a11c-35_b-nebula",
       "username": "@Charity_kids_prn_fund",
       "spam": {
-        "lastMessage": 1793985738103,
+        "lastMessage": 1793990207883,
         "count": 1
       },
-      "xp": 560,
+      "xp": 640,
       "lastRob": 1793559335239,
       "robSuccess": 2,
       "lastBeg": 1793416065690,
@@ -3916,11 +3916,12 @@
       "last_give_use": 1793559110494,
       "last_give_day": "Sun Nov 01 2026",
       "daily_give_total": 100,
-      "bank": 1030610,
+      "bank": 151028810,
       "hasSentMsg": {
         "coin": true
-      }
+      },
+      "lastLoadAcct": 1793989787173
     }
   },
-  "savedAt": 1793989842466
+  "savedAt": 1793990208809
 }
