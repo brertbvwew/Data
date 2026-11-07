@@ -39,8 +39,11 @@
       },
       "cratesOpened": 0,
       "lastCoinPurchaseAt": "2026-10-08T12:27:31.647Z",
-      "lastActiveAt": "2026-11-06T13:42:04.539Z",
-      "lastLoginAt": "2026-11-06T13:42:04.539Z"
+      "lastActiveAt": "2026-11-06T20:28:40.058Z",
+      "lastLoginAt": "2026-11-06T20:28:40.058Z",
+      "betaTestingOptInAt": "2026-11-06T13:45:56.444Z",
+      "betaTestingOptIn": true,
+      "updatedAt": "2026-11-06T13:45:56.444Z"
     },
     {
       "id": "f37cbcb5-80ed-4869-a4e4-2e7e19b0c0aa",
@@ -71,7 +74,7 @@
       "lifetimeCoinsSpent": 250,
       "level": 1,
       "xp": 415,
-      "rewardCoins": 1770,
+      "rewardCoins": 1780,
       "cosmetics": {
         "frames": [],
         "profileArt": []
@@ -272,7 +275,7 @@
       "role": "user",
       "referralCode": "1-GI1UX",
       "transferHash": "D0ASA08",
-      "coins": 489,
+      "coins": 339,
       "tickets": 0,
       "totalReferrals": 0,
       "monthlyReferrals": 0,
@@ -286,13 +289,13 @@
       "currentStreak": 1,
       "longestStreak": 5,
       "lastClaimDate": null,
-      "gamesPlayed": 256,
-      "gamesWon": 86,
-      "lifetimeCoinsEarned": 179944,
-      "lifetimeCoinsSpent": 67655,
-      "level": 3,
-      "xp": 5260,
-      "rewardCoins": 1310,
+      "gamesPlayed": 263,
+      "gamesWon": 89,
+      "lifetimeCoinsEarned": 181544,
+      "lifetimeCoinsSpent": 69405,
+      "level": 4,
+      "xp": 3282,
+      "rewardCoins": 1370,
       "cosmetics": {
         "frames": [],
         "profileArt": []
@@ -302,8 +305,8 @@
         "profileArt": null
       },
       "cratesOpened": 0,
-      "lastLoginAt": "2026-11-05T17:14:14.521Z",
-      "lastActiveAt": "2026-11-05T17:14:14.521Z",
+      "lastLoginAt": "2026-11-06T17:55:11.617Z",
+      "lastActiveAt": "2026-11-06T17:55:11.617Z",
       "botLoginKeyHash": "916ac12e65756ba778fc5eaf9d0c6f15a02467c9f9b1b0347b43387e45d60f93",
       "botLoginKeyExpiresAt": "2026-10-22T20:23:22.504Z",
       "banExpiresAt": null,
@@ -1114,7 +1117,7 @@
       "role": "user",
       "referralCode": "MOET-5JP61",
       "transferHash": "SNEE68Y",
-      "coins": 1300,
+      "coins": 4300,
       "tickets": 0,
       "totalReferrals": 0,
       "monthlyReferrals": 0,
@@ -1130,11 +1133,11 @@
       "lastClaimDate": null,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "lifetimeCoinsEarned": 1000,
+      "lifetimeCoinsEarned": 4000,
       "lifetimeCoinsSpent": 0,
-      "level": 1,
-      "xp": 300,
-      "rewardCoins": 290,
+      "level": 2,
+      "xp": 600,
+      "rewardCoins": 280,
       "cosmetics": {
         "frames": [],
         "profileArt": []
@@ -1143,8 +1146,8 @@
         "frame": null,
         "profileArt": null
       },
-      "lastActiveAt": "2026-11-04T22:27:03.577Z",
-      "lastLoginAt": "2026-11-04T22:27:03.577Z",
+      "lastActiveAt": "2026-11-06T20:31:34.934Z",
+      "lastLoginAt": "2026-11-06T20:31:34.934Z",
       "cratesOpened": 0
     },
     {
@@ -1189,7 +1192,203 @@
       "cratesOpened": 0
     }
   ],
-  "transactions": [],
+  "transactions": [
+    {
+      "txId": "refund_claim_1793879210072_98nfg",
+      "userId": "f37cbcb5-80ed-4869-a4e4-2e7e19b0c0aa",
+      "type": "CREDIT",
+      "currency": "rewardCoins",
+      "amount": 10,
+      "reason": "Refund: Reward Claim rejected (Instagram 20 Followers)",
+      "referenceId": "claim_1793879210072_98nfg",
+      "balanceBefore": 1770,
+      "balanceAfter": 1780,
+      "createdAt": "2026-11-06T13:44:50.347Z",
+      "recordedAt": "2026-11-06T13:44:50.350Z"
+    },
+    {
+      "txId": "4cdf3056-8ded-44c0-9f6a-1665065a24ef",
+      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
+      "type": "CREDIT",
+      "currency": "coins",
+      "amount": 1500,
+      "reason": "Challenge: Coin Collector",
+      "referenceId": null,
+      "balanceBefore": 489,
+      "balanceAfter": 1989,
+      "createdAt": "2026-11-06T17:56:15.637Z",
+      "recordedAt": "2026-11-06T17:56:15.639Z"
+    },
+    {
+      "txId": "7e580fd3-cc47-478e-aab3-000cbbb37a98",
+      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
+      "type": "DEBIT",
+      "currency": "coins",
+      "amount": 250,
+      "reason": "Casino wager",
+      "referenceId": null,
+      "balanceBefore": 1989,
+      "balanceAfter": 1739,
+      "createdAt": "2026-11-06T17:57:27.064Z",
+      "recordedAt": "2026-11-06T17:57:27.070Z"
+    },
+    {
+      "txId": "6ebdc5f4-7d44-4101-8c35-b54ae45eb7ba",
+      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
+      "type": "CREDIT",
+      "currency": "rewardCoins",
+      "amount": 20,
+      "reason": "Casino win reward",
+      "referenceId": null,
+      "balanceBefore": 1310,
+      "balanceAfter": 1330,
+      "createdAt": "2026-11-06T17:57:27.156Z",
+      "recordedAt": "2026-11-06T17:57:27.157Z"
+    },
+    {
+      "txId": "263f1312-c90c-466d-bd07-804cfc31ded4",
+      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
+      "type": "DEBIT",
+      "currency": "coins",
+      "amount": 250,
+      "reason": "Casino wager",
+      "referenceId": null,
+      "balanceBefore": 1739,
+      "balanceAfter": 1489,
+      "createdAt": "2026-11-06T17:57:37.126Z",
+      "recordedAt": "2026-11-06T17:57:37.127Z"
+    },
+    {
+      "txId": "8f2b08db-5262-43ea-aa2c-c1d1ee94a30c",
+      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
+      "type": "CREDIT",
+      "currency": "rewardCoins",
+      "amount": 20,
+      "reason": "Casino win reward",
+      "referenceId": null,
+      "balanceBefore": 1330,
+      "balanceAfter": 1350,
+      "createdAt": "2026-11-06T17:57:37.141Z",
+      "recordedAt": "2026-11-06T17:57:37.142Z"
+    },
+    {
+      "txId": "f9f85f2c-675d-43c0-ae03-a8af81c0ccbb",
+      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
+      "type": "DEBIT",
+      "currency": "coins",
+      "amount": 250,
+      "reason": "Casino wager",
+      "referenceId": null,
+      "balanceBefore": 1489,
+      "balanceAfter": 1239,
+      "createdAt": "2026-11-06T17:57:43.162Z",
+      "recordedAt": "2026-11-06T17:57:43.164Z"
+    },
+    {
+      "txId": "59047320-c3b8-4800-83bf-e8942f7e99b6",
+      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
+      "type": "DEBIT",
+      "currency": "coins",
+      "amount": 250,
+      "reason": "Casino wager",
+      "referenceId": null,
+      "balanceBefore": 1239,
+      "balanceAfter": 989,
+      "createdAt": "2026-11-06T17:57:47.678Z",
+      "recordedAt": "2026-11-06T17:57:47.685Z"
+    },
+    {
+      "txId": "ee19102c-7459-4a53-b502-d589a5682f4a",
+      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
+      "type": "DEBIT",
+      "currency": "coins",
+      "amount": 250,
+      "reason": "Casino wager",
+      "referenceId": null,
+      "balanceBefore": 989,
+      "balanceAfter": 739,
+      "createdAt": "2026-11-06T17:57:53.089Z",
+      "recordedAt": "2026-11-06T17:57:53.092Z"
+    },
+    {
+      "txId": "5ed332ee-b119-4706-b62d-b868472ad3a1",
+      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
+      "type": "DEBIT",
+      "currency": "coins",
+      "amount": 250,
+      "reason": "Casino wager",
+      "referenceId": null,
+      "balanceBefore": 739,
+      "balanceAfter": 489,
+      "createdAt": "2026-11-06T17:57:57.601Z",
+      "recordedAt": "2026-11-06T17:57:57.604Z"
+    },
+    {
+      "txId": "dc903df4-11a9-412e-b4e8-4d47a6458771",
+      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
+      "type": "DEBIT",
+      "currency": "coins",
+      "amount": 250,
+      "reason": "Casino wager",
+      "referenceId": null,
+      "balanceBefore": 489,
+      "balanceAfter": 239,
+      "createdAt": "2026-11-06T17:58:01.624Z",
+      "recordedAt": "2026-11-06T17:58:01.626Z"
+    },
+    {
+      "txId": "93363706-256e-443e-9679-de0eaf265253",
+      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
+      "type": "CREDIT",
+      "currency": "rewardCoins",
+      "amount": 20,
+      "reason": "Casino win reward",
+      "referenceId": null,
+      "balanceBefore": 1350,
+      "balanceAfter": 1370,
+      "createdAt": "2026-11-06T17:58:01.649Z",
+      "recordedAt": "2026-11-06T17:58:01.651Z"
+    },
+    {
+      "txId": "60daeb84-778d-419c-a3de-3bae5c37c76d",
+      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
+      "type": "CREDIT",
+      "currency": "coins",
+      "amount": 100,
+      "reason": "Daily Streak Bonus (Day 1)",
+      "referenceId": null,
+      "balanceBefore": 239,
+      "balanceAfter": 339,
+      "createdAt": "2026-11-06T17:59:39.951Z",
+      "recordedAt": "2026-11-06T17:59:39.953Z"
+    },
+    {
+      "txId": "claim_8c50e773-6777-4700-afe1-650258de301a_tiktok-likes-free_1793997126601",
+      "userId": "8c50e773-6777-4700-afe1-650258de301a",
+      "type": "DEBIT",
+      "currency": "rewardCoins",
+      "amount": 10,
+      "reason": "Reward Claim: TikTok 30 Likes",
+      "referenceId": "tiktok-likes-free",
+      "balanceBefore": 290,
+      "balanceAfter": 280,
+      "createdAt": "2026-11-06T20:32:06.650Z",
+      "recordedAt": "2026-11-06T20:32:06.651Z"
+    },
+    {
+      "txId": "achievement:8c50e773-6777-4700-afe1-650258de301a:claims_5",
+      "userId": "8c50e773-6777-4700-afe1-650258de301a",
+      "type": "CREDIT",
+      "currency": "coins",
+      "amount": 3000,
+      "reason": "Achievement: Reward Hunter",
+      "referenceId": "claims_5",
+      "balanceBefore": 1300,
+      "balanceAfter": 4300,
+      "createdAt": "2026-11-06T20:32:06.950Z",
+      "recordedAt": "2026-11-06T20:32:06.953Z"
+    }
+  ],
   "coin_orders": [
     {
       "id": "COIN-F4378BF7",
@@ -1256,20 +1455,44 @@
   "withdrawal_requests": [],
   "activity_logs": [
     {
+      "type": "challenge_claim",
+      "username": "1",
+      "challengeTitle": "Coin Collector",
+      "coins": 1500,
+      "xp": 400,
+      "ts": "2026-11-06T17:56:15.642Z"
+    },
+    {
       "type": "casino_slots",
       "username": "1",
       "action": "spin",
       "bet": 250,
-      "isWin": false,
-      "payout": 0,
-      "multiplier": 0,
+      "isWin": true,
+      "payout": 20,
+      "multiplier": 0.08,
       "symbols": [
         "DIAMOND",
-        "BAR",
-        "CROWN"
+        "DIAMOND",
+        "CHERRY"
       ],
-      "winType": null,
-      "ts": "2026-11-05T17:14:30.104Z"
+      "winType": "pair",
+      "ts": "2026-11-06T17:57:27.450Z"
+    },
+    {
+      "type": "casino_slots",
+      "username": "1",
+      "action": "spin",
+      "bet": 250,
+      "isWin": true,
+      "payout": 20,
+      "multiplier": 0.08,
+      "symbols": [
+        "GRAPE",
+        "GRAPE",
+        "ORANGE"
+      ],
+      "winType": "pair",
+      "ts": "2026-11-06T17:57:37.449Z"
     },
     {
       "type": "casino_slots",
@@ -1280,915 +1503,98 @@
       "payout": 0,
       "multiplier": 0,
       "symbols": [
-        "COIN",
-        "DIAMOND",
+        "ORANGE",
+        "STAR",
+        "CLOVER"
+      ],
+      "winType": null,
+      "ts": "2026-11-06T17:57:43.444Z"
+    },
+    {
+      "type": "casino_slots",
+      "username": "1",
+      "action": "spin",
+      "bet": 250,
+      "isWin": false,
+      "payout": 0,
+      "multiplier": 0,
+      "symbols": [
+        "ORANGE",
+        "BAR",
+        "GRAPE"
+      ],
+      "winType": null,
+      "ts": "2026-11-06T17:57:47.952Z"
+    },
+    {
+      "type": "casino_slots",
+      "username": "1",
+      "action": "spin",
+      "bet": 250,
+      "isWin": false,
+      "payout": 0,
+      "multiplier": 0,
+      "symbols": [
+        "CHERRY",
+        "CROWN",
+        "BAR"
+      ],
+      "winType": null,
+      "ts": "2026-11-06T17:57:53.355Z"
+    },
+    {
+      "type": "casino_slots",
+      "username": "1",
+      "action": "spin",
+      "bet": 250,
+      "isWin": false,
+      "payout": 0,
+      "multiplier": 0,
+      "symbols": [
+        "CROWN",
+        "STAR",
         "ORANGE"
       ],
       "winType": null,
-      "ts": "2026-11-05T17:14:34.406Z"
+      "ts": "2026-11-06T17:57:57.851Z"
     },
     {
-      "type": "casino_blackjack",
-      "username": "1",
-      "action": "hold",
-      "bet": 250,
-      "isWin": true,
-      "payout": 20,
-      "multiplier": 0.08,
-      "playerCards": [
-        "5♠",
-        "2♠"
-      ],
-      "dealerCards": [
-        "9♣",
-        "4♥",
-        "Q♠"
-      ],
-      "playerTotal": 7,
-      "dealerTotal": 23,
-      "ts": "2026-11-05T17:14:50.410Z"
-    },
-    {
-      "type": "casino_roulette",
-      "username": "1",
-      "action": "spin_color_red",
-      "bet": 250,
-      "isWin": true,
-      "payout": 20,
-      "multiplier": 0.08,
-      "rolledNumber": 27,
-      "color": "red",
-      "betType": "color",
-      "betValue": "red",
-      "ts": "2026-11-05T17:14:58.703Z"
-    },
-    {
-      "type": "casino_crash",
-      "username": "1",
-      "action": "play",
-      "bet": 250,
-      "isWin": true,
-      "payout": 20,
-      "multiplier": 0.08,
-      "crashPoint": 2.7,
-      "targetMultiplier": 2,
-      "ts": "2026-11-05T17:15:10.501Z"
-    },
-    {
-      "type": "casino_crash",
-      "username": "1",
-      "action": "play",
-      "bet": 250,
-      "isWin": true,
-      "payout": 20,
-      "multiplier": 0.08,
-      "crashPoint": 3.68,
-      "targetMultiplier": 2,
-      "ts": "2026-11-05T17:15:22.215Z"
-    },
-    {
-      "type": "casino_crash",
-      "username": "1",
-      "action": "play",
-      "bet": 250,
-      "isWin": true,
-      "payout": 20,
-      "multiplier": 0.08,
-      "crashPoint": 4.96,
-      "targetMultiplier": 2,
-      "ts": "2026-11-05T17:15:33.006Z"
-    },
-    {
-      "type": "casino_crash",
-      "username": "1",
-      "action": "play",
-      "bet": 250,
-      "isWin": true,
-      "payout": 20,
-      "multiplier": 0.08,
-      "crashPoint": 4.05,
-      "targetMultiplier": 2,
-      "ts": "2026-11-05T17:15:44.911Z"
-    },
-    {
-      "type": "casino_plinko",
-      "username": "1",
-      "action": "drop_1_8_medium",
-      "bet": 250,
-      "isWin": false,
-      "payout": 0,
-      "multiplier": 0,
-      "rows": 8,
-      "risk": "medium",
-      "balls": 1,
-      "bins": [
-        4
-      ],
-      "ts": "2026-11-05T17:15:58.810Z"
-    },
-    {
-      "type": "casino_plinko",
-      "username": "1",
-      "action": "drop_1_8_medium",
-      "bet": 250,
-      "isWin": false,
-      "payout": 0,
-      "multiplier": 0,
-      "rows": 8,
-      "risk": "medium",
-      "balls": 1,
-      "bins": [
-        4
-      ],
-      "ts": "2026-11-05T17:16:01.703Z"
-    },
-    {
-      "type": "casino_mines",
-      "username": "1",
-      "action": "hit_mine_1",
-      "bet": 250,
-      "isWin": false,
-      "payout": 0,
-      "multiplier": 0,
-      "mineCount": 18,
-      "picks": 1,
-      "ts": "2026-11-05T17:16:09.714Z"
-    },
-    {
-      "type": "casino_mines",
-      "username": "1",
-      "action": "hit_mine_1",
-      "bet": 250,
-      "isWin": false,
-      "payout": 0,
-      "multiplier": 0,
-      "mineCount": 18,
-      "picks": 1,
-      "ts": "2026-11-05T17:16:13.904Z"
-    },
-    {
-      "type": "casino_mines",
-      "username": "1",
-      "action": "hit_mine_1",
-      "bet": 250,
-      "isWin": false,
-      "payout": 0,
-      "multiplier": 0,
-      "mineCount": 18,
-      "picks": 1,
-      "ts": "2026-11-05T17:16:19.610Z"
-    },
-    {
-      "type": "casino_mines",
-      "username": "1",
-      "action": "hit_mine_1",
-      "bet": 250,
-      "isWin": false,
-      "payout": 0,
-      "multiplier": 0,
-      "mineCount": 18,
-      "picks": 1,
-      "ts": "2026-11-05T17:16:23.609Z"
-    },
-    {
-      "type": "casino_tower",
-      "username": "1",
-      "action": "trap_floor_2",
-      "bet": 250,
-      "isWin": false,
-      "payout": 0,
-      "multiplier": 0,
-      "floor": 2,
-      "door": 0,
-      "ts": "2026-11-05T17:16:31.916Z"
-    },
-    {
-      "type": "casino_limbo",
-      "username": "1",
-      "action": "target_2.60x",
-      "bet": 250,
-      "isWin": true,
-      "payout": 20,
-      "multiplier": 0.08,
-      "target": 2.6,
-      "resultMultiplier": 1,
-      "ts": "2026-11-05T17:16:37.006Z"
-    },
-    {
-      "type": "casino_limbo",
-      "username": "1",
-      "action": "target_2.80x",
-      "bet": 250,
-      "isWin": false,
-      "payout": 0,
-      "multiplier": 0,
-      "target": 2.8,
-      "resultMultiplier": 1,
-      "ts": "2026-11-05T17:16:39.816Z"
-    },
-    {
-      "type": "casino_limbo",
-      "username": "1",
-      "action": "target_2.72x",
-      "bet": 250,
-      "isWin": false,
-      "payout": 0,
-      "multiplier": 0,
-      "target": 2.72,
-      "resultMultiplier": 1,
-      "ts": "2026-11-05T17:16:42.402Z"
-    },
-    {
-      "type": "casino_limbo",
-      "username": "1",
-      "action": "target_1.95x",
-      "bet": 250,
-      "isWin": false,
-      "payout": 0,
-      "multiplier": 0,
-      "target": 1.95,
-      "resultMultiplier": 1,
-      "ts": "2026-11-05T17:16:44.815Z"
-    },
-    {
-      "type": "casino_limbo",
-      "username": "1",
-      "action": "target_2.41x",
-      "bet": 250,
-      "isWin": true,
-      "payout": 20,
-      "multiplier": 0.08,
-      "target": 2.41,
-      "resultMultiplier": 1,
-      "ts": "2026-11-05T17:16:47.410Z"
-    },
-    {
-      "type": "casino_dice",
-      "username": "1",
-      "action": "under_82",
-      "bet": 250,
-      "isWin": true,
-      "payout": 274,
-      "multiplier": 1.096,
-      "roll": 73.25,
-      "target": 82,
-      "direction": "under",
-      "winChance": 0.82,
-      "payoutCurrency": "App Coins",
-      "ts": "2026-11-05T17:16:54.602Z"
-    },
-    {
-      "type": "casino_dice",
-      "username": "1",
-      "action": "under_82",
-      "bet": 250,
-      "isWin": true,
-      "payout": 274,
-      "multiplier": 1.096,
-      "roll": 63.85,
-      "target": 82,
-      "direction": "under",
-      "winChance": 0.82,
-      "payoutCurrency": "App Coins",
-      "ts": "2026-11-05T17:16:56.509Z"
-    },
-    {
-      "type": "casino_dice",
-      "username": "1",
-      "action": "under_82",
-      "bet": 250,
-      "isWin": true,
-      "payout": 274,
-      "multiplier": 1.096,
-      "roll": 78.78,
-      "target": 82,
-      "direction": "under",
-      "winChance": 0.82,
-      "payoutCurrency": "App Coins",
-      "ts": "2026-11-05T17:16:58.710Z"
-    },
-    {
-      "type": "casino_dice",
-      "username": "1",
-      "action": "under_82",
-      "bet": 250,
-      "isWin": true,
-      "payout": 274,
-      "multiplier": 1.096,
-      "roll": 39.45,
-      "target": 82,
-      "direction": "under",
-      "winChance": 0.82,
-      "payoutCurrency": "App Coins",
-      "ts": "2026-11-05T17:17:00.906Z"
-    },
-    {
-      "type": "casino_dice",
-      "username": "1",
-      "action": "under_82",
-      "bet": 250,
-      "isWin": true,
-      "payout": 274,
-      "multiplier": 1.096,
-      "roll": 36.39,
-      "target": 82,
-      "direction": "under",
-      "winChance": 0.82,
-      "payoutCurrency": "App Coins",
-      "ts": "2026-11-05T17:17:03.114Z"
-    },
-    {
-      "type": "casino_dice",
-      "username": "1",
-      "action": "under_82",
-      "bet": 250,
-      "isWin": true,
-      "payout": 274,
-      "multiplier": 1.096,
-      "roll": 17.81,
-      "target": 82,
-      "direction": "under",
-      "winChance": 0.82,
-      "payoutCurrency": "App Coins",
-      "ts": "2026-11-05T17:17:05.011Z"
-    },
-    {
-      "type": "casino_dice",
-      "username": "1",
-      "action": "under_82",
-      "bet": 250,
-      "isWin": true,
-      "payout": 274,
-      "multiplier": 1.096,
-      "roll": 28.88,
-      "target": 82,
-      "direction": "under",
-      "winChance": 0.82,
-      "payoutCurrency": "App Coins",
-      "ts": "2026-11-05T17:17:06.905Z"
-    },
-    {
-      "type": "casino_dice",
-      "username": "1",
-      "action": "under_82",
-      "bet": 250,
-      "isWin": true,
-      "payout": 274,
-      "multiplier": 1.096,
-      "roll": 28.52,
-      "target": 82,
-      "direction": "under",
-      "winChance": 0.82,
-      "payoutCurrency": "App Coins",
-      "ts": "2026-11-05T17:17:08.813Z"
-    },
-    {
-      "type": "casino_dice",
-      "username": "1",
-      "action": "under_43",
-      "bet": 250,
-      "isWin": false,
-      "payout": 0,
-      "multiplier": 0,
-      "roll": 43.22,
-      "target": 43,
-      "direction": "under",
-      "winChance": 0.43,
-      "payoutCurrency": "App Coins",
-      "ts": "2026-11-05T17:17:15.312Z"
-    },
-    {
-      "type": "casino_dice",
-      "username": "1",
-      "action": "under_43",
-      "bet": 250,
-      "isWin": false,
-      "payout": 0,
-      "multiplier": 0,
-      "roll": 73.18,
-      "target": 43,
-      "direction": "under",
-      "winChance": 0.43,
-      "payoutCurrency": "App Coins",
-      "ts": "2026-11-05T17:17:17.410Z"
-    },
-    {
-      "type": "casino_dice",
-      "username": "1",
-      "action": "under_43",
-      "bet": 250,
-      "isWin": true,
-      "payout": 523,
-      "multiplier": 2.092,
-      "roll": 8.1,
-      "target": 43,
-      "direction": "under",
-      "winChance": 0.43,
-      "payoutCurrency": "App Coins",
-      "ts": "2026-11-05T17:17:19.506Z"
-    },
-    {
-      "type": "casino_keno",
-      "username": "1",
-      "action": "pick_4_need_2",
-      "bet": 250,
-      "isWin": true,
-      "payout": 879,
-      "multiplier": 3.516,
-      "picks": [
-        3,
-        11,
-        18,
-        27
-      ],
-      "drawn": [
-        2,
-        3,
-        8,
-        13,
-        14,
-        17,
-        27,
-        32,
-        33,
-        36
-      ],
-      "hits": [
-        3,
-        27
-      ],
-      "minimumHits": 2,
-      "winChance": 0.25588138746033484,
-      "payoutCurrency": "App Coins",
-      "ts": "2026-11-05T17:17:24.117Z"
-    },
-    {
-      "type": "casino_keno",
-      "username": "1",
-      "action": "pick_4_need_2",
-      "bet": 250,
-      "isWin": true,
-      "payout": 879,
-      "multiplier": 3.516,
-      "picks": [
-        3,
-        11,
-        18,
-        27
-      ],
-      "drawn": [
-        3,
-        8,
-        11,
-        12,
-        15,
-        23,
-        25,
-        27,
-        30,
-        40
-      ],
-      "hits": [
-        3,
-        11,
-        27
-      ],
-      "minimumHits": 2,
-      "winChance": 0.25588138746033484,
-      "payoutCurrency": "App Coins",
-      "ts": "2026-11-05T17:17:29.712Z"
-    },
-    {
-      "type": "casino_keno",
-      "username": "1",
-      "action": "pick_4_need_2",
-      "bet": 250,
-      "isWin": true,
-      "payout": 879,
-      "multiplier": 3.516,
-      "picks": [
-        3,
-        11,
-        18,
-        27
-      ],
-      "drawn": [
-        4,
-        11,
-        12,
-        14,
-        18,
-        29,
-        34,
-        36,
-        38,
-        40
-      ],
-      "hits": [
-        11,
-        18
-      ],
-      "minimumHits": 2,
-      "winChance": 0.25588138746033484,
-      "payoutCurrency": "App Coins",
-      "ts": "2026-11-05T17:17:32.014Z"
-    },
-    {
-      "type": "casino_keno",
-      "username": "1",
-      "action": "pick_4_need_2",
-      "bet": 250,
-      "isWin": true,
-      "payout": 879,
-      "multiplier": 3.516,
-      "picks": [
-        3,
-        11,
-        18,
-        27
-      ],
-      "drawn": [
-        8,
-        9,
-        11,
-        12,
-        17,
-        23,
-        27,
-        29,
-        33,
-        38
-      ],
-      "hits": [
-        11,
-        27
-      ],
-      "minimumHits": 2,
-      "winChance": 0.25588138746033484,
-      "payoutCurrency": "App Coins",
-      "ts": "2026-11-05T17:17:33.814Z"
-    },
-    {
-      "type": "casino_keno",
-      "username": "1",
-      "action": "pick_4_need_2",
-      "bet": 250,
-      "isWin": false,
-      "payout": 0,
-      "multiplier": 0,
-      "picks": [
-        3,
-        11,
-        18,
-        27
-      ],
-      "drawn": [
-        2,
-        5,
-        7,
-        10,
-        14,
-        23,
-        25,
-        27,
-        30,
-        40
-      ],
-      "hits": [
-        27
-      ],
-      "minimumHits": 2,
-      "winChance": 0.25588138746033484,
-      "payoutCurrency": "App Coins",
-      "ts": "2026-11-05T17:17:35.510Z"
-    },
-    {
-      "type": "casino_keno",
-      "username": "1",
-      "action": "pick_4_need_2",
-      "bet": 250,
-      "isWin": false,
-      "payout": 0,
-      "multiplier": 0,
-      "picks": [
-        3,
-        11,
-        18,
-        27
-      ],
-      "drawn": [
-        8,
-        14,
-        16,
-        21,
-        22,
-        27,
-        28,
-        31,
-        32,
-        39
-      ],
-      "hits": [
-        27
-      ],
-      "minimumHits": 2,
-      "winChance": 0.25588138746033484,
-      "payoutCurrency": "App Coins",
-      "ts": "2026-11-05T17:17:37.108Z"
-    },
-    {
-      "type": "casino_keno",
-      "username": "1",
-      "action": "pick_4_need_2",
-      "bet": 250,
-      "isWin": false,
-      "payout": 0,
-      "multiplier": 0,
-      "picks": [
-        3,
-        11,
-        18,
-        27
-      ],
-      "drawn": [
-        2,
-        8,
-        20,
-        21,
-        27,
-        31,
-        33,
-        34,
-        37,
-        40
-      ],
-      "hits": [
-        27
-      ],
-      "minimumHits": 2,
-      "winChance": 0.25588138746033484,
-      "payoutCurrency": "App Coins",
-      "ts": "2026-11-05T17:17:38.807Z"
-    },
-    {
-      "type": "casino_keno",
-      "username": "1",
-      "action": "pick_4_need_2",
-      "bet": 250,
-      "isWin": true,
-      "payout": 879,
-      "multiplier": 3.516,
-      "picks": [
-        3,
-        11,
-        18,
-        27
-      ],
-      "drawn": [
-        1,
-        3,
-        9,
-        12,
-        18,
-        20,
-        21,
-        31,
-        34,
-        35
-      ],
-      "hits": [
-        3,
-        18
-      ],
-      "minimumHits": 2,
-      "winChance": 0.25588138746033484,
-      "payoutCurrency": "App Coins",
-      "ts": "2026-11-05T17:17:40.711Z"
-    },
-    {
-      "type": "casino_keno",
-      "username": "1",
-      "action": "pick_4_need_2",
-      "bet": 250,
-      "isWin": true,
-      "payout": 879,
-      "multiplier": 3.516,
-      "picks": [
-        3,
-        11,
-        18,
-        27
-      ],
-      "drawn": [
-        1,
-        2,
-        4,
-        11,
-        12,
-        14,
-        18,
-        20,
-        28,
-        31
-      ],
-      "hits": [
-        11,
-        18
-      ],
-      "minimumHits": 2,
-      "winChance": 0.25588138746033484,
-      "payoutCurrency": "App Coins",
-      "ts": "2026-11-05T17:17:42.616Z"
-    },
-    {
-      "type": "casino_keno",
-      "username": "1",
-      "action": "pick_4_need_2",
-      "bet": 250,
-      "isWin": false,
-      "payout": 0,
-      "multiplier": 0,
-      "picks": [
-        3,
-        11,
-        18,
-        27
-      ],
-      "drawn": [
-        6,
-        8,
-        9,
-        11,
-        17,
-        20,
-        21,
-        22,
-        30,
-        31
-      ],
-      "hits": [
-        11
-      ],
-      "minimumHits": 2,
-      "winChance": 0.25588138746033484,
-      "payoutCurrency": "App Coins",
-      "ts": "2026-11-05T17:17:44.506Z"
-    },
-    {
-      "type": "casino_hilo",
-      "username": "1",
-      "action": "guess_higher",
-      "bet": 250,
-      "isWin": false,
-      "payout": 0,
-      "multiplier": 0,
-      "current": "7♠",
-      "next": "4♦",
-      "direction": "higher",
-      "winChance": 0.5490196078431373,
-      "payoutCurrency": "App Coins",
-      "ts": "2026-11-05T17:17:49.608Z"
-    },
-    {
-      "type": "casino_hilo",
-      "username": "1",
-      "action": "guess_lower",
-      "bet": 250,
-      "isWin": true,
-      "payout": 573,
-      "multiplier": 2.292,
-      "current": "7♠",
-      "next": "6♣",
-      "direction": "lower",
-      "winChance": 0.39215686274509803,
-      "payoutCurrency": "App Coins",
-      "ts": "2026-11-05T17:17:51.608Z"
-    },
-    {
-      "type": "casino_hilo",
-      "username": "1",
-      "action": "guess_higher",
-      "bet": 250,
-      "isWin": false,
-      "payout": 0,
-      "multiplier": 0,
-      "current": "7♥",
-      "next": "6♠",
-      "direction": "higher",
-      "winChance": 0.5490196078431373,
-      "payoutCurrency": "App Coins",
-      "ts": "2026-11-05T17:17:53.412Z"
-    },
-    {
-      "type": "casino_hilo",
-      "username": "1",
-      "action": "guess_lower",
-      "bet": 250,
-      "isWin": false,
-      "payout": 0,
-      "multiplier": 0,
-      "current": "7♦",
-      "next": "Q♥",
-      "direction": "lower",
-      "winChance": 0.39215686274509803,
-      "payoutCurrency": "App Coins",
-      "ts": "2026-11-05T17:17:55.110Z"
-    },
-    {
-      "type": "casino_hilo",
-      "username": "1",
-      "action": "guess_lower",
-      "bet": 250,
-      "isWin": true,
-      "payout": 573,
-      "multiplier": 2.292,
-      "current": "7♣",
-      "next": "4♥",
-      "direction": "lower",
-      "winChance": 0.39215686274509803,
-      "payoutCurrency": "App Coins",
-      "ts": "2026-11-05T17:17:56.810Z"
-    },
-    {
-      "type": "casino_hilo",
-      "username": "1",
-      "action": "guess_lower",
-      "bet": 250,
-      "isWin": false,
-      "payout": 0,
-      "multiplier": 0,
-      "current": "7♠",
-      "next": "J♠",
-      "direction": "lower",
-      "winChance": 0.39215686274509803,
-      "payoutCurrency": "App Coins",
-      "ts": "2026-11-05T17:17:58.511Z"
-    },
-    {
-      "type": "casino_baccarat",
-      "username": "1",
-      "action": "bet_player",
-      "bet": 250,
-      "isWin": true,
-      "payout": 450,
-      "multiplier": 1.8,
-      "betType": "player",
-      "outcome": "player",
-      "playerCards": [
-        "A♠",
-        "4♠",
-        "8♠"
-      ],
-      "bankerCards": [
-        "Q♥",
-        "Q♦",
-        "Q♣"
-      ],
-      "playerScore": 3,
-      "bankerScore": 0,
-      "isPush": false,
-      "payoutCurrency": "App Coins",
-      "ts": "2026-11-05T17:18:03.815Z"
-    },
-    {
-      "type": "casino_wheel",
+      "type": "casino_slots",
       "username": "1",
       "action": "spin",
       "bet": 250,
-      "isWin": false,
-      "payout": 0,
-      "multiplier": 0,
-      "outcome": "lose",
-      "payoutMultiplier": 0,
-      "payoutCurrency": "App Coins",
-      "ts": "2026-11-05T17:18:10.403Z"
+      "isWin": true,
+      "payout": 20,
+      "multiplier": 0.08,
+      "symbols": [
+        "LEMON",
+        "BELL",
+        "LEMON"
+      ],
+      "winType": "pair",
+      "ts": "2026-11-06T17:58:02.039Z"
     },
     {
-      "type": "casino_wheel",
+      "type": "daily_bonus",
       "username": "1",
-      "action": "spin",
-      "bet": 250,
-      "isWin": false,
-      "payout": 0,
-      "multiplier": 0,
-      "outcome": "lose",
-      "payoutMultiplier": 0,
-      "payoutCurrency": "App Coins",
-      "ts": "2026-11-05T17:18:12.312Z"
+      "coins": 100,
+      "streak": 1,
+      "ts": "2026-11-06T17:59:40.044Z"
     },
     {
-      "type": "pack_opened",
-      "username": "1",
-      "pack": "legendary",
-      "cards": 5,
-      "ts": "2026-11-05T17:18:20.801Z"
+      "type": "reward_claim",
+      "userId": "8c50e773-6777-4700-afe1-650258de301a",
+      "username": "moet.",
+      "rewardName": "TikTok 30 Likes",
+      "cost": 10,
+      "ref": "#claim_1793997126655_2qsxa",
+      "ts": "2026-11-06T20:32:06.747Z"
     },
     {
-      "type": "pack_opened",
-      "username": "1",
-      "pack": "legendary",
-      "cards": 5,
-      "ts": "2026-11-05T17:18:30.804Z"
+      "type": "reward_fulfilled",
+      "username": "moet.",
+      "rewardName": "TikTok 30 Likes",
+      "ts": "2026-11-06T20:38:32.379Z"
     }
   ],
   "rewards": [
@@ -2667,7 +2073,7 @@
     },
     {
       "id": "claim_1793879210072_98nfg",
-      "status": "PENDING",
+      "status": "REJECTED",
       "createdAt": "2026-11-05T11:46:50.072Z",
       "userId": "f37cbcb5-80ed-4869-a4e4-2e7e19b0c0aa",
       "username": "kaab0._",
@@ -2680,7 +2086,28 @@
       "coinCost": 10,
       "voucherCode": "Pending Delivery...",
       "idempotencyKey": "claim_f37cbcb5-80ed-4869-a4e4-2e7e19b0c0aa_instagram-followers-free_1793879210062",
-      "processingEstimate": "1-2 Days"
+      "processingEstimate": "1-2 Days",
+      "processedAt": "2026-11-06T13:44:50.300Z",
+      "processedBy": "admin"
+    },
+    {
+      "id": "claim_1793997126741_0fp5e",
+      "status": "FULFILLED",
+      "createdAt": "2026-11-06T20:32:06.741Z",
+      "userId": "8c50e773-6777-4700-afe1-650258de301a",
+      "username": "moet.",
+      "rewardId": "tiktok-likes-free",
+      "rewardName": "TikTok 30 Likes",
+      "title": "TikTok 30 Likes",
+      "referenceHash": "#claim_1793997126655_2qsxa",
+      "recipientId": "https://vt.tiktok.com/ZSpMVQC9p/",
+      "icon": "🎵",
+      "coinCost": 10,
+      "voucherCode": "",
+      "idempotencyKey": "claim_8c50e773-6777-4700-afe1-650258de301a_tiktok-likes-free_1793997126601",
+      "processingEstimate": "1-2 Days",
+      "processedAt": "2026-11-06T20:38:32.374Z",
+      "processedBy": "admin"
     }
   ],
   "achievements": [
@@ -3422,6 +2849,12 @@
       "achievementId": "first_claim",
       "name": "First Redemption",
       "unlockedAt": "2026-11-04T22:02:54.042Z"
+    },
+    {
+      "userId": "8c50e773-6777-4700-afe1-650258de301a",
+      "achievementId": "claims_5",
+      "name": "Reward Hunter",
+      "unlockedAt": "2026-11-06T20:32:06.848Z"
     }
   ],
   "challenges": [
@@ -3528,28 +2961,29 @@
     {
       "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
       "challengeId": "chal_play3",
-      "progress": 250,
+      "progress": 257,
       "completed": true,
       "claimed": true,
-      "updatedAt": "2026-11-05T17:18:12.116Z",
+      "updatedAt": "2026-11-06T17:58:01.749Z",
       "claimedAt": "2026-10-06T19:31:46.297Z"
     },
     {
       "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
       "challengeId": "chal_win1",
-      "progress": 83,
+      "progress": 86,
       "completed": true,
       "claimed": true,
-      "updatedAt": "2026-11-05T17:18:03.514Z",
+      "updatedAt": "2026-11-06T17:58:01.842Z",
       "claimedAt": "2026-10-06T19:31:49.016Z"
     },
     {
       "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
       "challengeId": "chal_earn2k",
-      "progress": 11135,
+      "progress": 11195,
       "completed": true,
-      "claimed": false,
-      "updatedAt": "2026-11-05T17:18:03.609Z"
+      "claimed": true,
+      "updatedAt": "2026-11-06T17:58:01.849Z",
+      "claimedAt": "2026-11-06T17:56:15.630Z"
     },
     {
       "userId": "f37cbcb5-80ed-4869-a4e4-2e7e19b0c0aa",
@@ -3708,8 +3142,8 @@
     {
       "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
       "streak": 1,
-      "lastClaimDate": "2026-10-21",
-      "lastClaimAt": "2026-10-21T08:58:49.290Z"
+      "lastClaimDate": "2026-11-06",
+      "lastClaimAt": "2026-11-06T17:59:39.942Z"
     },
     {
       "userId": "afdd6b55-1597-4a45-86f7-1579c8325dc8",
@@ -3759,7 +3193,7 @@
     "jackpot": 0,
     "drawNumber": 2,
     "lastWinner": "匚尺乇卂ㄒㄖ尺",
-    "lastDrawAt": "2026-11-06T00:00:42.292Z",
+    "lastDrawAt": "2026-11-07T00:00:13.280Z",
     "lastDraw": {
       "drawNumber": 1,
       "winner": "匚尺乇卂ㄒㄖ尺",
@@ -3842,7 +3276,7 @@
     "appAvatarUrl": "",
     "appName": "Hyperion",
     "appDescription": "",
-    "hyperionStudioTiktokUsername": "Hyperion_services",
+    "hyperionStudioTiktokUsername": "hyperion_studio",
     "appIconUrl": "",
     "appImageUrl": "",
     "appBannerUrl": "",
@@ -3888,10 +3322,10 @@
   "event_stats": {
     "totalUsers": 28,
     "totalTickets": 0,
-    "totalCoins": 73054,
+    "totalCoins": 75904,
     "lastReset": null,
     "lastWinner": null,
-    "snapshotAt": "2026-11-06T13:43:14.462Z"
+    "snapshotAt": "2026-11-07T00:43:14.616Z"
   },
   "leaderboard": [
     {
