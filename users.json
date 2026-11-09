@@ -2586,22 +2586,22 @@
       "lastBlackjack": 1788554161471
     },
     "151994715099391": {
-      "coin": 3055337253,
+      "coin": 3222281805,
       "spam": {
-        "lastMessage": 1794061321785,
+        "lastMessage": 1794240212278,
         "count": 1
       },
       "level": 2,
-      "xp": 2576,
+      "xp": 3416,
       "uid": "132dec0a-31_b-nebula",
       "username": "@evolved_nut👅",
       "robbed": 2,
       "lastWork": 1793891172946,
       "workSuccess": 14,
       "lastSpins": 1789571337110,
-      "lastSaveData": 1793954304781,
-      "lastSteal": 1790442558049,
-      "StealSuccess": 8,
+      "lastSaveData": 1794061324247,
+      "lastSteal": 1794074099417,
+      "StealSuccess": 9,
       "lastRob": 1790174508443,
       "robSuccess": 21,
       "lastRobBank": 1790174511501,
@@ -2611,7 +2611,8 @@
       "lastClean": 1789148597034,
       "hasSentMsg": {
         "cooldown": true,
-        "coin": true
+        "coin": true,
+        "premium": true
       },
       "lastPhish": 1788599563651,
       "lastRepair": 1789148637928,
@@ -2636,8 +2637,9 @@
       "daily_give_total": 2000000,
       "avatarUrl": "https://i.pinimg.com/736x/70/dd/61/70dd612c65034b88ebf474a52ccc70c4.jpg",
       "stocks": {
-        "nebula": 0,
-        "nebulaAvg": 0
+        "nebula": 100000,
+        "nebulaAvg": 1058,
+        "nebulaBoughtAt": 1794240197229
       },
       "lastClaim": {
         "daily": 1790444338162
@@ -3922,5 +3924,5 @@
       "lastLoadAcct": 1793989787173
     }
   },
-  "savedAt": 1794061322867
+  "savedAt": 1794240213176
 }
