@@ -39,8 +39,8 @@
       },
       "cratesOpened": 0,
       "lastCoinPurchaseAt": "2026-10-08T12:27:31.647Z",
-      "lastActiveAt": "2026-11-10T14:52:25.947Z",
-      "lastLoginAt": "2026-11-10T14:52:25.947Z",
+      "lastActiveAt": "2026-11-11T14:11:41.186Z",
+      "lastLoginAt": "2026-11-11T14:11:41.186Z",
       "betaTestingOptInAt": "2026-11-06T13:45:56.444Z",
       "betaTestingOptIn": true,
       "updatedAt": "2026-11-06T13:45:56.444Z"
@@ -1137,7 +1137,7 @@
       "lifetimeCoinsSpent": 0,
       "level": 2,
       "xp": 600,
-      "rewardCoins": 250,
+      "rewardCoins": 260,
       "cosmetics": {
         "frames": [],
         "profileArt": []
@@ -1194,45 +1194,6 @@
   ],
   "transactions": [
     {
-      "txId": "claim_8c50e773-6777-4700-afe1-650258de301a_tiktok-likes-free_1794307634677",
-      "userId": "8c50e773-6777-4700-afe1-650258de301a",
-      "type": "DEBIT",
-      "currency": "rewardCoins",
-      "amount": 10,
-      "reason": "Reward Claim: TikTok 30 Likes",
-      "referenceId": "tiktok-likes-free",
-      "balanceBefore": 270,
-      "balanceAfter": 260,
-      "createdAt": "2026-11-10T10:47:14.684Z",
-      "recordedAt": "2026-11-10T10:47:14.740Z"
-    },
-    {
-      "txId": "claim_8c50e773-6777-4700-afe1-650258de301a_tiktok-followers-free_1794307719930",
-      "userId": "8c50e773-6777-4700-afe1-650258de301a",
-      "type": "DEBIT",
-      "currency": "rewardCoins",
-      "amount": 10,
-      "reason": "Reward Claim: TikTok 15 Followers",
-      "referenceId": "tiktok-followers-free",
-      "balanceBefore": 260,
-      "balanceAfter": 250,
-      "createdAt": "2026-11-10T10:48:39.945Z",
-      "recordedAt": "2026-11-10T10:48:39.947Z"
-    },
-    {
-      "txId": "claim_8c50e773-6777-4700-afe1-650258de301a_tiktok-followers-free_1794307753983",
-      "userId": "8c50e773-6777-4700-afe1-650258de301a",
-      "type": "DEBIT",
-      "currency": "rewardCoins",
-      "amount": 10,
-      "reason": "Reward Claim: TikTok 15 Followers",
-      "referenceId": "tiktok-followers-free",
-      "balanceBefore": 250,
-      "balanceAfter": 240,
-      "createdAt": "2026-11-10T10:49:13.989Z",
-      "recordedAt": "2026-11-10T10:49:14.039Z"
-    },
-    {
       "txId": "refund_claim_1794307719952_wy3x5",
       "userId": "8c50e773-6777-4700-afe1-650258de301a",
       "type": "CREDIT",
@@ -1244,6 +1205,19 @@
       "balanceAfter": 250,
       "createdAt": "2026-11-10T14:53:11.544Z",
       "recordedAt": "2026-11-10T14:53:11.546Z"
+    },
+    {
+      "txId": "refund_claim_1794307634744_yg86s",
+      "userId": "8c50e773-6777-4700-afe1-650258de301a",
+      "type": "CREDIT",
+      "currency": "rewardCoins",
+      "amount": 10,
+      "reason": "Refund: Reward Claim rejected (TikTok 30 Likes)",
+      "referenceId": "claim_1794307634744_yg86s",
+      "balanceBefore": 250,
+      "balanceAfter": 260,
+      "createdAt": "2026-11-11T06:20:39.946Z",
+      "recordedAt": "2026-11-11T06:20:39.948Z"
     }
   ],
   "coin_orders": [
@@ -1311,39 +1285,6 @@
   ],
   "withdrawal_requests": [],
   "activity_logs": [
-    {
-      "type": "reward_fulfilled",
-      "username": "moet.",
-      "rewardName": "TikTok 30 Likes",
-      "ts": "2026-11-10T09:29:18.884Z"
-    },
-    {
-      "type": "reward_claim",
-      "userId": "8c50e773-6777-4700-afe1-650258de301a",
-      "username": "moet.",
-      "rewardName": "TikTok 30 Likes",
-      "cost": 10,
-      "ref": "#claim_1794307634743_hvpbq",
-      "ts": "2026-11-10T10:47:14.749Z"
-    },
-    {
-      "type": "reward_claim",
-      "userId": "8c50e773-6777-4700-afe1-650258de301a",
-      "username": "moet.",
-      "rewardName": "TikTok 15 Followers",
-      "cost": 10,
-      "ref": "#claim_1794307719950_kkbzd",
-      "ts": "2026-11-10T10:48:40.043Z"
-    },
-    {
-      "type": "reward_claim",
-      "userId": "8c50e773-6777-4700-afe1-650258de301a",
-      "username": "moet.",
-      "rewardName": "TikTok 15 Followers",
-      "cost": 10,
-      "ref": "#claim_1794307754042_5e7rg",
-      "ts": "2026-11-10T10:49:14.047Z"
-    },
     {
       "type": "reward_fulfilled",
       "username": "moet.",
@@ -1884,7 +1825,7 @@
     },
     {
       "id": "claim_1794307634744_yg86s",
-      "status": "PROCESSING",
+      "status": "REJECTED",
       "createdAt": "2026-11-10T10:47:14.744Z",
       "userId": "8c50e773-6777-4700-afe1-650258de301a",
       "username": "moet.",
@@ -1898,7 +1839,7 @@
       "voucherCode": "Pending Delivery...",
       "idempotencyKey": "claim_8c50e773-6777-4700-afe1-650258de301a_tiktok-likes-free_1794307634677",
       "processingEstimate": "1-2 Days",
-      "processedAt": "2026-11-10T14:55:21.802Z",
+      "processedAt": "2026-11-11T06:20:39.880Z",
       "processedBy": "admin"
     },
     {
@@ -3155,7 +3096,7 @@
     "totalCoins": 75904,
     "lastReset": null,
     "lastWinner": null,
-    "snapshotAt": "2026-11-11T03:43:14.540Z"
+    "snapshotAt": "2026-11-11T14:43:14.222Z"
   },
   "leaderboard": [
     {
