@@ -39,8 +39,8 @@
       },
       "cratesOpened": 0,
       "lastCoinPurchaseAt": "2026-10-08T12:27:31.647Z",
-      "lastActiveAt": "2026-11-11T15:59:04.489Z",
-      "lastLoginAt": "2026-11-11T15:59:04.489Z",
+      "lastActiveAt": "2026-11-12T05:53:26.706Z",
+      "lastLoginAt": "2026-11-12T05:53:26.706Z",
       "betaTestingOptInAt": "2026-11-06T13:45:56.444Z",
       "betaTestingOptIn": true,
       "updatedAt": "2026-11-06T13:45:56.444Z"
@@ -1192,21 +1192,7 @@
       "cratesOpened": 0
     }
   ],
-  "transactions": [
-    {
-      "txId": "refund_claim_1794307634744_yg86s",
-      "userId": "8c50e773-6777-4700-afe1-650258de301a",
-      "type": "CREDIT",
-      "currency": "rewardCoins",
-      "amount": 10,
-      "reason": "Refund: Reward Claim rejected (TikTok 30 Likes)",
-      "referenceId": "claim_1794307634744_yg86s",
-      "balanceBefore": 250,
-      "balanceAfter": 260,
-      "createdAt": "2026-11-11T06:20:39.946Z",
-      "recordedAt": "2026-11-11T06:20:39.948Z"
-    }
-  ],
+  "transactions": [],
   "coin_orders": [
     {
       "id": "COIN-F4378BF7",
@@ -3076,7 +3062,7 @@
     "totalCoins": 75904,
     "lastReset": null,
     "lastWinner": null,
-    "snapshotAt": "2026-11-12T01:43:14.632Z"
+    "snapshotAt": "2026-11-12T12:43:14.624Z"
   },
   "leaderboard": [
     {
