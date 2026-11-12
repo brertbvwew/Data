@@ -39,8 +39,8 @@
       },
       "cratesOpened": 0,
       "lastCoinPurchaseAt": "2026-10-08T12:27:31.647Z",
-      "lastActiveAt": "2026-11-11T14:11:41.186Z",
-      "lastLoginAt": "2026-11-11T14:11:41.186Z",
+      "lastActiveAt": "2026-11-11T15:59:04.489Z",
+      "lastLoginAt": "2026-11-11T15:59:04.489Z",
       "betaTestingOptInAt": "2026-11-06T13:45:56.444Z",
       "betaTestingOptIn": true,
       "updatedAt": "2026-11-06T13:45:56.444Z"
@@ -1194,19 +1194,6 @@
   ],
   "transactions": [
     {
-      "txId": "refund_claim_1794307719952_wy3x5",
-      "userId": "8c50e773-6777-4700-afe1-650258de301a",
-      "type": "CREDIT",
-      "currency": "rewardCoins",
-      "amount": 10,
-      "reason": "Refund: Reward Claim rejected (TikTok 15 Followers)",
-      "referenceId": "claim_1794307719952_wy3x5",
-      "balanceBefore": 240,
-      "balanceAfter": 250,
-      "createdAt": "2026-11-10T14:53:11.544Z",
-      "recordedAt": "2026-11-10T14:53:11.546Z"
-    },
-    {
       "txId": "refund_claim_1794307634744_yg86s",
       "userId": "8c50e773-6777-4700-afe1-650258de301a",
       "type": "CREDIT",
@@ -1284,14 +1271,7 @@
     }
   ],
   "withdrawal_requests": [],
-  "activity_logs": [
-    {
-      "type": "reward_fulfilled",
-      "username": "moet.",
-      "rewardName": "TikTok 15 Followers",
-      "ts": "2026-11-10T14:55:13.429Z"
-    }
-  ],
+  "activity_logs": [],
   "rewards": [
     {
       "id": "freefire-100",
@@ -2964,7 +2944,7 @@
     "jackpot": 0,
     "drawNumber": 2,
     "lastWinner": "匚尺乇卂ㄒㄖ尺",
-    "lastDrawAt": "2026-11-11T00:00:20.905Z",
+    "lastDrawAt": "2026-11-12T00:00:23.576Z",
     "lastDraw": {
       "drawNumber": 1,
       "winner": "匚尺乇卂ㄒㄖ尺",
@@ -3096,7 +3076,7 @@
     "totalCoins": 75904,
     "lastReset": null,
     "lastWinner": null,
-    "snapshotAt": "2026-11-11T14:43:14.222Z"
+    "snapshotAt": "2026-11-12T01:43:14.632Z"
   },
   "leaderboard": [
     {
