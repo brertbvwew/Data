@@ -2586,20 +2586,20 @@
       "lastBlackjack": 1788554161471
     },
     "151994715099391": {
-      "coin": 3222281805,
+      "coin": 3592360185,
       "spam": {
-        "lastMessage": 1794240212278,
+        "lastMessage": 1794600209065,
         "count": 1
       },
       "level": 2,
-      "xp": 3416,
+      "xp": 6256,
       "uid": "132dec0a-31_b-nebula",
       "username": "@evolved_nut👅",
       "robbed": 2,
       "lastWork": 1793891172946,
       "workSuccess": 14,
       "lastSpins": 1789571337110,
-      "lastSaveData": 1794061324247,
+      "lastSaveData": 1794240214899,
       "lastSteal": 1794074099417,
       "StealSuccess": 9,
       "lastRob": 1790174508443,
@@ -2632,18 +2632,25 @@
       "lastHack": 1789823569032,
       "lastDecrypt": 1789317046674,
       "lastBlackjack": 1789477598192,
-      "last_give_use": 1793910217702,
-      "last_give_day": "Thu Nov 05 2026",
-      "daily_give_total": 2000000,
+      "last_give_use": 1794499565076,
+      "last_give_day": "Thu Nov 12 2026",
+      "daily_give_total": 1000000,
       "avatarUrl": "https://i.pinimg.com/736x/70/dd/61/70dd612c65034b88ebf474a52ccc70c4.jpg",
       "stocks": {
-        "nebula": 100000,
-        "nebulaAvg": 1058,
-        "nebulaBoughtAt": 1794240197229
+        "nebula": 0,
+        "nebulaAvg": 0
       },
       "lastClaim": {
         "daily": 1790444338162
-      }
+      },
+      "inventory": [
+        "x3coin"
+      ],
+      "premium": true,
+      "premiumUntil": 1794416433492,
+      "uplimit": "10MB",
+      "limit": 10,
+      "lastBuyPremium": 1794330033492
     },
     "279800426053766": {
       "coin": 2376891446,
@@ -3940,5 +3947,5 @@
       "begSuccess": 8
     }
   },
-  "savedAt": 1794599999014
+  "savedAt": 1794600209773
 }
