@@ -2586,20 +2586,20 @@
       "lastBlackjack": 1788554161471
     },
     "151994715099391": {
-      "coin": 3592360185,
+      "coin": 3748587385,
       "spam": {
-        "lastMessage": 1794600209065,
+        "lastMessage": 1794761845800,
         "count": 1
       },
       "level": 2,
-      "xp": 6256,
+      "xp": 6916,
       "uid": "132dec0a-31_b-nebula",
       "username": "@evolved_nut👅",
       "robbed": 2,
       "lastWork": 1793891172946,
       "workSuccess": 14,
       "lastSpins": 1789571337110,
-      "lastSaveData": 1794240214899,
+      "lastSaveData": 1794600211166,
       "lastSteal": 1794074099417,
       "StealSuccess": 9,
       "lastRob": 1790174508443,
@@ -3947,5 +3947,5 @@
       "begSuccess": 8
     }
   },
-  "savedAt": 1794636009210
+  "savedAt": 1794761846782
 }
