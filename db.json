@@ -39,8 +39,8 @@
       },
       "cratesOpened": 0,
       "lastCoinPurchaseAt": "2026-10-08T12:27:31.647Z",
-      "lastActiveAt": "2026-11-14T15:42:51.547Z",
-      "lastLoginAt": "2026-11-14T15:42:51.547Z",
+      "lastActiveAt": "2026-11-15T13:53:42.057Z",
+      "lastLoginAt": "2026-11-15T13:53:42.057Z",
       "betaTestingOptInAt": "2026-11-06T13:45:56.444Z",
       "betaTestingOptIn": true,
       "updatedAt": "2026-11-06T13:45:56.444Z"
@@ -74,7 +74,7 @@
       "lifetimeCoinsSpent": 250,
       "level": 2,
       "xp": 715,
-      "rewardCoins": 1770,
+      "rewardCoins": 1780,
       "cosmetics": {
         "frames": [],
         "profileArt": []
@@ -1190,21 +1190,61 @@
       },
       "lastActiveAt": "2026-11-05T11:36:39.642Z",
       "cratesOpened": 0
+    },
+    {
+      "id": "09801952-94ab-41bd-9580-ad7eee8ccf0d",
+      "username": "ditrillkash",
+      "email": "ditrillkash@gmail.com",
+      "password": "OLAnipekun123",
+      "passwordHash": null,
+      "role": "user",
+      "referralCode": "DITR-WJVTI",
+      "transferHash": "I2TNZQD",
+      "coins": 0,
+      "tickets": 0,
+      "totalReferrals": 0,
+      "monthlyReferrals": 0,
+      "hasRedeemedReferral": false,
+      "totalSpins": 0,
+      "lastSpinAt": null,
+      "lastCoinPurchaseAt": null,
+      "trophies": 0,
+      "banned": false,
+      "createdAt": "2026-11-15T11:11:55.154Z",
+      "currentStreak": 0,
+      "longestStreak": 0,
+      "lastClaimDate": null,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "lifetimeCoinsEarned": 0,
+      "lifetimeCoinsSpent": 0,
+      "level": 1,
+      "xp": 0,
+      "rewardCoins": 0,
+      "cosmetics": {
+        "frames": [],
+        "profileArt": []
+      },
+      "equippedCosmetics": {
+        "frame": null,
+        "profileArt": null
+      },
+      "lastActiveAt": "2026-11-15T11:12:04.287Z"
     }
   ],
   "transactions": [
     {
-      "txId": "refund_claim_1794596120446_tq4i8",
+      "txId": "refund_claim_1794596218445_albzn",
       "userId": "f37cbcb5-80ed-4869-a4e4-2e7e19b0c0aa",
       "type": "CREDIT",
       "currency": "rewardCoins",
       "amount": 10,
       "reason": "Refund: Reward Claim rejected (Instagram 20 Followers)",
-      "referenceId": "claim_1794596120446_tq4i8",
-      "balanceBefore": 1760,
-      "balanceAfter": 1770,
-      "createdAt": "2026-11-14T15:44:07.844Z",
-      "recordedAt": "2026-11-14T15:44:07.845Z"
+      "referenceId": "claim_1794596218445_albzn",
+      "balanceBefore": 1770,
+      "balanceAfter": 1780,
+      "createdAt": "2026-11-15T06:48:47.210Z",
+      "recordedAt": "2026-11-15T06:48:47.240Z"
     }
   ],
   "coin_orders": [
@@ -1271,7 +1311,14 @@
     }
   ],
   "withdrawal_requests": [],
-  "activity_logs": [],
+  "activity_logs": [
+    {
+      "type": "new_user",
+      "username": "ditrillkash",
+      "referredBy": null,
+      "ts": "2026-11-15T11:11:55.245Z"
+    }
+  ],
   "rewards": [
     {
       "id": "freefire-100",
@@ -1881,7 +1928,7 @@
     },
     {
       "id": "claim_1794596218445_albzn",
-      "status": "PENDING",
+      "status": "REJECTED",
       "createdAt": "2026-11-13T18:56:58.445Z",
       "userId": "f37cbcb5-80ed-4869-a4e4-2e7e19b0c0aa",
       "username": "kaab0._",
@@ -1894,7 +1941,9 @@
       "coinCost": 10,
       "voucherCode": "Pending Delivery...",
       "idempotencyKey": "claim_f37cbcb5-80ed-4869-a4e4-2e7e19b0c0aa_instagram-followers-free_1794596218377",
-      "processingEstimate": "1-2 Days"
+      "processingEstimate": "1-2 Days",
+      "processedAt": "2026-11-15T06:48:47.201Z",
+      "processedBy": "admin"
     }
   ],
   "achievements": [
@@ -3113,12 +3162,12 @@
     }
   ],
   "event_stats": {
-    "totalUsers": 28,
+    "totalUsers": 29,
     "totalTickets": 0,
     "totalCoins": 78904,
     "lastReset": null,
     "lastWinner": null,
-    "snapshotAt": "2026-11-15T06:43:14.567Z"
+    "snapshotAt": "2026-11-15T17:43:14.735Z"
   },
   "leaderboard": [
     {
@@ -4535,6 +4584,14 @@
       "timestamp": "2026-11-05T11:36:29.240Z",
       "userId": "cc35ed7a-2664-47e6-b12d-6d69727b0696",
       "username": "Dax0_03",
+      "referredBy": null
+    },
+    {
+      "id": "user_register_1794741115241",
+      "type": "user_register",
+      "timestamp": "2026-11-15T11:11:55.241Z",
+      "userId": "09801952-94ab-41bd-9580-ad7eee8ccf0d",
+      "username": "ditrillkash",
       "referredBy": null
     }
   ]
