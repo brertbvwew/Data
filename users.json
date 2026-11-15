@@ -2653,16 +2653,16 @@
       "lastBuyPremium": 1794330033492
     },
     "279800426053766": {
-      "coin": 2376891446,
+      "coin": 2903115424,
       "level": 6,
       "uid": "2c18d595-36_b-nebula",
       "username": "@Moetʕ˖͜͡˖ʔ",
       "spam": {
-        "lastMessage": 1793001001280,
+        "lastMessage": 1794761906132,
         "count": 1
       },
-      "xp": 2500,
-      "lastSaveData": 1791097997848,
+      "xp": 3520,
+      "lastSaveData": 1793001003324,
       "autolevelup": true,
       "lastWork": 1790752909027,
       "workSuccess": 59,
@@ -2678,8 +2678,8 @@
       },
       "lastClean": 1790752952145,
       "lastPhish": 1790752946612,
-      "lastBeg": 1790411150854,
-      "begSuccess": 17,
+      "lastBeg": 1793740283050,
+      "begSuccess": 18,
       "banned": false,
       "permanent": false,
       "lastBlackjack": 1790456799142,
@@ -2769,15 +2769,15 @@
         "nebulaAvg": 0
       },
       "lastClaim": {
-        "daily": 1792230192398
+        "daily": 1793451438493
       },
       "shoob": {
-        "dust": 352,
-        "lastDaily": 1792515938843,
-        "dailyStreak": 3,
+        "dust": 412,
+        "lastDaily": 1793451435836,
+        "dailyStreak": 5,
         "luckBoost": {
           "active": true,
-          "grantedAt": 1792515938843,
+          "grantedAt": 1793451435836,
           "description": "ᴛ4+ ᴅʀᴏᴘ ʀᴀᴛᴇ ʙᴏᴏꜱᴛ ᴏɴ ɴᴇxᴛ ᴘᴜʟʟ"
         },
         "pvpLosses": 1,
@@ -3947,5 +3947,5 @@
       "begSuccess": 8
     }
   },
-  "savedAt": 1794761846782
+  "savedAt": 1794761906933
 }
