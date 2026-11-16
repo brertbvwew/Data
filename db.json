@@ -3035,7 +3035,7 @@
     "jackpot": 0,
     "drawNumber": 2,
     "lastWinner": "匚尺乇卂ㄒㄖ尺",
-    "lastDrawAt": "2026-11-15T00:00:28.831Z",
+    "lastDrawAt": "2026-11-16T00:00:30.696Z",
     "lastDraw": {
       "drawNumber": 1,
       "winner": "匚尺乇卂ㄒㄖ尺",
@@ -3167,7 +3167,7 @@
     "totalCoins": 78904,
     "lastReset": null,
     "lastWinner": null,
-    "snapshotAt": "2026-11-15T17:43:14.735Z"
+    "snapshotAt": "2026-11-16T04:43:14.207Z"
   },
   "leaderboard": [
     {
