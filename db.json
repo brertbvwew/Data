@@ -39,8 +39,8 @@
       },
       "cratesOpened": 0,
       "lastCoinPurchaseAt": "2026-10-08T12:27:31.647Z",
-      "lastActiveAt": "2026-11-15T13:53:42.057Z",
-      "lastLoginAt": "2026-11-15T13:53:42.057Z",
+      "lastActiveAt": "2026-11-16T07:02:41.740Z",
+      "lastLoginAt": "2026-11-16T07:02:41.740Z",
       "betaTestingOptInAt": "2026-11-06T13:45:56.444Z",
       "betaTestingOptIn": true,
       "updatedAt": "2026-11-06T13:45:56.444Z"
@@ -1232,21 +1232,7 @@
       "lastActiveAt": "2026-11-15T11:12:04.287Z"
     }
   ],
-  "transactions": [
-    {
-      "txId": "refund_claim_1794596218445_albzn",
-      "userId": "f37cbcb5-80ed-4869-a4e4-2e7e19b0c0aa",
-      "type": "CREDIT",
-      "currency": "rewardCoins",
-      "amount": 10,
-      "reason": "Refund: Reward Claim rejected (Instagram 20 Followers)",
-      "referenceId": "claim_1794596218445_albzn",
-      "balanceBefore": 1770,
-      "balanceAfter": 1780,
-      "createdAt": "2026-11-15T06:48:47.210Z",
-      "recordedAt": "2026-11-15T06:48:47.240Z"
-    }
-  ],
+  "transactions": [],
   "coin_orders": [
     {
       "id": "COIN-F4378BF7",
@@ -1311,14 +1297,7 @@
     }
   ],
   "withdrawal_requests": [],
-  "activity_logs": [
-    {
-      "type": "new_user",
-      "username": "ditrillkash",
-      "referredBy": null,
-      "ts": "2026-11-15T11:11:55.245Z"
-    }
-  ],
+  "activity_logs": [],
   "rewards": [
     {
       "id": "freefire-100",
@@ -3167,7 +3146,7 @@
     "totalCoins": 78904,
     "lastReset": null,
     "lastWinner": null,
-    "snapshotAt": "2026-11-16T04:43:14.207Z"
+    "snapshotAt": "2026-11-16T15:43:14.362Z"
   },
   "leaderboard": [
     {
