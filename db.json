@@ -39,8 +39,8 @@
       },
       "cratesOpened": 0,
       "lastCoinPurchaseAt": "2026-10-08T12:27:31.647Z",
-      "lastActiveAt": "2026-11-18T06:41:01.814Z",
-      "lastLoginAt": "2026-11-18T06:41:01.814Z",
+      "lastActiveAt": "2026-11-18T18:08:51.319Z",
+      "lastLoginAt": "2026-11-18T18:08:51.319Z",
       "betaTestingOptInAt": "2026-11-06T13:45:56.444Z",
       "betaTestingOptIn": true,
       "updatedAt": "2026-11-06T13:45:56.444Z"
@@ -1336,7 +1336,7 @@
       "id": "easports-100",
       "name": "EA Sports FC 100 Silver",
       "category": "Mobile Games",
-      "coinCost": 15000,
+      "coinCost": 14250,
       "appCoinCost": 250000,
       "discountCoinCost": 14250,
       "discountAppCoinCost": 237500,
@@ -1344,7 +1344,12 @@
       "icon": "🪖",
       "asset": "https://raw.githubusercontent.com/coderxsa/Assets/refs/heads/main/images/rewards/easports.png",
       "requiredInput": "Player ID",
-      "status": "ACTIVE"
+      "status": "ACTIVE",
+      "originalCoinCost": 14250,
+      "originalAppCoinCost": 250000,
+      "discountedAppCoinCost": 237500,
+      "isDiscounted": true,
+      "discountExpiresAt": 1795046400000
     },
     {
       "id": "roblox-500",
@@ -1364,7 +1369,7 @@
       "id": "pubg-60",
       "name": "PUBG Mobile 60 UC",
       "category": "Mobile Games",
-      "coinCost": 15000,
+      "coinCost": 14250,
       "appCoinCost": 250000,
       "discountCoinCost": 14250,
       "discountAppCoinCost": 237500,
@@ -1372,7 +1377,12 @@
       "icon": "🪂",
       "asset": "https://raw.githubusercontent.com/coderxsa/Assets/refs/heads/main/images/rewards/pubg.png",
       "requiredInput": "Player ID",
-      "status": "ACTIVE"
+      "status": "ACTIVE",
+      "originalCoinCost": 14250,
+      "originalAppCoinCost": 250000,
+      "discountedAppCoinCost": 237500,
+      "isDiscounted": true,
+      "discountExpiresAt": 1795046400000
     },
     {
       "id": "data-1gb",
@@ -1455,7 +1465,7 @@
       "id": "netflix-sub",
       "name": "Netflix Subscription",
       "category": "Movie Streaming",
-      "coinCost": 100000,
+      "coinCost": 95000,
       "appCoinCost": 1666667,
       "discountCoinCost": 95000,
       "discountAppCoinCost": 1583333,
@@ -1465,7 +1475,12 @@
       "requiredInput": "Account Details",
       "status": "INACTIVE",
       "updatedAt": "2026-10-31T15:44:41.366Z",
-      "processingEstimate": ""
+      "processingEstimate": "",
+      "originalCoinCost": 95000,
+      "originalAppCoinCost": 1666667,
+      "discountedAppCoinCost": 1583333,
+      "isDiscounted": true,
+      "discountExpiresAt": 1795046400000
     },
     {
       "id": "takealot",
@@ -1499,7 +1514,7 @@
       "originalAppCoinCost": 833333,
       "discountedAppCoinCost": 791667,
       "isDiscounted": true,
-      "discountExpiresAt": 1793491200000
+      "discountExpiresAt": 1795046400000
     },
     {
       "id": "tiktok-followers-500",
@@ -1566,7 +1581,7 @@
       "id": "tiktok-followers-free",
       "name": "TikTok 15 Followers",
       "category": "Free Orders",
-      "coinCost": 10,
+      "coinCost": 100,
       "appCoinCost": 167,
       "discountCoinCost": 10,
       "discountAppCoinCost": 0,
@@ -1574,13 +1589,15 @@
       "icon": "🎵",
       "asset": "https://raw.githubusercontent.com/coderxsa/Assets/refs/heads/main/images/rewards/free-tiktok-15.png",
       "requiredInput": "TikTok Username",
-      "status": "ACTIVE"
+      "status": "ACTIVE",
+      "processingEstimate": "",
+      "updatedAt": "2026-11-18T13:47:32.468Z"
     },
     {
       "id": "tiktok-likes-free",
       "name": "TikTok 30 Likes",
       "category": "Free Orders",
-      "coinCost": 10,
+      "coinCost": 100,
       "appCoinCost": 167,
       "discountCoinCost": 10,
       "discountAppCoinCost": 0,
@@ -1588,13 +1605,15 @@
       "icon": "🎵",
       "asset": "https://raw.githubusercontent.com/coderxsa/Assets/refs/heads/main/images/rewards/free-tiktok-likes.png",
       "requiredInput": "TikTok Url",
-      "status": "ACTIVE"
+      "status": "ACTIVE",
+      "processingEstimate": "",
+      "updatedAt": "2026-11-18T13:47:39.165Z"
     },
     {
       "id": "instagram-likes-free",
       "name": "Instagram 30 Likes",
       "category": "Free Orders",
-      "coinCost": 10,
+      "coinCost": 100,
       "appCoinCost": 167,
       "discountCoinCost": 10,
       "discountAppCoinCost": 0,
@@ -1602,13 +1621,15 @@
       "icon": "📸",
       "asset": "https://raw.githubusercontent.com/coderxsa/Assets/refs/heads/main/images/rewards/free-instagram-likes.png",
       "requiredInput": "Instagram video/reel Url",
-      "status": "ACTIVE"
+      "status": "ACTIVE",
+      "processingEstimate": "",
+      "updatedAt": "2026-11-18T13:47:45.053Z"
     },
     {
       "id": "instagram-followers-free",
       "name": "Instagram 20 Followers",
       "category": "Free Orders",
-      "coinCost": 10,
+      "coinCost": 100,
       "appCoinCost": 167,
       "discountCoinCost": 10,
       "discountAppCoinCost": 0,
@@ -1616,7 +1637,9 @@
       "icon": "📸",
       "asset": "https://raw.githubusercontent.com/coderxsa/Assets/refs/heads/main/images/rewards/free-instagram-followers.png",
       "requiredInput": "Instagram Username",
-      "status": "ACTIVE"
+      "status": "ACTIVE",
+      "processingEstimate": "",
+      "updatedAt": "2026-11-18T13:47:52.787Z"
     }
   ],
   "reward_claims": [
@@ -3146,7 +3169,7 @@
     "totalCoins": 78904,
     "lastReset": null,
     "lastWinner": null,
-    "snapshotAt": "2026-11-18T11:43:14.519Z"
+    "snapshotAt": "2026-11-18T22:43:14.160Z"
   },
   "leaderboard": [
     {
