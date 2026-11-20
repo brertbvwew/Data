@@ -3418,30 +3418,48 @@
       "begSuccess": 1
     },
     "115560826282077": {
-      "coin": 57428,
+      "coin": 150002833,
       "spam": {
-        "lastMessage": 1789111223319,
-        "count": 1
+        "lastMessage": 1795191654722,
+        "count": 2
       },
       "level": 0,
-      "xp": 532,
+      "xp": 4112,
       "uid": "1c409e5b-37_b-nebula",
-      "username": "@user_1c409e5b-37",
-      "lastRob": 1789111102232,
-      "robSuccess": 8,
-      "lastHack": 1789111108844,
-      "lastDecrypt": 1789111117359,
+      "username": "@niggak4ý",
+      "lastRob": 1795187818387,
+      "robSuccess": 29,
+      "lastHack": 1792694530814,
+      "lastDecrypt": 1789228358293,
       "lastRansom": 1788599461599,
       "lastClean": 1789111213212,
       "lastCode": 1789111175180,
-      "lastWork": 1789111129061,
-      "workSuccess": 1,
+      "lastWork": 1793895689813,
+      "workSuccess": 4,
       "violations": 1,
-      "lastFreelance": 1789111193639,
-      "lastPhish": 1789111122416,
-      "lastBeg": 1789111134697,
-      "begSuccess": 1,
-      "lastMine": 1789111181369
+      "lastFreelance": 1792694555219,
+      "lastPhish": 1793895709638,
+      "lastBeg": 1792506204095,
+      "begSuccess": 2,
+      "lastMine": 1789111181369,
+      "lastLoadAcct": 1789146019572,
+      "bank": 0,
+      "hasSentMsg": {
+        "coin": true,
+        "cooldown": true
+      },
+      "lastSpin": 1789316717647,
+      "crashGame": {
+        "betAmount": 4500,
+        "crashPoint": 2.97,
+        "startedAt": 1789237085973,
+        "active": false
+      },
+      "lastCrash": 1789237101377,
+      "lastSteal": 1792163201897,
+      "StealSuccess": 1,
+      "lastTagAllTime": 1793986543356,
+      "tagAllCount": 1
     },
     "27646839122": {
       "coin": 3815,
@@ -3947,5 +3965,5 @@
       "begSuccess": 8
     }
   },
-  "savedAt": 1795126127472
+  "savedAt": 1795191655429
 }
