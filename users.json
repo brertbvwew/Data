@@ -3537,50 +3537,50 @@
       "avatarUrl": "https://i.pinimg.com/736x/70/dd/61/70dd612c65034b88ebf474a52ccc70c4.jpg"
     },
     "254511792803874": {
-      "coin": 7722654257,
-      "level": 2,
+      "coin": 7623635471,
+      "level": 3,
       "uid": "403e88-34_b-nebula",
       "username": "@RedlineRSA1",
       "spam": {
-        "lastMessage": 1795126126494,
+        "lastMessage": 1795279792568,
         "count": 1
       },
-      "xp": 14320,
+      "xp": 240,
       "hasSentMsg": {
         "coin": true,
         "cooldown": true,
         "banned": true
       },
-      "lastBlackjack": 1789910637642,
-      "lastSteal": 1795125957011,
-      "StealSuccess": 31,
-      "lastHack": 1795125953845,
-      "robSuccess": 155,
+      "lastBlackjack": 1795261282549,
+      "lastSteal": 1795261677398,
+      "StealSuccess": 33,
+      "lastHack": 1795260982520,
+      "robSuccess": 160,
       "lastFreelance": 1795125996969,
       "lastWork": 1795125975675,
       "workSuccess": 18,
-      "lastCode": 1795125981360,
-      "lastRob": 1791006813142,
+      "lastCode": 1795261070312,
+      "lastRob": 1795261684184,
       "lastRobBank": 1791006816828,
-      "lastBeg": 1795125960330,
-      "begSuccess": 25,
-      "lastMine": 1795125988892,
-      "lastPhish": 1795125968423,
+      "lastBeg": 1795261107301,
+      "begSuccess": 26,
+      "lastMine": 1795261066993,
+      "lastPhish": 1795260995178,
       "lastRepair": 1795126005105,
       "lastRansom": 1790274293950,
-      "lastDecrypt": 1795125965608,
-      "lastDeliver": 1795126011554,
-      "lastClean": 1790274279934,
+      "lastDecrypt": 1795260987919,
+      "lastDeliver": 1795261062369,
+      "lastClean": 1795261079052,
       "crashGame": {
         "betAmount": 5000,
-        "crashPoint": 1.24,
-        "startedAt": 1795126033720,
+        "crashPoint": 3.01,
+        "startedAt": 1795261118002,
         "active": false
       },
-      "lastCrash": 1795126068442,
+      "lastCrash": 1795261131141,
       "banned": false,
       "permanent": false,
-      "robbed": 1,
+      "robbed": 3,
       "bank": 0,
       "last_give_use": 1793558945335,
       "last_give_day": "Sun Nov 01 2026",
@@ -3588,16 +3588,63 @@
       "lastSpins": 1789907499383,
       "lastSpin": 1789910624197,
       "stocks": {
-        "nebula": 0,
-        "nebulaAvg": 0
+        "nebula": 100000,
+        "nebulaAvg": 1030,
+        "nebulaBoughtAt": 1795259732767
       },
       "lastClaim": {
-        "daily": 1790423913515
+        "daily": 1795261176826
       },
       "avatarUrl": "https://i.pinimg.com/736x/70/dd/61/70dd612c65034b88ebf474a52ccc70c4.jpg",
-      "lastSaveData": 1794636010627,
+      "lastSaveData": 1795126128652,
       "lastLoadAcct": 1793990177128,
-      "autolevelup": true
+      "autolevelup": true,
+      "shoob": {
+        "dust": 15,
+        "lastDaily": 1795261447934,
+        "dailyStreak": 1,
+        "luckBoost": {
+          "active": false
+        },
+        "cards": [
+          {
+            "id": "mwqce36q",
+            "tier": 1,
+            "title": "Unknown Card T1",
+            "url": null,
+            "series": "Unknown Series",
+            "strength": 2895,
+            "serial": null,
+            "rarityName": "Dust",
+            "tierName": "Common",
+            "color": "⬜",
+            "pulledAt": 1795261577873,
+            "inEscrow": false,
+            "onExpedition": false
+          },
+          {
+            "id": "mwqcf23u",
+            "tier": 1,
+            "title": "Unknown Card T1",
+            "url": null,
+            "series": "Unknown Series",
+            "strength": 1167,
+            "serial": null,
+            "rarityName": "Dust",
+            "tierName": "Common",
+            "color": "⬜",
+            "pulledAt": 1795261623196,
+            "inEscrow": false,
+            "onExpedition": false
+          }
+        ],
+        "questProgress": {
+          "pulls": 2
+        },
+        "lastPull": 1795261623196,
+        "pityCount": 2,
+        "totalPulls": 2
+      }
     },
     "66701597106413": {
       "coin": 1042691,
@@ -3965,5 +4012,5 @@
       "begSuccess": 8
     }
   },
-  "savedAt": 1795191655429
+  "savedAt": 1795279793222
 }
