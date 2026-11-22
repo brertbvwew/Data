@@ -1230,6 +1230,46 @@
         "profileArt": null
       },
       "lastActiveAt": "2026-11-15T11:12:04.287Z"
+    },
+    {
+      "id": "4af91c0e-bc0b-45c8-9c22-f2e74386de76",
+      "username": "intando.70",
+      "email": "mazotanaintando0@gmail.com",
+      "password": "Bhoawhh",
+      "passwordHash": null,
+      "role": "user",
+      "referralCode": "INTA-FFFY9",
+      "transferHash": "6IXUW3D",
+      "coins": 0,
+      "tickets": 0,
+      "totalReferrals": 0,
+      "monthlyReferrals": 0,
+      "hasRedeemedReferral": false,
+      "totalSpins": 0,
+      "lastSpinAt": null,
+      "lastCoinPurchaseAt": null,
+      "trophies": 0,
+      "banned": false,
+      "createdAt": "2026-11-21T22:43:56.588Z",
+      "currentStreak": 0,
+      "longestStreak": 0,
+      "lastClaimDate": null,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "lifetimeCoinsEarned": 0,
+      "lifetimeCoinsSpent": 0,
+      "level": 1,
+      "xp": 0,
+      "rewardCoins": 0,
+      "cosmetics": {
+        "frames": [],
+        "profileArt": []
+      },
+      "equippedCosmetics": {
+        "frame": null,
+        "profileArt": null
+      },
+      "lastActiveAt": "2026-11-21T22:44:24.474Z"
     }
   ],
   "transactions": [],
@@ -1297,7 +1337,14 @@
     }
   ],
   "withdrawal_requests": [],
-  "activity_logs": [],
+  "activity_logs": [
+    {
+      "type": "new_user",
+      "username": "intando.70",
+      "referredBy": null,
+      "ts": "2026-11-21T22:43:56.597Z"
+    }
+  ],
   "rewards": [
     {
       "id": "freefire-100",
@@ -3037,7 +3084,7 @@
     "jackpot": 0,
     "drawNumber": 2,
     "lastWinner": "匚尺乇卂ㄒㄖ尺",
-    "lastDrawAt": "2026-11-21T00:00:38.723Z",
+    "lastDrawAt": "2026-11-22T00:00:40.094Z",
     "lastDraw": {
       "drawNumber": 1,
       "winner": "匚尺乇卂ㄒㄖ尺",
@@ -3164,12 +3211,12 @@
     }
   ],
   "event_stats": {
-    "totalUsers": 29,
+    "totalUsers": 30,
     "totalTickets": 0,
     "totalCoins": 78904,
     "lastReset": null,
     "lastWinner": null,
-    "snapshotAt": "2026-11-21T16:43:14.604Z"
+    "snapshotAt": "2026-11-22T03:43:14.579Z"
   },
   "leaderboard": [
     {
@@ -4594,6 +4641,14 @@
       "timestamp": "2026-11-15T11:11:55.241Z",
       "userId": "09801952-94ab-41bd-9580-ad7eee8ccf0d",
       "username": "ditrillkash",
+      "referredBy": null
+    },
+    {
+      "id": "user_register_1795301036594",
+      "type": "user_register",
+      "timestamp": "2026-11-21T22:43:56.594Z",
+      "userId": "4af91c0e-bc0b-45c8-9c22-f2e74386de76",
+      "username": "intando.70",
       "referredBy": null
     }
   ]
