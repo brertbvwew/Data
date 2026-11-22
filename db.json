@@ -39,8 +39,8 @@
       },
       "cratesOpened": 0,
       "lastCoinPurchaseAt": "2026-10-08T12:27:31.647Z",
-      "lastActiveAt": "2026-11-21T11:14:33.005Z",
-      "lastLoginAt": "2026-11-21T11:14:33.005Z",
+      "lastActiveAt": "2026-11-22T14:00:08.965Z",
+      "lastLoginAt": "2026-11-22T14:00:08.965Z",
       "betaTestingOptInAt": "2026-11-06T13:45:56.444Z",
       "betaTestingOptIn": true,
       "updatedAt": "2026-11-06T13:45:56.444Z"
@@ -1240,7 +1240,7 @@
       "role": "user",
       "referralCode": "INTA-FFFY9",
       "transferHash": "6IXUW3D",
-      "coins": 0,
+      "coins": 100,
       "tickets": 0,
       "totalReferrals": 0,
       "monthlyReferrals": 0,
@@ -1251,15 +1251,15 @@
       "trophies": 0,
       "banned": false,
       "createdAt": "2026-11-21T22:43:56.588Z",
-      "currentStreak": 0,
-      "longestStreak": 0,
+      "currentStreak": 1,
+      "longestStreak": 1,
       "lastClaimDate": null,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "lifetimeCoinsEarned": 0,
+      "lifetimeCoinsEarned": 100,
       "lifetimeCoinsSpent": 0,
       "level": 1,
-      "xp": 0,
+      "xp": 25,
       "rewardCoins": 0,
       "cosmetics": {
         "frames": [],
@@ -1269,10 +1269,25 @@
         "frame": null,
         "profileArt": null
       },
-      "lastActiveAt": "2026-11-21T22:44:24.474Z"
+      "lastActiveAt": "2026-11-22T14:13:34.788Z",
+      "lastLoginAt": "2026-11-22T14:13:34.788Z"
     }
   ],
-  "transactions": [],
+  "transactions": [
+    {
+      "txId": "7e628c0e-2539-4bc0-a523-cc17841087bb",
+      "userId": "4af91c0e-bc0b-45c8-9c22-f2e74386de76",
+      "type": "CREDIT",
+      "currency": "coins",
+      "amount": 100,
+      "reason": "Daily Streak Bonus (Day 1)",
+      "referenceId": null,
+      "balanceBefore": 0,
+      "balanceAfter": 100,
+      "createdAt": "2026-11-22T14:15:51.140Z",
+      "recordedAt": "2026-11-22T14:15:51.142Z"
+    }
+  ],
   "coin_orders": [
     {
       "id": "COIN-F4378BF7",
@@ -1343,6 +1358,13 @@
       "username": "intando.70",
       "referredBy": null,
       "ts": "2026-11-21T22:43:56.597Z"
+    },
+    {
+      "type": "daily_bonus",
+      "username": "intando.70",
+      "coins": 100,
+      "streak": 1,
+      "ts": "2026-11-22T14:15:51.148Z"
     }
   ],
   "rewards": [
@@ -3065,6 +3087,12 @@
       "streak": 1,
       "lastClaimDate": "2026-10-16",
       "lastClaimAt": "2026-10-16T16:48:45.653Z"
+    },
+    {
+      "userId": "4af91c0e-bc0b-45c8-9c22-f2e74386de76",
+      "streak": 1,
+      "lastClaimDate": "2026-11-22",
+      "lastClaimAt": "2026-11-22T14:15:51.122Z"
     }
   ],
   "social_program_submissions": [],
@@ -3213,10 +3241,10 @@
   "event_stats": {
     "totalUsers": 30,
     "totalTickets": 0,
-    "totalCoins": 78904,
+    "totalCoins": 79004,
     "lastReset": null,
     "lastWinner": null,
-    "snapshotAt": "2026-11-22T03:43:14.579Z"
+    "snapshotAt": "2026-11-22T14:43:14.654Z"
   },
   "leaderboard": [
     {
