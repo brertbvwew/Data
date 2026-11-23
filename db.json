@@ -1146,8 +1146,8 @@
         "frame": null,
         "profileArt": null
       },
-      "lastActiveAt": "2026-11-10T14:51:20.925Z",
-      "lastLoginAt": "2026-11-10T14:51:20.925Z",
+      "lastActiveAt": "2026-11-23T20:15:50.590Z",
+      "lastLoginAt": "2026-11-23T20:15:50.590Z",
       "cratesOpened": 0
     },
     {
@@ -1273,21 +1273,7 @@
       "lastLoginAt": "2026-11-22T14:13:34.788Z"
     }
   ],
-  "transactions": [
-    {
-      "txId": "7e628c0e-2539-4bc0-a523-cc17841087bb",
-      "userId": "4af91c0e-bc0b-45c8-9c22-f2e74386de76",
-      "type": "CREDIT",
-      "currency": "coins",
-      "amount": 100,
-      "reason": "Daily Streak Bonus (Day 1)",
-      "referenceId": null,
-      "balanceBefore": 0,
-      "balanceAfter": 100,
-      "createdAt": "2026-11-22T14:15:51.140Z",
-      "recordedAt": "2026-11-22T14:15:51.142Z"
-    }
-  ],
+  "transactions": [],
   "coin_orders": [
     {
       "id": "COIN-F4378BF7",
@@ -1352,15 +1338,7 @@
     }
   ],
   "withdrawal_requests": [],
-  "activity_logs": [
-    {
-      "type": "daily_bonus",
-      "username": "intando.70",
-      "coins": 100,
-      "streak": 1,
-      "ts": "2026-11-22T14:15:51.148Z"
-    }
-  ],
+  "activity_logs": [],
   "rewards": [
     {
       "id": "freefire-100",
@@ -3238,7 +3216,7 @@
     "totalCoins": 79004,
     "lastReset": null,
     "lastWinner": null,
-    "snapshotAt": "2026-11-23T12:43:14.829Z"
+    "snapshotAt": "2026-11-23T23:43:14.618Z"
   },
   "leaderboard": [
     {
