@@ -39,8 +39,8 @@
       },
       "cratesOpened": 0,
       "lastCoinPurchaseAt": "2026-10-08T12:27:31.647Z",
-      "lastActiveAt": "2026-11-23T04:55:21.202Z",
-      "lastLoginAt": "2026-11-23T04:55:21.202Z",
+      "lastActiveAt": "2026-11-24T06:50:52.679Z",
+      "lastLoginAt": "2026-11-24T06:50:52.679Z",
       "betaTestingOptInAt": "2026-11-06T13:45:56.444Z",
       "betaTestingOptIn": true,
       "updatedAt": "2026-11-06T13:45:56.444Z"
@@ -3084,7 +3084,7 @@
     "jackpot": 0,
     "drawNumber": 2,
     "lastWinner": "匚尺乇卂ㄒㄖ尺",
-    "lastDrawAt": "2026-11-23T00:00:42.899Z",
+    "lastDrawAt": "2026-11-24T00:00:43.698Z",
     "lastDraw": {
       "drawNumber": 1,
       "winner": "匚尺乇卂ㄒㄖ尺",
@@ -3216,7 +3216,7 @@
     "totalCoins": 79004,
     "lastReset": null,
     "lastWinner": null,
-    "snapshotAt": "2026-11-23T23:43:14.618Z"
+    "snapshotAt": "2026-11-24T10:43:14.709Z"
   },
   "leaderboard": [
     {
