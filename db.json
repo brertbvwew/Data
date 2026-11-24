@@ -39,8 +39,8 @@
       },
       "cratesOpened": 0,
       "lastCoinPurchaseAt": "2026-10-08T12:27:31.647Z",
-      "lastActiveAt": "2026-11-24T06:50:52.679Z",
-      "lastLoginAt": "2026-11-24T06:50:52.679Z",
+      "lastActiveAt": "2026-11-24T16:53:57.264Z",
+      "lastLoginAt": "2026-11-24T16:53:57.264Z",
       "betaTestingOptInAt": "2026-11-06T13:45:56.444Z",
       "betaTestingOptIn": true,
       "updatedAt": "2026-11-06T13:45:56.444Z"
@@ -3216,7 +3216,7 @@
     "totalCoins": 79004,
     "lastReset": null,
     "lastWinner": null,
-    "snapshotAt": "2026-11-24T10:43:14.709Z"
+    "snapshotAt": "2026-11-24T21:43:14.306Z"
   },
   "leaderboard": [
     {
