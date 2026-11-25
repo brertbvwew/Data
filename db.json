@@ -39,8 +39,8 @@
       },
       "cratesOpened": 0,
       "lastCoinPurchaseAt": "2026-10-08T12:27:31.647Z",
-      "lastActiveAt": "2026-11-24T16:53:57.264Z",
-      "lastLoginAt": "2026-11-24T16:53:57.264Z",
+      "lastActiveAt": "2026-11-25T07:35:09.557Z",
+      "lastLoginAt": "2026-11-25T07:35:09.557Z",
       "betaTestingOptInAt": "2026-11-06T13:45:56.444Z",
       "betaTestingOptIn": true,
       "updatedAt": "2026-11-06T13:45:56.444Z"
@@ -1271,6 +1271,47 @@
       },
       "lastActiveAt": "2026-11-22T14:13:34.788Z",
       "lastLoginAt": "2026-11-22T14:13:34.788Z"
+    },
+    {
+      "id": "3dd2cbcb-7e18-425c-ab30-264223146e81",
+      "username": "tee",
+      "email": "hannahpris7@gmail.com",
+      "password": "334455pak",
+      "passwordHash": null,
+      "role": "user",
+      "referralCode": "TEE-OI549",
+      "transferHash": "US2DU52",
+      "coins": 0,
+      "tickets": 0,
+      "totalReferrals": 0,
+      "monthlyReferrals": 0,
+      "hasRedeemedReferral": false,
+      "totalSpins": 0,
+      "lastSpinAt": null,
+      "lastCoinPurchaseAt": null,
+      "trophies": 0,
+      "banned": false,
+      "createdAt": "2026-11-25T05:47:01.285Z",
+      "currentStreak": 0,
+      "longestStreak": 0,
+      "lastClaimDate": null,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "lifetimeCoinsEarned": 0,
+      "lifetimeCoinsSpent": 0,
+      "level": 1,
+      "xp": 0,
+      "rewardCoins": 0,
+      "cosmetics": {
+        "frames": [],
+        "profileArt": []
+      },
+      "equippedCosmetics": {
+        "frame": null,
+        "profileArt": null
+      },
+      "lastActiveAt": "2026-11-25T06:21:20.258Z",
+      "lastLoginAt": "2026-11-25T06:21:20.258Z"
     }
   ],
   "transactions": [],
@@ -1338,7 +1379,14 @@
     }
   ],
   "withdrawal_requests": [],
-  "activity_logs": [],
+  "activity_logs": [
+    {
+      "type": "new_user",
+      "username": "tee",
+      "referredBy": null,
+      "ts": "2026-11-25T05:47:01.293Z"
+    }
+  ],
   "rewards": [
     {
       "id": "freefire-100",
@@ -3084,7 +3132,7 @@
     "jackpot": 0,
     "drawNumber": 2,
     "lastWinner": "匚尺乇卂ㄒㄖ尺",
-    "lastDrawAt": "2026-11-24T00:00:43.698Z",
+    "lastDrawAt": "2026-11-25T00:00:45.199Z",
     "lastDraw": {
       "drawNumber": 1,
       "winner": "匚尺乇卂ㄒㄖ尺",
@@ -3211,12 +3259,12 @@
     }
   ],
   "event_stats": {
-    "totalUsers": 30,
+    "totalUsers": 31,
     "totalTickets": 0,
     "totalCoins": 79004,
     "lastReset": null,
     "lastWinner": null,
-    "snapshotAt": "2026-11-24T21:43:14.306Z"
+    "snapshotAt": "2026-11-25T08:43:14.407Z"
   },
   "leaderboard": [
     {
@@ -4649,6 +4697,14 @@
       "timestamp": "2026-11-21T22:43:56.594Z",
       "userId": "4af91c0e-bc0b-45c8-9c22-f2e74386de76",
       "username": "intando.70",
+      "referredBy": null
+    },
+    {
+      "id": "user_register_1795585621291",
+      "type": "user_register",
+      "timestamp": "2026-11-25T05:47:01.291Z",
+      "userId": "3dd2cbcb-7e18-425c-ab30-264223146e81",
+      "username": "tee",
       "referredBy": null
     }
   ]
