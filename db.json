@@ -39,8 +39,8 @@
       },
       "cratesOpened": 0,
       "lastCoinPurchaseAt": "2026-10-08T12:27:31.647Z",
-      "lastActiveAt": "2026-11-25T07:35:09.557Z",
-      "lastLoginAt": "2026-11-25T07:35:09.557Z",
+      "lastActiveAt": "2026-11-25T14:26:06.311Z",
+      "lastLoginAt": "2026-11-25T14:26:06.311Z",
       "betaTestingOptInAt": "2026-11-06T13:45:56.444Z",
       "betaTestingOptIn": true,
       "updatedAt": "2026-11-06T13:45:56.444Z"
@@ -74,7 +74,7 @@
       "lifetimeCoinsSpent": 250,
       "level": 2,
       "xp": 715,
-      "rewardCoins": 1780,
+      "rewardCoins": 1680,
       "cosmetics": {
         "frames": [],
         "profileArt": []
@@ -84,8 +84,8 @@
         "profileArt": null
       },
       "cratesOpened": 0,
-      "lastLoginAt": "2026-11-13T18:54:38.496Z",
-      "lastActiveAt": "2026-11-13T18:54:38.496Z"
+      "lastLoginAt": "2026-11-25T17:16:10.107Z",
+      "lastActiveAt": "2026-11-25T17:16:10.107Z"
     },
     {
       "id": "51378108-d6dd-46a4-9d88-d5112bfb73f0",
@@ -1314,7 +1314,21 @@
       "lastLoginAt": "2026-11-25T06:21:20.258Z"
     }
   ],
-  "transactions": [],
+  "transactions": [
+    {
+      "txId": "claim_f37cbcb5-80ed-4869-a4e4-2e7e19b0c0aa_instagram-followers-free_1795627061856",
+      "userId": "f37cbcb5-80ed-4869-a4e4-2e7e19b0c0aa",
+      "type": "DEBIT",
+      "currency": "rewardCoins",
+      "amount": 100,
+      "reason": "Reward Claim: Instagram 20 Followers",
+      "referenceId": "instagram-followers-free",
+      "balanceBefore": 1780,
+      "balanceAfter": 1680,
+      "createdAt": "2026-11-25T17:17:41.862Z",
+      "recordedAt": "2026-11-25T17:17:41.939Z"
+    }
+  ],
   "coin_orders": [
     {
       "id": "COIN-F4378BF7",
@@ -1385,6 +1399,15 @@
       "username": "tee",
       "referredBy": null,
       "ts": "2026-11-25T05:47:01.293Z"
+    },
+    {
+      "type": "reward_claim",
+      "userId": "f37cbcb5-80ed-4869-a4e4-2e7e19b0c0aa",
+      "username": "kaab0._",
+      "rewardName": "Instagram 20 Followers",
+      "cost": 100,
+      "ref": "#claim_1795627061942_orksf",
+      "ts": "2026-11-25T17:17:41.947Z"
     }
   ],
   "rewards": [
@@ -2035,6 +2058,23 @@
       "processingEstimate": "1-2 Days",
       "processedAt": "2026-11-15T06:48:47.201Z",
       "processedBy": "admin"
+    },
+    {
+      "id": "claim_1795627061943_j4s2g",
+      "status": "PENDING",
+      "createdAt": "2026-11-25T17:17:41.943Z",
+      "userId": "f37cbcb5-80ed-4869-a4e4-2e7e19b0c0aa",
+      "username": "kaab0._",
+      "rewardId": "instagram-followers-free",
+      "rewardName": "Instagram 20 Followers",
+      "title": "Instagram 20 Followers",
+      "referenceHash": "#claim_1795627061942_orksf",
+      "recipientId": "kaab0._",
+      "icon": "📸",
+      "coinCost": 100,
+      "voucherCode": "Pending Delivery...",
+      "idempotencyKey": "claim_f37cbcb5-80ed-4869-a4e4-2e7e19b0c0aa_instagram-followers-free_1795627061856",
+      "processingEstimate": "1-2 Days"
     }
   ],
   "achievements": [
@@ -3264,7 +3304,7 @@
     "totalCoins": 79004,
     "lastReset": null,
     "lastWinner": null,
-    "snapshotAt": "2026-11-25T08:43:14.407Z"
+    "snapshotAt": "2026-11-25T19:43:14.877Z"
   },
   "leaderboard": [
     {
