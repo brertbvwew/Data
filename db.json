@@ -1395,12 +1395,6 @@
   "withdrawal_requests": [],
   "activity_logs": [
     {
-      "type": "new_user",
-      "username": "tee",
-      "referredBy": null,
-      "ts": "2026-11-25T05:47:01.293Z"
-    },
-    {
       "type": "reward_claim",
       "userId": "f37cbcb5-80ed-4869-a4e4-2e7e19b0c0aa",
       "username": "kaab0._",
@@ -3172,7 +3166,7 @@
     "jackpot": 0,
     "drawNumber": 2,
     "lastWinner": "匚尺乇卂ㄒㄖ尺",
-    "lastDrawAt": "2026-11-25T00:00:45.199Z",
+    "lastDrawAt": "2026-11-26T00:00:48.411Z",
     "lastDraw": {
       "drawNumber": 1,
       "winner": "匚尺乇卂ㄒㄖ尺",
@@ -3304,7 +3298,7 @@
     "totalCoins": 79004,
     "lastReset": null,
     "lastWinner": null,
-    "snapshotAt": "2026-11-25T19:43:14.877Z"
+    "snapshotAt": "2026-11-26T06:43:14.369Z"
   },
   "leaderboard": [
     {
