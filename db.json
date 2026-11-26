@@ -39,8 +39,8 @@
       },
       "cratesOpened": 0,
       "lastCoinPurchaseAt": "2026-10-08T12:27:31.647Z",
-      "lastActiveAt": "2026-11-25T14:26:06.311Z",
-      "lastLoginAt": "2026-11-25T14:26:06.311Z",
+      "lastActiveAt": "2026-11-26T17:37:37.246Z",
+      "lastLoginAt": "2026-11-26T17:37:37.246Z",
       "betaTestingOptInAt": "2026-11-06T13:45:56.444Z",
       "betaTestingOptIn": true,
       "updatedAt": "2026-11-06T13:45:56.444Z"
@@ -74,7 +74,7 @@
       "lifetimeCoinsSpent": 250,
       "level": 2,
       "xp": 715,
-      "rewardCoins": 1680,
+      "rewardCoins": 1780,
       "cosmetics": {
         "frames": [],
         "profileArt": []
@@ -1316,17 +1316,17 @@
   ],
   "transactions": [
     {
-      "txId": "claim_f37cbcb5-80ed-4869-a4e4-2e7e19b0c0aa_instagram-followers-free_1795627061856",
+      "txId": "refund_claim_1795627061943_j4s2g",
       "userId": "f37cbcb5-80ed-4869-a4e4-2e7e19b0c0aa",
-      "type": "DEBIT",
+      "type": "CREDIT",
       "currency": "rewardCoins",
       "amount": 100,
-      "reason": "Reward Claim: Instagram 20 Followers",
-      "referenceId": "instagram-followers-free",
-      "balanceBefore": 1780,
-      "balanceAfter": 1680,
-      "createdAt": "2026-11-25T17:17:41.862Z",
-      "recordedAt": "2026-11-25T17:17:41.939Z"
+      "reason": "Refund: Reward Claim rejected (Instagram 20 Followers)",
+      "referenceId": "claim_1795627061943_j4s2g",
+      "balanceBefore": 1680,
+      "balanceAfter": 1780,
+      "createdAt": "2026-11-26T08:29:10.260Z",
+      "recordedAt": "2026-11-26T08:29:10.263Z"
     }
   ],
   "coin_orders": [
@@ -1393,17 +1393,7 @@
     }
   ],
   "withdrawal_requests": [],
-  "activity_logs": [
-    {
-      "type": "reward_claim",
-      "userId": "f37cbcb5-80ed-4869-a4e4-2e7e19b0c0aa",
-      "username": "kaab0._",
-      "rewardName": "Instagram 20 Followers",
-      "cost": 100,
-      "ref": "#claim_1795627061942_orksf",
-      "ts": "2026-11-25T17:17:41.947Z"
-    }
-  ],
+  "activity_logs": [],
   "rewards": [
     {
       "id": "freefire-100",
@@ -2055,7 +2045,7 @@
     },
     {
       "id": "claim_1795627061943_j4s2g",
-      "status": "PENDING",
+      "status": "REJECTED",
       "createdAt": "2026-11-25T17:17:41.943Z",
       "userId": "f37cbcb5-80ed-4869-a4e4-2e7e19b0c0aa",
       "username": "kaab0._",
@@ -2068,7 +2058,9 @@
       "coinCost": 100,
       "voucherCode": "Pending Delivery...",
       "idempotencyKey": "claim_f37cbcb5-80ed-4869-a4e4-2e7e19b0c0aa_instagram-followers-free_1795627061856",
-      "processingEstimate": "1-2 Days"
+      "processingEstimate": "1-2 Days",
+      "processedAt": "2026-11-26T08:29:10.237Z",
+      "processedBy": "admin"
     }
   ],
   "achievements": [
@@ -3298,7 +3290,7 @@
     "totalCoins": 79004,
     "lastReset": null,
     "lastWinner": null,
-    "snapshotAt": "2026-11-26T06:43:14.369Z"
+    "snapshotAt": "2026-11-26T17:43:14.441Z"
   },
   "leaderboard": [
     {
