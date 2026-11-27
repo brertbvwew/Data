@@ -39,8 +39,8 @@
       },
       "cratesOpened": 0,
       "lastCoinPurchaseAt": "2026-10-08T12:27:31.647Z",
-      "lastActiveAt": "2026-11-26T17:37:37.246Z",
-      "lastLoginAt": "2026-11-26T17:37:37.246Z",
+      "lastActiveAt": "2026-11-27T15:37:14.485Z",
+      "lastLoginAt": "2026-11-27T15:37:14.485Z",
       "betaTestingOptInAt": "2026-11-06T13:45:56.444Z",
       "betaTestingOptIn": true,
       "updatedAt": "2026-11-06T13:45:56.444Z"
@@ -1312,23 +1312,49 @@
       },
       "lastActiveAt": "2026-11-25T06:21:20.258Z",
       "lastLoginAt": "2026-11-25T06:21:20.258Z"
-    }
-  ],
-  "transactions": [
+    },
     {
-      "txId": "refund_claim_1795627061943_j4s2g",
-      "userId": "f37cbcb5-80ed-4869-a4e4-2e7e19b0c0aa",
-      "type": "CREDIT",
-      "currency": "rewardCoins",
-      "amount": 100,
-      "reason": "Refund: Reward Claim rejected (Instagram 20 Followers)",
-      "referenceId": "claim_1795627061943_j4s2g",
-      "balanceBefore": 1680,
-      "balanceAfter": 1780,
-      "createdAt": "2026-11-26T08:29:10.260Z",
-      "recordedAt": "2026-11-26T08:29:10.263Z"
+      "id": "2716ff57-272e-4e83-8eff-dd813cd5c875",
+      "username": "Disrespect",
+      "email": "mamachinedu67@gmail.com",
+      "password": "disrespect",
+      "passwordHash": null,
+      "role": "user",
+      "referralCode": "DISR-07U98",
+      "transferHash": "P9CABIS",
+      "coins": 0,
+      "tickets": 0,
+      "totalReferrals": 0,
+      "monthlyReferrals": 0,
+      "hasRedeemedReferral": false,
+      "totalSpins": 0,
+      "lastSpinAt": null,
+      "lastCoinPurchaseAt": null,
+      "trophies": 0,
+      "banned": false,
+      "createdAt": "2026-11-27T13:54:40.178Z",
+      "currentStreak": 0,
+      "longestStreak": 0,
+      "lastClaimDate": null,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "lifetimeCoinsEarned": 0,
+      "lifetimeCoinsSpent": 0,
+      "level": 1,
+      "xp": 0,
+      "rewardCoins": 0,
+      "cosmetics": {
+        "frames": [],
+        "profileArt": []
+      },
+      "equippedCosmetics": {
+        "frame": null,
+        "profileArt": null
+      },
+      "lastActiveAt": "2026-11-27T13:54:45.757Z"
     }
   ],
+  "transactions": [],
   "coin_orders": [
     {
       "id": "COIN-F4378BF7",
@@ -1393,7 +1419,14 @@
     }
   ],
   "withdrawal_requests": [],
-  "activity_logs": [],
+  "activity_logs": [
+    {
+      "type": "new_user",
+      "username": "Disrespect",
+      "referredBy": null,
+      "ts": "2026-11-27T13:54:40.245Z"
+    }
+  ],
   "rewards": [
     {
       "id": "freefire-100",
@@ -3285,12 +3318,12 @@
     }
   ],
   "event_stats": {
-    "totalUsers": 31,
+    "totalUsers": 32,
     "totalTickets": 0,
     "totalCoins": 79004,
     "lastReset": null,
     "lastWinner": null,
-    "snapshotAt": "2026-11-27T04:43:14.796Z"
+    "snapshotAt": "2026-11-27T15:43:14.533Z"
   },
   "leaderboard": [
     {
@@ -4731,6 +4764,14 @@
       "timestamp": "2026-11-25T05:47:01.291Z",
       "userId": "3dd2cbcb-7e18-425c-ab30-264223146e81",
       "username": "tee",
+      "referredBy": null
+    },
+    {
+      "id": "user_register_1795787680241",
+      "type": "user_register",
+      "timestamp": "2026-11-27T13:54:40.241Z",
+      "userId": "2716ff57-272e-4e83-8eff-dd813cd5c875",
+      "username": "Disrespect",
       "referredBy": null
     }
   ]
